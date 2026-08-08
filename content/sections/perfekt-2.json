@@ -1,0 +1,364 @@
+{
+  "id": "perfekt-2",
+  "level": "A2",
+  "title": "Das Perfekt 2",
+  "group": "Past Tense",
+  "sourceFile": "perfekt2.html",
+  "overviewSource": "perfektexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Common sein-verbs in Perfekt: gehen, kommen, fahren, fliegen, bleiben, werden. The participle agrees in number with the subject when using sein."
+      },
+      {
+        "type": "example",
+        "de": "Wir sind nach Hause gegangen.",
+        "note": "sein + gegangen"
+      },
+      {
+        "type": "example",
+        "de": "Sie ist krank geworden.",
+        "note": "werden → ist … geworden"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "perfekt2-A",
+      "type": "fill_blank",
+      "instructions": "Was ist das richtige Hilfsverb? Füllen Sie die Lücken mit den richtigen Formen von",
+      "items": [
+        {
+          "id": "perfekt2-A-1",
+          "prompt": "Tag, Hans! ___ ihr gestern Abend noch ins Kino gegangen?",
+          "promptParts": [
+            "Tag, Hans!",
+            "ihr gestern Abend noch ins Kino gegangen?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Seid"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "perfekt2-B",
+      "type": "fill_blank",
+      "instructions": "Rolf ist Student in Göttingen. Er erzählt seinem Freund Bernd, was er mit seinen Freunden am Wochenende gemacht hat. Füllen Sie die Lücken ein!",
+      "items": [
+        {
+          "id": "perfekt2-B-1",
+          "prompt": "Freitag ___ ich mit meinen Freunden bei McDonalds ___ (essen). Danach ___ wir im Kino einen Film ___ (sehen). Der Film ___ (sein) langweilig, aber danach ___ wir durch die Stadt ___ (spazieren gehen). Wir ___ viele Leute von der Uni ___ (treffen). Samstag ___ wir einen Bus ___ (nehmen). Wir ___ zu einem schönen Park ___ (fahren). Dort ___ wir durch das Gras ___ (laufen) und wir ___ über die Uni und die Professoren ___ (diskutieren). Sonntag ___ wir an einem See in Northeim ___ (reisen). Wir ___ etwas zu essen und zu trinken ___ (kaufen). Am See ___ wir ein Picknick ___ (machen). Wir ___ lange ___ (bleiben) und wir ___ spät nach Hause ___ (kommen). Wir ___ gar nicht ___ (studieren)!",
+          "promptParts": [
+            "Freitag",
+            "ich mit meinen Freunden bei McDonalds",
+            "(essen). Danach",
+            "wir im Kino einen Film",
+            "(sehen). Der Film",
+            "(sein) langweilig, aber danach",
+            "wir durch die Stadt",
+            "(spazieren gehen). Wir",
+            "viele Leute von der Uni",
+            "(treffen). Samstag",
+            "wir einen Bus",
+            "(nehmen). Wir",
+            "zu einem schönen Park",
+            "(fahren). Dort",
+            "wir durch das Gras",
+            "(laufen) und wir",
+            "über die Uni und die Professoren",
+            "(diskutieren). Sonntag",
+            "wir an einem See in Northeim",
+            "(reisen). Wir",
+            "etwas zu essen und zu trinken",
+            "(kaufen). Am See",
+            "wir ein Picknick",
+            "(machen). Wir",
+            "lange",
+            "(bleiben) und wir",
+            "spät nach Hause",
+            "(kommen). Wir",
+            "gar nicht",
+            "(studieren)!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "habe"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "gegessen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "haben"
+              ],
+              "hint": null
+            },
+            {
+              "index": 3,
+              "accept": [
+                "gesehen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 4,
+              "accept": [
+                "war"
+              ],
+              "hint": null
+            },
+            {
+              "index": 5,
+              "accept": [
+                "sind"
+              ],
+              "hint": null
+            },
+            {
+              "index": 6,
+              "accept": [
+                "spazieren gegangen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 7,
+              "accept": [
+                "haben"
+              ],
+              "hint": null
+            },
+            {
+              "index": 8,
+              "accept": [
+                "getroffen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 9,
+              "accept": [
+                "haben"
+              ],
+              "hint": null
+            },
+            {
+              "index": 10,
+              "accept": [
+                "genommen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 11,
+              "accept": [
+                "sind"
+              ],
+              "hint": null
+            },
+            {
+              "index": 12,
+              "accept": [
+                "gefahren"
+              ],
+              "hint": null
+            },
+            {
+              "index": 13,
+              "accept": [
+                "sind"
+              ],
+              "hint": null
+            },
+            {
+              "index": 14,
+              "accept": [
+                "gelaufen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 15,
+              "accept": [
+                "haben"
+              ],
+              "hint": null
+            },
+            {
+              "index": 16,
+              "accept": [
+                "diskutiert"
+              ],
+              "hint": null
+            },
+            {
+              "index": 17,
+              "accept": [
+                "sind"
+              ],
+              "hint": null
+            },
+            {
+              "index": 18,
+              "accept": [
+                "gereist"
+              ],
+              "hint": null
+            },
+            {
+              "index": 19,
+              "accept": [
+                "haben"
+              ],
+              "hint": null
+            },
+            {
+              "index": 20,
+              "accept": [
+                "gekauft"
+              ],
+              "hint": null
+            },
+            {
+              "index": 21,
+              "accept": [
+                "haben"
+              ],
+              "hint": null
+            },
+            {
+              "index": 22,
+              "accept": [
+                "gemacht"
+              ],
+              "hint": null
+            },
+            {
+              "index": 23,
+              "accept": [
+                "sind"
+              ],
+              "hint": null
+            },
+            {
+              "index": 24,
+              "accept": [
+                "geblieben"
+              ],
+              "hint": null
+            },
+            {
+              "index": 25,
+              "accept": [
+                "sind"
+              ],
+              "hint": null
+            },
+            {
+              "index": 26,
+              "accept": [
+                "gekommen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 27,
+              "accept": [
+                "haben"
+              ],
+              "hint": null
+            },
+            {
+              "index": 28,
+              "accept": [
+                "studiert"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "perfekt2-E",
+      "type": "fill_blank",
+      "instructions": "Martin und Claudia haben sich verliebt. Was machen sie jetzt? Schreiben Sie ein Ende zu der Geschichte: was haben Claudia und Martin dann gemacht? Haben sie geheiratet, oder haben sie sich getrennt? Benutzen Sie Wörter aus der Liste.",
+      "items": [
+        {
+          "id": "perfekt2-E-1",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Martin und Claudia haben geküsst, und sie haben auch geschmust. Martin hat Claudia gefragt: »Möchtest du mich heiraten?« Aber sie hat nein gesagt! Sie hat gesagt, dass es zu früh war. Später ist Martin bei Claudia eingezogen, und sie haben zwei Jahre zusammengelebt. Endlich haben sie geheiratet, und sie haben glücklich zusammengelebt."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "perfekt2-F",
+      "type": "fill_blank",
+      "instructions": "Was hast du am Wochenende gemacht? Bist du auf eine Party gegangen? Hast du ein Kostüm getragen? Warst du auf State Street? Schreib 5-7 Sätze über dein Wochenende.",
+      "items": [
+        {
+          "id": "perfekt2-F-1",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich bin nicht auf State Street gegangen. Ich bin zu Hause geblieben. Ich habe einige Freunde angerufen, und sie sind später vorbeigekommen. Wir haben Wein getrunken und Kekse gegessen. Wir haben ferngesehen, und wir haben ein bisschen Musik gehört. Später sind meine Freunde nach Hause gegangen, und ich bin ins Bett gegangen. Am Sonntag habe ich gearbeitet und gelesen, und ich habe auch ein bisschen ferngesehen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        }
+      ]
+    }
+  ]
+}

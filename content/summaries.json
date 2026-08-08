@@ -1,0 +1,683 @@
+{
+  "nominative-accusative": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "German nouns change form depending on their role in the sentence. At A1 level we focus on nominative (subject) and accusative (direct object)."
+      },
+      {
+        "type": "heading",
+        "content": "Nominative — the subject"
+      },
+      {
+        "type": "paragraph",
+        "content": "The subject performs the action. Ask: \"Who or what is doing the verb?\" Nouns after sein (to be) are also nominative."
+      },
+      {
+        "type": "example",
+        "de": "Der Tisch ist braun.",
+        "note": "Der Tisch = subject (nominative)"
+      },
+      {
+        "type": "heading",
+        "content": "Accusative — the direct object"
+      },
+      {
+        "type": "paragraph",
+        "content": "The direct object receives the action. Ask: \"Who or what is being verbed?\" Only masculine articles change: der → den, ein → einen."
+      },
+      {
+        "type": "example",
+        "de": "Ich sehe den Tisch.",
+        "note": "den Tisch = direct object (accusative masculine)"
+      },
+      {
+        "type": "example",
+        "de": "Er hat ein Buch.",
+        "note": "Er = subject · ein Buch = object (neuter, no change)"
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          ["", "Nominative", "Accusative"],
+          ["Masc.", "der / ein", "den / einen"],
+          ["Fem.", "die / eine", "die / eine"],
+          ["Neut.", "das / ein", "das / ein"],
+          ["Plural", "die / keine", "die / keine"]
+        ]
+      },
+      {
+        "type": "list",
+        "content": "Nominative: subjects; after sein\nAccusative: direct objects; after accusative prepositions (durch, für, ohne…)"
+      }
+    ]
+  },
+  "accusative-pronouns": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Personal pronouns also change in the accusative case. Only ich → mich and du → dich change among the singular pronouns you use most at A1."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          ["", "Nom.", "Acc."],
+          ["ich", "ich", "mich"],
+          ["du", "du", "dich"],
+          ["er/sie/es", "er/sie/es", "ihn/sie/es"],
+          ["wir", "wir", "uns"],
+          ["ihr", "ihr", "euch"],
+          ["sie/Sie", "sie/Sie", "sie/Sie"]
+        ]
+      },
+      {
+        "type": "example",
+        "de": "Siehst du mich?",
+        "note": "mich = accusative of ich"
+      },
+      {
+        "type": "example",
+        "de": "Ich liebe dich.",
+        "note": "dich = accusative of du"
+      }
+    ]
+  },
+  "accusative-prepositions": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "These prepositions always take the accusative case. The noun that follows must be in accusative form."
+      },
+      {
+        "type": "list",
+        "content": "durch (through)\nfür (for)\ngegen (against)\nohne (without)\num (around, at [time])\nentlang (along — follows the noun)"
+      },
+      {
+        "type": "example",
+        "de": "Das Geschenk ist für den Mann.",
+        "note": "für + accusative → den Mann"
+      },
+      {
+        "type": "example",
+        "de": "Wir fahren durch die Stadt.",
+        "note": "durch + accusative → die Stadt"
+      }
+    ]
+  },
+  "sein-heissen": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Sein (to be) and heißen (to be called) are irregular but essential from day one."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          ["", "sein", "heißen"],
+          ["ich", "bin", "heiße"],
+          ["du", "bist", "heißt"],
+          ["er/sie/es", "ist", "heißt"],
+          ["wir", "sind", "heißen"],
+          ["ihr", "seid", "heißt"],
+          ["sie/Sie", "sind", "heißen"]
+        ]
+      },
+      {
+        "type": "example",
+        "de": "Ich bin Student. Ich heiße Anna.",
+        "note": "Use sein for identity/ origin; heißen for your name"
+      }
+    ]
+  },
+  "modal-verbs": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Modal verbs express ability, permission, obligation, or desire. The main verb goes to the end in infinitive form."
+      },
+      {
+        "type": "list",
+        "content": "können (can)\nmüssen (must)\nwollen (want to)\ndürfen (may)\nsollen (should)"
+      },
+      {
+        "type": "example",
+        "de": "Ich kann Deutsch sprechen.",
+        "note": "modal + infinitive at end"
+      },
+      {
+        "type": "example",
+        "de": "Du musst heute lernen.",
+        "note": "müssen + infinitive"
+      }
+    ]
+  },
+  "stem-changing-verbs": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Some verbs change their stem vowel in the du and er/sie/es forms (and du-form only for some). The pattern is fixed per verb — learn them with the infinitive."
+      },
+      {
+        "type": "list",
+        "content": "e → i: geben → du gibst\ne → ie: sehen → du siehst\na → ä: fahren → du fährst"
+      },
+      {
+        "type": "example",
+        "de": "Er gibt mir das Buch.",
+        "note": "geben → er gibt (not gibt)"
+      }
+    ]
+  },
+  "verbs-articles-negation": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Negate verbs with nicht (not the verb itself). Negate nouns with kein (not a/ no + noun) — kein declines like ein."
+      },
+      {
+        "type": "example",
+        "de": "Ich trinke nicht Kaffee. / Ich trinke keinen Kaffee.",
+        "note": "nicht = general negation · kein = \"no/not a\" + noun"
+      },
+      {
+        "type": "example",
+        "de": "Das ist kein Problem.",
+        "note": "kein + nominative neuter"
+      }
+    ]
+  },
+  "introductions": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Basic phrases for meeting people. Formal situations use Sie; friends and peers use du."
+      },
+      {
+        "type": "list",
+        "content": "Guten Tag! — Good day\nWie heißen Sie? / Wie heißt du? — What's your name?\nIch heiße … — My name is …\nWoher kommen Sie? — Where are you from?\nFreut mich. — Nice to meet you."
+      },
+      {
+        "type": "example",
+        "de": "Guten Tag! Ich heiße Maria. Woher kommen Sie?",
+        "note": "formal introduction"
+      }
+    ]
+  },
+  "pronouns-questions": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Question words (W-words) come first, then the verb (V2 rule). Yes/no questions start with the verb."
+      },
+      {
+        "type": "list",
+        "content": "wer — who\nwas — what\nwo — where\nwann — when\nwarum — why\nwie — how\nwoher — from where\nwohin — to where"
+      },
+      {
+        "type": "example",
+        "de": "Wo wohnst du?",
+        "note": "W-word + verb + subject"
+      },
+      {
+        "type": "example",
+        "de": "Kommst du morgen?",
+        "note": "yes/no: verb first"
+      }
+    ]
+  },
+  "imperative-modals-prepositions": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "The imperative gives commands. Du-form often drops the -st ending; Sie-form uses the infinitive + Sie."
+      },
+      {
+        "type": "list",
+        "content": "Komm! / Kommen Sie! — Come!\nLies! / Lesen Sie! — Read!\nSeid leise! — Be quiet! (ihr-form)"
+      },
+      {
+        "type": "example",
+        "de": "Gehen Sie bitte nach links.",
+        "note": "formal imperative"
+      }
+    ]
+  },
+  "dative": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "The dative case marks the indirect object — the recipient or beneficiary. Ask: \"To/for whom?\" Masculine and neuter articles become dem; feminine die → der; plural die → den (+ n on noun sometimes)."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          ["", "Nom.", "Dat."],
+          ["Masc.", "der / ein", "dem / einem"],
+          ["Fem.", "die / eine", "der / einer"],
+          ["Neut.", "das / ein", "dem / einem"],
+          ["Plural", "die", "den (+n)"]
+        ]
+      },
+      {
+        "type": "example",
+        "de": "Ich gebe dem Mann das Buch.",
+        "note": "dem Mann = dative indirect object"
+      },
+      {
+        "type": "example",
+        "de": "Das Buch gehört der Frau.",
+        "note": "der Frau = dative after gehören"
+      }
+    ]
+  },
+  "dative-verbs": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Certain verbs always take a dative object (no accusative). Learn them as chunks."
+      },
+      {
+        "type": "list",
+        "content": "helfen (+ dat.) — to help\ngehören (+ dat.) — to belong to\ndanken (+ dat.) — to thank\ngefallen (+ dat.) — to please\nantworten (+ dat.) — to answer"
+      },
+      {
+        "type": "example",
+        "de": "Ich helfe dem Kind.",
+        "note": "helfen always + dative"
+      }
+    ]
+  },
+  "cases-review": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Quick reference for the three cases at A2 level."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          ["Case", "Role", "Example"],
+          ["Nominative", "subject", "Der Mann liest."],
+          ["Accusative", "direct object", "Ich sehe den Mann."],
+          ["Dative", "indirect object", "Ich gebe dem Mann das Buch."]
+        ]
+      },
+      {
+        "type": "example",
+        "de": "Die Frau gibt dem Kind einen Apfel.",
+        "note": "Die Frau (nom.) · dem Kind (dat.) · einen Apfel (acc.)"
+      }
+    ]
+  },
+  "dative-der-words": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Der-words (dieser, jeder, welcher, mancher…) and ein-words (mein, dein, kein…) decline like articles in each case."
+      },
+      {
+        "type": "example",
+        "de": "Ich kaufe meinem Bruder ein Geschenk.",
+        "note": "meinem = dative masculine of mein"
+      }
+    ]
+  },
+  "two-way-prepositions-1": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Wechselpräpositionen (two-way prepositions) take accusative for movement (wohin?) or dative for location (wo?)."
+      },
+      {
+        "type": "list",
+        "content": "an, auf, hinter, in, neben, über, unter, vor, zwischen"
+      },
+      {
+        "type": "example",
+        "de": "Ich gehe in die Schule.",
+        "note": "movement → accusative (die Schule)"
+      },
+      {
+        "type": "example",
+        "de": "Ich bin in der Schule.",
+        "note": "location → dative (der Schule)"
+      }
+    ]
+  },
+  "two-way-prepositions-2": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "More practice with the wohin/wo distinction. Movement = accusative; static position = dative."
+      },
+      {
+        "type": "example",
+        "de": "Sie stellt die Vase auf den Tisch.",
+        "note": "onto → accusative (den Tisch)"
+      },
+      {
+        "type": "example",
+        "de": "Die Vase steht auf dem Tisch.",
+        "note": "on → dative (dem Tisch)"
+      }
+    ]
+  },
+  "two-way-prepositions-3": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Combined contexts: describe where something is and where it is going using the same preposition with different cases."
+      },
+      {
+        "type": "example",
+        "de": "Das Bild hängt an der Wand. / Ich hänge das Bild an die Wand.",
+        "note": "an der Wand (dat.) · an die Wand (acc.)"
+      }
+    ]
+  },
+  "word-order-prepositions": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Time-Manner-Place (Te-Ka-Mo): temporal, then manner, then place. In main clauses the conjugated verb stays in position 2."
+      },
+      {
+        "type": "example",
+        "de": "Ich fahre heute mit dem Bus nach Berlin.",
+        "note": "heute (time) · mit dem Bus (manner) · nach Berlin (place)"
+      }
+    ]
+  },
+  "perfekt-1": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "The Perfekt (spoken past) = haben or sein + past participle (Partizip II). Most verbs use haben; movement/change-of-state verbs use sein."
+      },
+      {
+        "type": "list",
+        "content": "Regular: ge- + stem + -t (gemacht, gespielt)\nIrregular: ge- + changed stem + -en (gesehen, gegangen)\nSeparable: prefix stays before ge- (eingekauft)"
+      },
+      {
+        "type": "example",
+        "de": "Ich habe gestern Fußball gespielt.",
+        "note": "haben + Partizip II at end"
+      }
+    ]
+  },
+  "perfekt-2": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Common sein-verbs in Perfekt: gehen, kommen, fahren, fliegen, bleiben, werden. The participle agrees in number with the subject when using sein."
+      },
+      {
+        "type": "example",
+        "de": "Wir sind nach Hause gegangen.",
+        "note": "sein + gegangen"
+      },
+      {
+        "type": "example",
+        "de": "Sie ist krank geworden.",
+        "note": "werden → ist … geworden"
+      }
+    ]
+  },
+  "praeteritum-1": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Präteritum is the written/narrative past. At A2, focus on sein, haben, and modal verbs — they are used more in Präteritum than in speech."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          ["", "sein", "haben"],
+          ["ich", "war", "hatte"],
+          ["du", "warst", "hattest"],
+          ["er/sie/es", "war", "hatte"],
+          ["wir", "waren", "hatten"]
+        ]
+      },
+      {
+        "type": "example",
+        "de": "Es war kalt und ich hatte keine Zeit.",
+        "note": "Präteritum in narration"
+      }
+    ]
+  },
+  "praeteritum-2": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Weak (regular) verbs add -te endings: machen → machte. Strong verbs change the stem: gehen → ging, sehen → sah."
+      },
+      {
+        "type": "example",
+        "de": "Er ging ins Kino und kaufte Popcorn.",
+        "note": "strong + weak verb in Präteritum"
+      }
+    ]
+  },
+  "reflexive-verbs-1": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Reflexive verbs use a reflexive pronoun (mich, dich, sich…) that refers back to the subject. Many daily-routine verbs are reflexive."
+      },
+      {
+        "type": "list",
+        "content": "sich waschen — to wash (oneself)\nsich anziehen — to get dressed\nsich freuen — to be glad\nsich interessieren — to be interested"
+      },
+      {
+        "type": "example",
+        "de": "Ich wasche mich. / Du wäschst dich.",
+        "note": "reflexive pronoun matches subject"
+      }
+    ]
+  },
+  "reflexive-verbs-2": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Some reflexive verbs take an optional dative object. Accusative reflexive is most common at A2."
+      },
+      {
+        "type": "example",
+        "de": "Ich freue mich auf das Wochenende.",
+        "note": "sich freuen auf + accusative"
+      }
+    ]
+  },
+  "separable-prefixes": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Separable prefixes (an-, auf-, ein-, mit-, vor-…) detach and move to the end in main clauses."
+      },
+      {
+        "type": "example",
+        "de": "Ich stehe um sieben Uhr auf.",
+        "note": "aufstehen → stehe … auf"
+      },
+      {
+        "type": "example",
+        "de": "Er ruft seine Mutter an.",
+        "note": "anrufen → ruft … an"
+      }
+    ]
+  },
+  "werden": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Werden means \"to become\" and is also used as a helper for Futur I and passive (later levels)."
+      },
+      {
+        "type": "example",
+        "de": "Er wird Arzt.",
+        "note": "werden + noun (no article) = become"
+      },
+      {
+        "type": "example",
+        "de": "Es wird kalt.",
+        "note": "werden + adjective"
+      }
+    ]
+  },
+  "word-order-conjunctions": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Coordinating conjunctions (und, aber, oder, denn, sondern) do not change word order. Subordinating conjunctions (weil, dass, wenn, ob…) send the conjugated verb to the end."
+      },
+      {
+        "type": "example",
+        "de": "Ich lerne, weil ich die Prüfung bestehen will.",
+        "note": "weil … verb at end (bestehen will)"
+      },
+      {
+        "type": "example",
+        "de": "Ich lerne, aber er schläft.",
+        "note": "aber — verb stays in position 2"
+      }
+    ]
+  },
+  "conjunctions": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Common subordinating conjunctions: weil (because), dass (that), wenn (if/when), ob (whether), als (when in past)."
+      },
+      {
+        "type": "example",
+        "de": "Er sagt, dass er müde ist.",
+        "note": "dass … ist at end"
+      }
+    ]
+  },
+  "time-expressions": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Time expressions often come early in the sentence (after the verb or in position 1). Use accusative for definite time spans, dative for dates and seasons in some contexts."
+      },
+      {
+        "type": "example",
+        "de": "Am Montag gehe ich ins Kino.",
+        "note": "am = an + dem (dative)"
+      },
+      {
+        "type": "example",
+        "de": "Jeden Tag lerne ich Deutsch.",
+        "note": "jeden Tag = accusative time expression"
+      }
+    ]
+  },
+  "possessives-conjunctions": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Possessive articles (mein, dein, sein, ihr, unser, euer) decline like ein in all cases."
+      },
+      {
+        "type": "example",
+        "de": "Das ist mein Bruder. / Ich sehe meinen Bruder.",
+        "note": "mein (nom.) · meinen (acc. masc.)"
+      }
+    ]
+  },
+  "comparatives-1": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Comparative: adjective + -er. Superlative: am … -sten or der/die/das … -ste. Umlaut often appears on a/o/u in one-syllable adjectives."
+      },
+      {
+        "type": "list",
+        "content": "groß → größer → am größten\ngut → besser → am besten\nviel → mehr → am meisten"
+      },
+      {
+        "type": "example",
+        "de": "Berlin ist größer als München.",
+        "note": "comparative + als"
+      }
+    ]
+  },
+  "comparatives-2": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Use superlative to express the highest degree. Predicate superlative uses am + -sten; attributive uses der/die/das + -ste."
+      },
+      {
+        "type": "example",
+        "de": "Das ist das schönste Buch.",
+        "note": "attributive superlative"
+      }
+    ]
+  },
+  "adjective-endings-1": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Attributive adjectives (before a noun) take endings based on the preceding article. Strong declension: no article → more endings. Weak: after der/die/das → mostly -e/-en."
+      },
+      {
+        "type": "example",
+        "de": "Deutsches Brot schmeckt gut.",
+        "note": "no article → strong ending -es"
+      },
+      {
+        "type": "example",
+        "de": "Das deutsche Brot schmeckt gut.",
+        "note": "after das → weak ending -e"
+      }
+    ]
+  },
+  "adjective-endings-2": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "After ein-words (ein, kein, mein…) use mixed declension — the article shows gender/case, the adjective takes a simpler ending."
+      },
+      {
+        "type": "example",
+        "de": "Ich habe einen guten Freund.",
+        "note": "ein-word + mixed ending -en (acc. masc.)"
+      }
+    ]
+  },
+  "adjective-endings-3": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Plural adjectives after der/die: always -en in weak declension."
+      },
+      {
+        "type": "example",
+        "de": "Die kleinen Kinder spielen draußen.",
+        "note": "plural weak ending -en"
+      }
+    ]
+  },
+  "adjective-endings-4": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Use the four-question flowchart: (1) article present? (2) in default form? (3) singular? (4) does article show gender? — to pick the correct ending."
+      },
+      {
+        "type": "example",
+        "de": "Mit unserem alten Auto fahren wir nach Wien.",
+        "note": "unser- + dative ending on adjective and article"
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "id": "introductions",
+  "level": "A1",
+  "title": "Stellen Sie sich vor!",
+  "group": "Basics",
+  "sourceFile": "vorstellen.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Basic phrases for meeting people. Formal situations use Sie; friends and peers use du."
+      },
+      {
+        "type": "list",
+        "content": "Guten Tag! — Good day\nWie heißen Sie? / Wie heißt du? — What's your name?\nIch heiße … — My name is …\nWoher kommen Sie? — Where are you from?\nFreut mich. — Nice to meet you."
+      },
+      {
+        "type": "example",
+        "de": "Guten Tag! Ich heiße Maria. Woher kommen Sie?",
+        "note": "formal introduction"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vorstellen-A",
+      "type": "fill_blank",
+      "instructions": "Answer the following questions in complete German sentences. Please write out numbers as words, for practice.",
+      "items": [
+        {
+          "id": "vorstellen-A-1",
+          "prompt": "Wie heißt du? → ___",
+          "promptParts": [
+            "Wie heißt du? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich heiße Nancy."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "vorstellen-A-2",
+          "prompt": "Woher kommst du? → ___",
+          "promptParts": [
+            "Woher kommst du? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich komme aus San Diego."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "vorstellen-A-3",
+          "prompt": "Wie alt bist du? → ___",
+          "promptParts": [
+            "Wie alt bist du? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich bin einunddreißig Jahre alt."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "vorstellen-A-4",
+          "prompt": "Bist du Student oder Studentin hier? → ___",
+          "promptParts": [
+            "Bist du Student oder Studentin hier? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ja, ich bin Studentin hier."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "vorstellen-A-5",
+          "prompt": "Was ist deine Telefonnummer? → ___",
+          "promptParts": [
+            "Was ist deine Telefonnummer? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Meine Telefonnummer ist zwei-sechs-drei-zwei-fünf-neun-null."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vorstellen-B",
+      "type": "fill_blank",
+      "instructions": "Solve the math problems given. Please spell out the numbers, for practice.",
+      "items": [
+        {
+          "id": "vorstellen-B-1",
+          "prompt": "vier plus fünf macht ___",
+          "promptParts": [
+            "vier plus fünf macht",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "neun."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "vorstellen-B-2",
+          "prompt": "acht minus zwei macht ___",
+          "promptParts": [
+            "acht minus zwei macht",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sechs."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "vorstellen-B-3",
+          "prompt": "sieben mal (=times) drei macht ___",
+          "promptParts": [
+            "sieben mal (=times) drei macht",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "einundzwanzig."
+              ],
+              "hint": "=times"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "vorstellen-B-4",
+          "prompt": "zwölf plus vier macht ___",
+          "promptParts": [
+            "zwölf plus vier macht",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sechzehn."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "vorstellen-B-5",
+          "prompt": "neununddreißig plus elf macht ___",
+          "promptParts": [
+            "neununddreißig plus elf macht",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "fünfzig."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "vorstellen-B-6",
+          "prompt": "achtzig minus siebzehn macht ___",
+          "promptParts": [
+            "achtzig minus siebzehn macht",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dreiundsechzig."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "vorstellen-B-7",
+          "prompt": "hundertelf plus vierundsechzig macht ___",
+          "promptParts": [
+            "hundertelf plus vierundsechzig macht",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "hundertfünfundsiebzig."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "vorstellen-B-8",
+          "prompt": "tausendsechshundertdrei plus hundertzweiundzwanzig macht ___",
+          "promptParts": [
+            "tausendsechshundertdrei plus hundertzweiundzwanzig macht",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "tausendsiebenhundertfünfundzwanzig (oder: siebzehnhundertfünfunfzwanzig)."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    }
+  ]
+}

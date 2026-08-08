@@ -1,0 +1,506 @@
+{
+  "id": "conjunctions",
+  "level": "A2",
+  "title": "Konjunktionen und Als-Wenn-Wann-Ob",
+  "group": "Word Order",
+  "sourceFile": "konjunktionen.html",
+  "overviewSource": "konjunktionenexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Common subordinating conjunctions: weil (because), dass (that), wenn (if/when), ob (whether), als (when in past)."
+      },
+      {
+        "type": "example",
+        "de": "Er sagt, dass er müde ist.",
+        "note": "dass … ist at end"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "konjunktionen-A",
+      "type": "fill_blank",
+      "instructions": "Write the correct word in each blank. (A few may have two possible right answers.)",
+      "items": [
+        {
+          "id": "konjunktionen-A-1",
+          "prompt": "___ hast du Geburtstag?",
+          "promptParts": [
+            "",
+            "hast du Geburtstag?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wann"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-2",
+          "prompt": "Ich gehe spazieren, ___ ich Zeit habe.",
+          "promptParts": [
+            "Ich gehe spazieren,",
+            "ich Zeit habe."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wenn"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-3",
+          "prompt": "Ich weiß nicht, ___ eure Eltern ankommen.",
+          "promptParts": [
+            "Ich weiß nicht,",
+            "eure Eltern ankommen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wann"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-4",
+          "prompt": "___ wir Deutsch lernen, macht es uns viel Spaß!",
+          "promptParts": [
+            "",
+            "wir Deutsch lernen, macht es uns viel Spaß!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wenn"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-5",
+          "prompt": "Ich möchte herausfinden, ___ sie verheiratet ist.",
+          "promptParts": [
+            "Ich möchte herausfinden,",
+            "sie verheiratet ist."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ob"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-6",
+          "prompt": "Wir sollen den Lehrer fragen, ___ die nächste Prüfung sein wird.",
+          "promptParts": [
+            "Wir sollen den Lehrer fragen,",
+            "die nächste Prüfung sein wird."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wann"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-7",
+          "prompt": "Ich möchte wissen, ___ das Examen heute oder morgen ist.",
+          "promptParts": [
+            "Ich möchte wissen,",
+            "das Examen heute oder morgen ist."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ob"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-8",
+          "prompt": "Weißt du, ___ es jetzt im Kino etwas Interessantes gibt?",
+          "promptParts": [
+            "Weißt du,",
+            "es jetzt im Kino etwas Interessantes gibt?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ob"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-9",
+          "prompt": "___ er 18 Jahre alt war, hatte er einen Autounfall.",
+          "promptParts": [
+            "",
+            "er 18 Jahre alt war, hatte er einen Autounfall."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Als"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-10",
+          "prompt": "___ wir fahren, sind wir immer extrem vorsichtig.",
+          "promptParts": [
+            "",
+            "wir fahren, sind wir immer extrem vorsichtig."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wenn"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-11",
+          "prompt": "Jedes Mal, ___ ich nach Hause kam, hat mein Hund sehr laut gebrüllt.",
+          "promptParts": [
+            "Jedes Mal,",
+            "ich nach Hause kam, hat mein Hund sehr laut gebrüllt."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wenn"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-12",
+          "prompt": "Er trinkt immer Bier, ___ er Durst hat.",
+          "promptParts": [
+            "Er trinkt immer Bier,",
+            "er Durst hat."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wenn"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-13",
+          "prompt": "___ es regnet, fahre ich mit dem Bus.",
+          "promptParts": [
+            "",
+            "es regnet, fahre ich mit dem Bus."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wenn"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-14",
+          "prompt": "Hat er gesagt, ___ er nach Hause kommt?",
+          "promptParts": [
+            "Hat er gesagt,",
+            "er nach Hause kommt?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wann (ob)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-15",
+          "prompt": "___ ich in Deutschland war, habe ich sehr viel gelernt.",
+          "promptParts": [
+            "",
+            "ich in Deutschland war, habe ich sehr viel gelernt."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Als"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-16",
+          "prompt": "___ du mir nicht zuhörst, werde ich sehr böse!",
+          "promptParts": [
+            "",
+            "du mir nicht zuhörst, werde ich sehr böse!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wenn"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-17",
+          "prompt": "___ ich hörte, dass mein Fußballteam verloren hat, war ich sehr traurig.",
+          "promptParts": [
+            "",
+            "ich hörte, dass mein Fußballteam verloren hat, war ich sehr traurig."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Als"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-18",
+          "prompt": "Ich warte auf den Zug, aber ich habe keine Ahnung, ___ er kommt.",
+          "promptParts": [
+            "Ich warte auf den Zug, aber ich habe keine Ahnung,",
+            "er kommt."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wann (ob)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-19",
+          "prompt": "Jeden Morgen ___ ich aufwachte, schien mir die Sonne ins Gesicht.",
+          "promptParts": [
+            "Jeden Morgen",
+            "ich aufwachte, schien mir die Sonne ins Gesicht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wenn"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "konjunktionen-A-20",
+          "prompt": "___ Peter nach Frankfurt fuhr, hat er seinen Vater besucht.",
+          "promptParts": [
+            "",
+            "Peter nach Frankfurt fuhr, hat er seinen Vater besucht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Als"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    },
+    {
+      "id": "konjunktionen-B",
+      "type": "fill_blank",
+      "instructions": "Connect the two sentences with the given conjunctions. You will need to decide whether to put the conjunction at the beginning or in the middle of the sentence to make sense, and for most sentences you will need to change the word order.",
+      "items": [
+        {
+          "id": "konjunktionen-B-1",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Bevor wir gehen können, muss ich meine Hausaufgaben machen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    },
+    {
+      "id": "konjunktionen-E",
+      "type": "fill_blank",
+      "instructions": "Write the following sentences in German. You will need to put the verbs in the SIMPLE PAST TENSE, and pay attention to word order depending on the conjunctions used.",
+      "items": [
+        {
+          "id": "konjunktionen-E-1",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Peter stand gestern um 5 Uhr auf, weil er sein Referat schreiben musste."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,753 @@
+{
+  "id": "perfekt-1",
+  "level": "A2",
+  "title": "Das Perfekt 1",
+  "group": "Past Tense",
+  "sourceFile": "perfekt1.html",
+  "overviewSource": "perfektexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "The Perfekt (spoken past) = haben or sein + past participle (Partizip II). Most verbs use haben; movement/change-of-state verbs use sein."
+      },
+      {
+        "type": "list",
+        "content": "Regular: ge- + stem + -t (gemacht, gespielt)\nIrregular: ge- + changed stem + -en (gesehen, gegangen)\nSeparable: prefix stays before ge- (eingekauft)"
+      },
+      {
+        "type": "example",
+        "de": "Ich habe gestern Fußball gespielt.",
+        "note": "haben + Partizip II at end"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "perfekt1-B",
+      "type": "fill_blank",
+      "instructions": "Welches Hilfsverb ist richtig? Füllen Sie die Lücken mit Formen von",
+      "items": [
+        {
+          "id": "perfekt1-B-1",
+          "prompt": "Mutti ___ mich nicht gesehen.",
+          "promptParts": [
+            "Mutti",
+            "mich nicht gesehen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "hat"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        },
+        {
+          "id": "perfekt1-B-2",
+          "prompt": "Gestern ___ wir nicht zum Unterricht gegangen.",
+          "promptParts": [
+            "Gestern",
+            "wir nicht zum Unterricht gegangen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sind"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        },
+        {
+          "id": "perfekt1-B-3",
+          "prompt": "Wir ___ unsere Freunde im Café getroffen.",
+          "promptParts": [
+            "Wir",
+            "unsere Freunde im Café getroffen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "haben"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        },
+        {
+          "id": "perfekt1-B-4",
+          "prompt": "Um wie viel Uhr ___ das Konzert begonnen?",
+          "promptParts": [
+            "Um wie viel Uhr",
+            "das Konzert begonnen?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "hat"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        },
+        {
+          "id": "perfekt1-B-5",
+          "prompt": "Jens ___ oft nach Afrika gereist.",
+          "promptParts": [
+            "Jens",
+            "oft nach Afrika gereist."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ist"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        },
+        {
+          "id": "perfekt1-B-6",
+          "prompt": "___ du dein Buch endlich gefunden?",
+          "promptParts": [
+            "",
+            "du dein Buch endlich gefunden?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Hast"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        },
+        {
+          "id": "perfekt1-B-7",
+          "prompt": "Ihr ___ über zwei Stunden gewartet.",
+          "promptParts": [
+            "Ihr",
+            "über zwei Stunden gewartet."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "habt"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        },
+        {
+          "id": "perfekt1-B-8",
+          "prompt": "Ich ___ Wein zur Party mitgenommen.",
+          "promptParts": [
+            "Ich",
+            "Wein zur Party mitgenommen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "habe"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        },
+        {
+          "id": "perfekt1-B-9",
+          "prompt": "Wann ___ du heute Morgen aufgewacht?",
+          "promptParts": [
+            "Wann",
+            "du heute Morgen aufgewacht?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "bist"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        },
+        {
+          "id": "perfekt1-B-10",
+          "prompt": "Maria ___ ihre Tante in München besucht.",
+          "promptParts": [
+            "Maria",
+            "ihre Tante in München besucht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "hat"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        },
+        {
+          "id": "perfekt1-B-11",
+          "prompt": "Meine Großeltern ___ 10 Jahre in England gewohnt.",
+          "promptParts": [
+            "Meine Großeltern",
+            "10 Jahre in England gewohnt."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "haben"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        },
+        {
+          "id": "perfekt1-B-12",
+          "prompt": "Wir ___ bei meinem Onkel in Berlin geblieben.",
+          "promptParts": [
+            "Wir",
+            "bei meinem Onkel in Berlin geblieben."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sind"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        },
+        {
+          "id": "perfekt1-B-13",
+          "prompt": "___ du das neue CD von David Bowie gekauft?",
+          "promptParts": [
+            "",
+            "du das neue CD von David Bowie gekauft?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Hast"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        },
+        {
+          "id": "perfekt1-B-14",
+          "prompt": "Der Lehrer ___ vor der Klasse gestanden.",
+          "promptParts": [
+            "Der Lehrer",
+            "vor der Klasse gestanden."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "hat"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        },
+        {
+          "id": "perfekt1-B-15",
+          "prompt": "In welchem Jahr ___ Beethoven gestorben?",
+          "promptParts": [
+            "In welchem Jahr",
+            "Beethoven gestorben?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ist"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "perfekt1-C",
+      "type": "fill_blank",
+      "instructions": "Birgit schreibt einen Brief an ihre Schwester. Füllen Sie die Lücken mit den richtigen Hilfsverben (",
+      "items": [
+        {
+          "id": "perfekt1-C-1",
+          "prompt": "Liebe Renate: Hallo, Schwester! Ich ___ einen Mann ___ (finden)! Er heißt Boris und ist sehr nett. Letzen Donnerstag ___ er mich ___ (sehen); wir ___ uns bei einem Café ___ (treffen). Ich ___ fast zu spät ___ (sein): ich ___ zu lange ___ (schlafen). Aber er war so süß, er ___ mir Blumen ___ (mitbringen). Dann waren wir in einem Restaurant und ___ italienisches Essen ___ (essen). Für zwei Stunden ___ wir in dem Restaurant ___ (bleiben), und wir ___ auch eine ganze Flasche Wein ___ (trinken)! Er ___ über seine Familie ___ (sprechen). Seine Mutter ___ ein Buch über die Beatles ___ (schreiben), was ich sehr interessant finde! ___ du vielleicht im Radio das neue Lied von Ringo Starr ___ (hören)? Um neun Uhr ___ er mich wieder nach Hause ___ (bringen). Er mußte am Freitag eine Prüfung schreiben. Ich ___ ihm für eine Stunde ___ (helfen), denn ich kann auch Englisch. Ich ___ ihm auch meine Notizen ___ (geben). Er ___ sie in seiner Tasche nach Hause ___ (tragen). Er ___ mich sogar ___ (küssen)! Später am Donnerstagabend ___ ich nichts ___ (machen). Ich ___ ihn vorher nicht ___ (kennen), und ich ___ also nicht ___ (wissen), dass er so wunderbar ist! Ich ___ im Bett ___ (bleiben) und ich ___ nur an ihn ___ (denken). Meine Freundin Paula ___ mich \"ein verrücktes Mädchen\" ___ (nennen), weil ich ihn so liebe. Na ja, so ist das Leben! Ich ___ nicht ___ (verstehen), dass die Liebe so schön ist! Bis zum nächsten Brief! Schreib doch bald wieder!      Deine Schwester,        Birgit",
+          "promptParts": [
+            "Liebe Renate: Hallo, Schwester! Ich",
+            "einen Mann",
+            "(finden)! Er heißt Boris und ist sehr nett. Letzen Donnerstag",
+            "er mich",
+            "(sehen); wir",
+            "uns bei einem Café",
+            "(treffen). Ich",
+            "fast zu spät",
+            "(sein): ich",
+            "zu lange",
+            "(schlafen). Aber er war so süß, er",
+            "mir Blumen",
+            "(mitbringen). Dann waren wir in einem Restaurant und",
+            "italienisches Essen",
+            "(essen). Für zwei Stunden",
+            "wir in dem Restaurant",
+            "(bleiben), und wir",
+            "auch eine ganze Flasche Wein",
+            "(trinken)! Er",
+            "über seine Familie",
+            "(sprechen). Seine Mutter",
+            "ein Buch über die Beatles",
+            "(schreiben), was ich sehr interessant finde!",
+            "du vielleicht im Radio das neue Lied von Ringo Starr",
+            "(hören)? Um neun Uhr",
+            "er mich wieder nach Hause",
+            "(bringen). Er mußte am Freitag eine Prüfung schreiben. Ich",
+            "ihm für eine Stunde",
+            "(helfen), denn ich kann auch Englisch. Ich",
+            "ihm auch meine Notizen",
+            "(geben). Er",
+            "sie in seiner Tasche nach Hause",
+            "(tragen). Er",
+            "mich sogar",
+            "(küssen)! Später am Donnerstagabend",
+            "ich nichts",
+            "(machen). Ich",
+            "ihn vorher nicht",
+            "(kennen), und ich",
+            "also nicht",
+            "(wissen), dass er so wunderbar ist! Ich",
+            "im Bett",
+            "(bleiben) und ich",
+            "nur an ihn",
+            "(denken). Meine Freundin Paula",
+            "mich \"ein verrücktes Mädchen\"",
+            "(nennen), weil ich ihn so liebe. Na ja, so ist das Leben! Ich",
+            "nicht",
+            "(verstehen), dass die Liebe so schön ist! Bis zum nächsten Brief! Schreib doch bald wieder!      Deine Schwester,        Birgit"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "habe"
+              ],
+              "hint": "finden"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "gefunden"
+              ],
+              "hint": "sehen"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "hat"
+              ],
+              "hint": "treffen"
+            },
+            {
+              "index": 3,
+              "accept": [
+                "gesehen"
+              ],
+              "hint": "sein"
+            },
+            {
+              "index": 4,
+              "accept": [
+                "haben"
+              ],
+              "hint": "schlafen"
+            },
+            {
+              "index": 5,
+              "accept": [
+                "getroffen"
+              ],
+              "hint": "mitbringen"
+            },
+            {
+              "index": 6,
+              "accept": [
+                "bin"
+              ],
+              "hint": "essen"
+            },
+            {
+              "index": 7,
+              "accept": [
+                "gewesen"
+              ],
+              "hint": "bleiben"
+            },
+            {
+              "index": 8,
+              "accept": [
+                "habe"
+              ],
+              "hint": "trinken"
+            },
+            {
+              "index": 9,
+              "accept": [
+                "geschlafen"
+              ],
+              "hint": "sprechen"
+            },
+            {
+              "index": 10,
+              "accept": [
+                "hat"
+              ],
+              "hint": "schreiben"
+            },
+            {
+              "index": 11,
+              "accept": [
+                "mitgebracht"
+              ],
+              "hint": "h&#246;ren"
+            },
+            {
+              "index": 12,
+              "accept": [
+                "haben"
+              ],
+              "hint": "bringen"
+            },
+            {
+              "index": 13,
+              "accept": [
+                "gegessen"
+              ],
+              "hint": "helfen"
+            },
+            {
+              "index": 14,
+              "accept": [
+                "sind"
+              ],
+              "hint": "geben"
+            },
+            {
+              "index": 15,
+              "accept": [
+                "geblieben"
+              ],
+              "hint": "tragen"
+            },
+            {
+              "index": 16,
+              "accept": [
+                "haben"
+              ],
+              "hint": "k&#252;ssen"
+            },
+            {
+              "index": 17,
+              "accept": [
+                "getrunken"
+              ],
+              "hint": "machen"
+            },
+            {
+              "index": 18,
+              "accept": [
+                "hat"
+              ],
+              "hint": "kennen"
+            },
+            {
+              "index": 19,
+              "accept": [
+                "gesprochen"
+              ],
+              "hint": "wissen"
+            },
+            {
+              "index": 20,
+              "accept": [
+                "hat"
+              ],
+              "hint": "bleiben"
+            },
+            {
+              "index": 21,
+              "accept": [
+                "geschrieben"
+              ],
+              "hint": "denken"
+            },
+            {
+              "index": 22,
+              "accept": [
+                "Hast"
+              ],
+              "hint": "nennen"
+            },
+            {
+              "index": 23,
+              "accept": [
+                "gehört"
+              ],
+              "hint": "verstehen"
+            },
+            {
+              "index": 24,
+              "accept": [
+                "hat"
+              ],
+              "hint": null
+            },
+            {
+              "index": 25,
+              "accept": [
+                "gebracht"
+              ],
+              "hint": null
+            },
+            {
+              "index": 26,
+              "accept": [
+                "habe"
+              ],
+              "hint": null
+            },
+            {
+              "index": 27,
+              "accept": [
+                "geholfen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 28,
+              "accept": [
+                "habe"
+              ],
+              "hint": null
+            },
+            {
+              "index": 29,
+              "accept": [
+                "gegeben"
+              ],
+              "hint": null
+            },
+            {
+              "index": 30,
+              "accept": [
+                "hat"
+              ],
+              "hint": null
+            },
+            {
+              "index": 31,
+              "accept": [
+                "getragen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 32,
+              "accept": [
+                "hat"
+              ],
+              "hint": null
+            },
+            {
+              "index": 33,
+              "accept": [
+                "geküsst"
+              ],
+              "hint": null
+            },
+            {
+              "index": 34,
+              "accept": [
+                "habe"
+              ],
+              "hint": null
+            },
+            {
+              "index": 35,
+              "accept": [
+                "gemacht"
+              ],
+              "hint": null
+            },
+            {
+              "index": 36,
+              "accept": [
+                "habe"
+              ],
+              "hint": null
+            },
+            {
+              "index": 37,
+              "accept": [
+                "gekannt"
+              ],
+              "hint": null
+            },
+            {
+              "index": 38,
+              "accept": [
+                "habe"
+              ],
+              "hint": null
+            },
+            {
+              "index": 39,
+              "accept": [
+                "gewusst"
+              ],
+              "hint": null
+            },
+            {
+              "index": 40,
+              "accept": [
+                "bin"
+              ],
+              "hint": null
+            },
+            {
+              "index": 41,
+              "accept": [
+                "geblieben"
+              ],
+              "hint": null
+            },
+            {
+              "index": 42,
+              "accept": [
+                "habe"
+              ],
+              "hint": null
+            },
+            {
+              "index": 43,
+              "accept": [
+                "gedacht"
+              ],
+              "hint": null
+            },
+            {
+              "index": 44,
+              "accept": [
+                "hat"
+              ],
+              "hint": null
+            },
+            {
+              "index": 45,
+              "accept": [
+                "genannt"
+              ],
+              "hint": null
+            },
+            {
+              "index": 46,
+              "accept": [
+                "habe"
+              ],
+              "hint": null
+            },
+            {
+              "index": 47,
+              "accept": [
+                "verstanden"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "perfekt"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "id": "reflexive-verbs-2",
+  "level": "A2",
+  "title": "Reflexivverben 2",
+  "group": "Verbs",
+  "sourceFile": "reflexiv2.html",
+  "overviewSource": "reflexexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Some reflexive verbs take an optional dative object. Accusative reflexive is most common at A2."
+      },
+      {
+        "type": "example",
+        "de": "Ich freue mich auf das Wochenende.",
+        "note": "sich freuen auf + accusative"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "reflexiv2-C",
+      "type": "fill_blank",
+      "instructions": "Ergänzen Sie die Sätze mit den richtigen Formen der Reflexivverben in Klammern.",
+      "items": [
+        {
+          "id": "reflexiv2-C-1",
+          "prompt": "LISA:Mutti, ich muss ___ noch ___ (sich duschen), aber Bart spielt im Badezimmer. Er ___ ___ (sich amüsieren) mit der Rasiercreme.",
+          "promptParts": [
+            "LISA:Mutti, ich muss",
+            "noch",
+            "(sich duschen), aber Bart spielt im Badezimmer. Er",
+            "",
+            "(sich amüsieren) mit der Rasiercreme."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mich"
+              ],
+              "hint": "sich duschen"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "duschen"
+              ],
+              "hint": "sich am&#252;sieren"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "amüsiert sich"
+              ],
+              "hint": null
+            },
+            {
+              "index": 3,
+              "accept": [
+                "Rasiert"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv2-C-2",
+          "prompt": "MARGE:Ach nein! ___ er ___ (sich rasieren) wieder die Beine?",
+          "promptParts": [
+            "MARGE:Ach nein!",
+            "er",
+            "(sich rasieren) wieder die Beine?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sich"
+              ],
+              "hint": "sich rasieren"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "wasche mich"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv2-C-3",
+          "prompt": "BART:Nein, Mutti, Lisa lügt! Ich ___ ___ nur (sich waschen).",
+          "promptParts": [
+            "BART:Nein, Mutti, Lisa lügt! Ich",
+            "",
+            "nur (sich waschen)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dir"
+              ],
+              "hint": "sich waschen"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "putzen"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv2-C-4",
+          "prompt": "MARGE:Na gut, aber vergiss doch nicht: du musst ___ auch noch die Zähne ___ (sich putzen).",
+          "promptParts": [
+            "MARGE:Na gut, aber vergiss doch nicht: du musst",
+            "auch noch die Zähne",
+            "(sich putzen)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "uns"
+              ],
+              "hint": "sich putzen"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "anziehen"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv2-C-5",
+          "prompt": "BART:Hab' ich schon gemacht. Jetzt müssen wir ___ nur noch ___ (sich anziehen).",
+          "promptParts": [
+            "BART:Hab' ich schon gemacht. Jetzt müssen wir",
+            "nur noch",
+            "(sich anziehen)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "euch"
+              ],
+              "hint": "sich anziehen"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "anziehen"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv2-C-6",
+          "prompt": "MARGE:Kinder, ihr sollt ___ warm ___ (sich anziehen). Es ist kalt draußen. Ihr könntet ___ leicht ___ (sich erkälten).",
+          "promptParts": [
+            "MARGE:Kinder, ihr sollt",
+            "warm",
+            "(sich anziehen). Es ist kalt draußen. Ihr könntet",
+            "leicht",
+            "(sich erkälten)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "euch"
+              ],
+              "hint": "sich anziehen"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "erkälten"
+              ],
+              "hint": "sich erk&#228;lten"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "zieht sich"
+              ],
+              "hint": null
+            },
+            {
+              "index": 3,
+              "accept": [
+                "an"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reflexiv2-D",
+      "type": "fill_blank",
+      "instructions": "Bilden Sie Sätze aus den gegebenen Elementen, und dann sagen Sie, was der Satz auf Englisch bedeutet.",
+      "items": [
+        {
+          "id": "reflexiv2-D-1",
+          "prompt": " Deutsch:  ___",
+          "promptParts": [
+            "Deutsch:",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich melde mich um 9 Uhr bei Professor Müller."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv2-D-2",
+          "prompt": " English meaning:  ___",
+          "promptParts": [
+            "English meaning:",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "I'm showing up (reporting in) at Professor Müller's at 9:00."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv2-D-3",
+          "prompt": " Deutsch:  ___",
+          "promptParts": [
+            "Deutsch:",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Er bereitet sich auf eine große Prüfung vor."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv2-D-4",
+          "prompt": " English meaning:  ___",
+          "promptParts": [
+            "English meaning:",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "He's preparing (getting ready) for a big test."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv2-D-5",
+          "prompt": " Deutsch:  ___",
+          "promptParts": [
+            "Deutsch:",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich kann mir ein neues Auto nicht leisten."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv2-D-6",
+          "prompt": " English meaning:  ___",
+          "promptParts": [
+            "English meaning:",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "I can't afford a new car."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reflexiv2-E",
+      "type": "fill_blank",
+      "instructions": "Was hast du heute morgen gemacht? Schreiben Sie 4-7 Sätze, und benutzen Sie Reflexivverben wenn möglich. Schreiben Sie im PERFEKT",
+      "items": [
+        {
+          "id": "reflexiv2-E-1",
+          "prompt": "sich waschen    → ___",
+          "promptParts": [
+            "sich waschen    → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Zuerst bin ich um 7.30 Uhr aufgestanden. Ich habe mir das Gesicht gewaschen, dann habe ich gefrühstückt (Frühstück gegessen). Ich habe mir die Zähne geputzt, dann habe ich mich geduscht. Ich habe mich abgetrocknet und ich habe mir die Haare geföhnt. Dann habe ich mich angezogen (dann habe ich mir einen Pulli und Jeans angezogen). Danach habe ich mir einen Kaffee gekocht, und ich habe mich vor den Computer gesetzt. Zuletzt habe ich mir die Haare gebürstet und ich bin zur Uni gegangen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    }
+  ]
+}

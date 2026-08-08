@@ -1,0 +1,372 @@
+{
+  "id": "word-order-prepositions",
+  "level": "A2",
+  "title": "Wortstellung und Wechselpräpositionen",
+  "group": "Prepositions",
+  "sourceFile": "wortstellpraeps.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Time-Manner-Place (Te-Ka-Mo): temporal, then manner, then place. In main clauses the conjugated verb stays in position 2."
+      },
+      {
+        "type": "example",
+        "de": "Ich fahre heute mit dem Bus nach Berlin.",
+        "note": "heute (time) · mit dem Bus (manner) · nach Berlin (place)"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "wortstellpraeps-A",
+      "type": "fill_blank",
+      "instructions": "Wählen Sie WO oder WOHIN für jeden Satz, schreiben Sie den richtigen Artikel in die Lücke, und sagen Sie, ob das Wort im Akkusativ oder Dativ steht.",
+      "items": [
+        {
+          "id": "wortstellpraeps-A-1",
+          "prompt": "[ Wo / Wohin ] fährt das Auto? -- Es fährt vor ___ Haus. (n.) [ AKK / DAT ]",
+          "promptParts": [
+            "[ Wo / Wohin ] fährt das Auto? -- Es fährt vor",
+            "Haus. (n.) [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "das"
+              ],
+              "hint": "n."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellpraeps-A-2",
+          "prompt": "[ Wo / Wohin ] sind die Kinder? -- Sie stehen hinter ___ Bäumen (pl.) [ AKK / DAT ]",
+          "promptParts": [
+            "[ Wo / Wohin ] sind die Kinder? -- Sie stehen hinter",
+            "Bäumen (pl.) [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "den"
+              ],
+              "hint": "pl."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellpraeps-A-3",
+          "prompt": "[ Wo / Wohin ] studierst du? -- Ich studiere an ___ Universität (f.) [ AKK / DAT ]",
+          "promptParts": [
+            "[ Wo / Wohin ] studierst du? -- Ich studiere an",
+            "Universität (f.) [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "der"
+              ],
+              "hint": "f."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellpraeps-A-4",
+          "prompt": "[ Wo / Wohin ] hast du die Lampe gestellt? -- Ich habe sie auf ___ Tisch (m.) gestellt. [ AKK / DAT ]",
+          "promptParts": [
+            "[ Wo / Wohin ] hast du die Lampe gestellt? -- Ich habe sie auf",
+            "Tisch (m.) gestellt. [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "den"
+              ],
+              "hint": "m."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellpraeps-A-5",
+          "prompt": "[ Wo / Wohin ] gehst du heute abend? -- Ich gehe in ___ Theater (n.). [ AKK / DAT ]",
+          "promptParts": [
+            "[ Wo / Wohin ] gehst du heute abend? -- Ich gehe in",
+            "Theater (n.). [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "das"
+              ],
+              "hint": "n."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellpraeps-A-6",
+          "prompt": "[ Wo / Wohin ] ist dein Auto? -- Es steht neben ___ Baum (m.) dort. [ AKK / DAT ]",
+          "promptParts": [
+            "[ Wo / Wohin ] ist dein Auto? -- Es steht neben",
+            "Baum (m.) dort. [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dem"
+              ],
+              "hint": "m."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellpraeps-A-7",
+          "prompt": "[ Wo / Wohin ] legst du das Buch? -- Ich lege das Buch auf ___ Bett (n.). [ AKK / DAT ]",
+          "promptParts": [
+            "[ Wo / Wohin ] legst du das Buch? -- Ich lege das Buch auf",
+            "Bett (n.). [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "das"
+              ],
+              "hint": "n."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellpraeps-A-8",
+          "prompt": "[ Wo / Wohin ] hängt das Poster? -- Es hängt zwischen ___ Fenstern (pl.). [ AKK / DAT ]",
+          "promptParts": [
+            "[ Wo / Wohin ] hängt das Poster? -- Es hängt zwischen",
+            "Fenstern (pl.). [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "den"
+              ],
+              "hint": "pl."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wortstellpraeps-B",
+      "type": "fill_blank",
+      "instructions": "Antworten Sie auf jede Frage mit einem ganzen Satz auf Deutsch. Passen Sie auf die Zeitangaben",
+      "items": [
+        {
+          "id": "wortstellpraeps-B-1",
+          "prompt": "Wie oft gehst du in die Bibliothek? → ___",
+          "promptParts": [
+            "Wie oft gehst du in die Bibliothek? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich gehe einmal in der Woche (viermal im Monat) in die Bibliothek."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellpraeps-B-2",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich spreche (telefoniere) jeden Tag mit meinen Eltern."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellpraeps-B-3",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich habe heute um 8 Uhr Frühstück gegessen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellpraeps-B-4",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich bin heute um 9.30 Uhr zu Fuß an die Uni gekommen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellpraeps-B-5",
+          "prompt": "Wann bist du heute nach Hause gekommen? → ___",
+          "promptParts": [
+            "Wann bist du heute nach Hause gekommen? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich bin heute um 14 Uhr nach Hause gekommen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellpraeps-B-6",
+          "prompt": "Wann ist das Semester zu Ende? → ___",
+          "promptParts": [
+            "Wann ist das Semester zu Ende? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Das Semester ist im Mai (in 13 Wochen, in 3 Monaten) zu Ende."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellpraeps-B-7",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich mache zweimal im Monat (alle zwei Wochen) die Wäsche."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellpraeps-B-8",
+          "prompt": "Wann hast du mit Deutsch angefangen? → ___",
+          "promptParts": [
+            "Wann hast du mit Deutsch angefangen? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich habe vor VIELEN Jahren mit Deutsch angefangen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    }
+  ]
+}

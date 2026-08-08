@@ -1,0 +1,217 @@
+{
+  "id": "time-expressions",
+  "level": "A2",
+  "title": "Wortstellung mit Zeitangaben",
+  "group": "Word Order",
+  "sourceFile": "zeitangaben.html",
+  "overviewSource": "zeitangabenexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Time expressions often come early in the sentence (after the verb or in position 1). Use accusative for definite time spans, dative for dates and seasons in some contexts."
+      },
+      {
+        "type": "example",
+        "de": "Am Montag gehe ich ins Kino.",
+        "note": "am = an + dem (dative)"
+      },
+      {
+        "type": "example",
+        "de": "Jeden Tag lerne ich Deutsch.",
+        "note": "jeden Tag = accusative time expression"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "zeitangaben-A",
+      "type": "fill_blank",
+      "instructions": "Bilden Sie Sätze aus den gegebenen Elementen. Achten Sie auf die Wortstellung (=word order) und die Verbformen (=verb forms)!",
+      "items": [
+        {
+          "id": "zeitangaben-A-1",
+          "prompt": "schnell / ins Kino / laufen / das Kind → ___",
+          "promptParts": [
+            "schnell / ins Kino / laufen / das Kind → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Das Kind läuft schnell ins Kino."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zeitangaben-B",
+      "type": "fill_blank",
+      "instructions": "Übersetzen (=translate) die folgenden Sätze ins Deutsche. Achten Sie auf die Wortstellung!",
+      "items": [
+        {
+          "id": "zeitangaben-B-1",
+          "prompt": "On Sunday we're going to Chicago by bus. → ___",
+          "promptParts": [
+            "On Sunday we're going to Chicago by bus. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Am Sonntag fahren wir mit dem Bus nach Chicago."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "zeitangaben-B-2",
+          "prompt": "Once a year we go to Europe by plane. → ___",
+          "promptParts": [
+            "Once a year we go to Europe by plane. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Einmal im Jahr fliegen wir mit dem Flugzeug nach Europa."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zeitangaben-C",
+      "type": "fill_blank",
+      "instructions": "Bilden Sie Sätze aus den gegebenen Elementen.",
+      "items": [
+        {
+          "id": "zeitangaben-C-1",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Harry Potter hat vor 2 Jahren mit seinen Freunden auf einer Party geraucht."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "zeitangaben-C-2",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Präsident Bush trinkt um 5 Uhr gern vor der Schule."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "zeitangaben-C-3",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Der Mann läuft jeden Tag zu Fuß an die Uni."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "zeitangaben-C-4",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Meine Mutter fährt am Freitag mit dem Bus nach Deutschland."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "zeitangaben-C-5",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Der Arzt hat gestern schlecht im Restaurant gegessen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    }
+  ]
+}

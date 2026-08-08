@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+*.local
+.env
+.env.*
+
+# Private source material (keep locally, do not publish)
+materials/
+spec/

@@ -1,0 +1,492 @@
+{
+  "id": "modal-verbs",
+  "level": "A1",
+  "title": "Modalverben und Imperative",
+  "group": "Verbs",
+  "sourceFile": "modalverben.html",
+  "overviewSource": "modalverbenexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Modal verbs express ability, permission, obligation, or desire. The main verb goes to the end in infinitive form."
+      },
+      {
+        "type": "list",
+        "content": "können (can)\nmüssen (must)\nwollen (want to)\ndürfen (may)\nsollen (should)"
+      },
+      {
+        "type": "example",
+        "de": "Ich kann Deutsch sprechen.",
+        "note": "modal + infinitive at end"
+      },
+      {
+        "type": "example",
+        "de": "Du musst heute lernen.",
+        "note": "müssen + infinitive"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "modalverben-A",
+      "type": "fill_blank",
+      "instructions": "Füllen Sie die Lücken mit den richtigen Formen der Modalverben ein.",
+      "items": [
+        {
+          "id": "modalverben-A-1",
+          "prompt": "-- Warum ___ (müssen) du denn schon gehen?",
+          "promptParts": [
+            "-- Warum",
+            "(müssen) du denn schon gehen?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "musst"
+              ],
+              "hint": "m&#252;ssen"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-A-2",
+          "prompt": "-- Warum ___ (dürfen) deine Schwester heute Abend nicht tanzen gehen?",
+          "promptParts": [
+            "-- Warum",
+            "(dürfen) deine Schwester heute Abend nicht tanzen gehen?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "soll"
+              ],
+              "hint": "d&#252;rfen"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-A-3",
+          "prompt": "-- Warum ___ (möchten) du denn kein Bier?",
+          "promptParts": [
+            "-- Warum",
+            "(möchten) du denn kein Bier?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "darf"
+              ],
+              "hint": "m&#246;chten"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-A-4",
+          "prompt": "-- Morgen ___ (sollen) es sehr warm sein.",
+          "promptParts": [
+            "-- Morgen",
+            "(sollen) es sehr warm sein."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mögen"
+              ],
+              "hint": "sollen"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-A-5",
+          "prompt": "-- Warum ___ (möchten) ihr keinen Wein?",
+          "promptParts": [
+            "-- Warum",
+            "(möchten) ihr keinen Wein?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "möchtest"
+              ],
+              "hint": "m&#246;chten"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-A-6",
+          "prompt": "-- ___ (können) Maria Deutsch sprechen?",
+          "promptParts": [
+            "--",
+            "(können) Maria Deutsch sprechen?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mag"
+              ],
+              "hint": "k&#246;nnen"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-A-7",
+          "prompt": "-- Warum ___ (können) du heute Abend nicht tanzen gehen?",
+          "promptParts": [
+            "-- Warum",
+            "(können) du heute Abend nicht tanzen gehen?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "soll"
+              ],
+              "hint": "k&#246;nnen"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "modalverben-B",
+      "type": "word_bank",
+      "instructions": "Ergänzen Sie die Dialoge mit den passenden Modalverben. Wählen Sie aus der Liste; viele Modalverben werden mehr als einmal benutzt",
+      "items": [
+        {
+          "id": "modalverben-B-1",
+          "prompt": "Uwe, du ___ nicht! Du bist nur 15 Jahre alt. Du ___ zu Hause bleiben.",
+          "promptParts": [
+            "Uwe, du",
+            "nicht! Du bist nur 15 Jahre alt. Du",
+            "zu Hause bleiben."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "will / möchte"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "darfst / kannst"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "dürfen",
+            "können",
+            "möchten",
+            "mögen",
+            "müssen",
+            "sollen",
+            "wollen"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-B-2",
+          "prompt": "Vater, Sabine und ich ___ das Auto zur Schule fahren!",
+          "promptParts": [
+            "Vater, Sabine und ich",
+            "das Auto zur Schule fahren!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "musst"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "dürfen",
+            "können",
+            "möchten",
+            "mögen",
+            "müssen",
+            "sollen",
+            "wollen"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-B-3",
+          "prompt": "Thomas, ___ du heute abend ins Kino gehen?",
+          "promptParts": [
+            "Thomas,",
+            "du heute abend ins Kino gehen?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wollen / möchten"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "dürfen",
+            "können",
+            "möchten",
+            "mögen",
+            "müssen",
+            "sollen",
+            "wollen"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-B-4",
+          "prompt": "Nein, ich ___ es nicht, sagen meine Eltern. Ich ___ morgen um 6 Uhr aufstehen.",
+          "promptParts": [
+            "Nein, ich",
+            "es nicht, sagen meine Eltern. Ich",
+            "morgen um 6 Uhr aufstehen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dürft / könnt"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "müsst / sollt"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "dürfen",
+            "können",
+            "möchten",
+            "mögen",
+            "müssen",
+            "sollen",
+            "wollen"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-B-5",
+          "prompt": "Katrin, ___ deine kleine Tochter Eis mit Erdbeeren?",
+          "promptParts": [
+            "Katrin,",
+            "deine kleine Tochter Eis mit Erdbeeren?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "möchtest / willst"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "dürfen",
+            "können",
+            "möchten",
+            "mögen",
+            "müssen",
+            "sollen",
+            "wollen"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "modalverben-C",
+      "type": "fill_blank",
+      "instructions": "Bilden Sie komplette Sätze aus den gegebenen Elementen. Achten Sie auf die Wortstellung",
+      "items": [
+        {
+          "id": "modalverben-C-1",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Darf ich heute Abend in die Disko gehen?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-C-2",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Möchten Sie Kaffee oder Tee trinken?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-C-3",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wann müsst ihr schlafen gehen?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-C-4",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Thomas muss jetzt zur Uni gehen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-C-5",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Katrin kann sehr gut Italienisch sprechen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "modalverben-C-6",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Warum willst du das Haus nicht kaufen?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "id": "pronouns-questions",
+  "level": "A1",
+  "title": "Wiederholung: Pronomen und Fragen",
+  "group": "Basics",
+  "sourceFile": "pronomfragen.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Question words (W-words) come first, then the verb (V2 rule). Yes/no questions start with the verb."
+      },
+      {
+        "type": "list",
+        "content": "wer — who\nwas — what\nwo — where\nwann — when\nwarum — why\nwie — how\nwoher — from where\nwohin — to where"
+      },
+      {
+        "type": "example",
+        "de": "Wo wohnst du?",
+        "note": "W-word + verb + subject"
+      },
+      {
+        "type": "example",
+        "de": "Kommst du morgen?",
+        "note": "yes/no: verb first"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "pronomfragen-B",
+      "type": "fill_blank",
+      "instructions": "You overhear someone talking on the telephone but you can only hear her answers. Write down the likely questions that elicited these responses.",
+      "items": [
+        {
+          "id": "pronomfragen-B-1",
+          "prompt": "- ___?",
+          "promptParts": [
+            "-",
+            "?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wie heißt du? (oder: Wie heißen Sie?)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "pronomfragen-B-2",
+          "prompt": "- ___?",
+          "promptParts": [
+            "-",
+            "?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Woher kommst du? (oder: Woher kommen Sie?)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "pronomfragen-B-3",
+          "prompt": "- ___?",
+          "promptParts": [
+            "-",
+            "?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Bist du Amerikanerin? (oder: Sind Sie Amerikanerin?)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "pronomfragen-B-4",
+          "prompt": "- ___?",
+          "promptParts": [
+            "-",
+            "?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wie alt bist du? (oder: Wie alt sind Sie?)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "pronomfragen-B-5",
+          "prompt": "- ___?",
+          "promptParts": [
+            "-",
+            "?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Was ist deine Telefonnummer? (oder: Was ist Ihre Telefonnummer?)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pronomfragen-D",
+      "type": "fill_blank",
+      "instructions": "Fill in the blanks with an appropriate pronoun, such as 'er', 'sie', 'es', 'ich', 'du', etc.",
+      "items": [
+        {
+          "id": "pronomfragen-D-1",
+          "prompt": "  -- Nein, ___ ist blau.   -- Ja, ___ war fantastisch!",
+          "promptParts": [
+            "-- Nein,",
+            "ist blau.   -- Ja,",
+            "war fantastisch!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "er"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "es"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "pronomfragen-D-2",
+          "prompt": "  -- Das stimmt. ___ ist kaputt.   -- Nein, ___ ist sehr alt.",
+          "promptParts": [
+            "-- Das stimmt.",
+            "ist kaputt.   -- Nein,",
+            "ist sehr alt."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Sie"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "er"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "pronomfragen-D-3",
+          "prompt": "  -- ___ ist grün.   -- ___ ist sehr schön.",
+          "promptParts": [
+            "--",
+            "ist grün.   --",
+            "ist sehr schön."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Es"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Sie"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "pronomfragen-D-4",
+          "prompt": "  -- Ja, ___ ist sehr nett.   -- Ja, ___ lernen Deutsch.",
+          "promptParts": [
+            "-- Ja,",
+            "ist sehr nett.   -- Ja,",
+            "lernen Deutsch."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "er"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "wir"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "pronomfragen-D-5",
+          "prompt": "  -- ___ komme aus Augsburg.   -- ___ kommt aus Bonn.",
+          "promptParts": [
+            "--",
+            "komme aus Augsburg.   --",
+            "kommt aus Bonn."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Sie"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pronomfragen-E",
+      "type": "fill_blank",
+      "instructions": "Make complete sentences out of the following elements. Be sure to use the correct form of 'sein' or 'heißen' to match the subject!",
+      "items": [
+        {
+          "id": "pronomfragen-E-1",
+          "prompt": "ich / sein / freundlich. → ___",
+          "promptParts": [
+            "ich / sein / freundlich. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich bin freundlich."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "pronomfragen-E-2",
+          "prompt": "wie / heißen / du? → ___",
+          "promptParts": [
+            "wie / heißen / du? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wie heißt du?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "pronomfragen-E-3",
+          "prompt": "ich / heißen / Maria. → ___",
+          "promptParts": [
+            "ich / heißen / Maria. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich heiße Maria."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "pronomfragen-E-4",
+          "prompt": "wir / sein / Amerikaner. → ___",
+          "promptParts": [
+            "wir / sein / Amerikaner. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wir sind Amerikaner."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "pronomfragen-E-5",
+          "prompt": "mein Bruder / heißen / Johann. → ___",
+          "promptParts": [
+            "mein Bruder / heißen / Johann. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Die Universität ist historisch."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "pronomfragen-E-6",
+          "prompt": "ihr / sein / Studenten. → ___",
+          "promptParts": [
+            "ihr / sein / Studenten. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Mein Bruder heißt Johannes."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "pronomfragen-E-7",
+          "prompt": "du / sein / hier. → ___",
+          "promptParts": [
+            "du / sein / hier. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ihr seid Studenten."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    }
+  ]
+}

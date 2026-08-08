@@ -1,0 +1,795 @@
+{
+  "id": "dative",
+  "level": "A2",
+  "title": "Der Dativ",
+  "group": "Cases",
+  "sourceFile": "dativ.html",
+  "overviewSource": "dativexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "The dative case marks the indirect object — the recipient or beneficiary. Ask: \"To/for whom?\" Masculine and neuter articles become dem; feminine die → der; plural die → den (+ n on noun sometimes)."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "",
+            "Nom.",
+            "Dat."
+          ],
+          [
+            "Masc.",
+            "der / ein",
+            "dem / einem"
+          ],
+          [
+            "Fem.",
+            "die / eine",
+            "der / einer"
+          ],
+          [
+            "Neut.",
+            "das / ein",
+            "dem / einem"
+          ],
+          [
+            "Plural",
+            "die",
+            "den (+n)"
+          ]
+        ]
+      },
+      {
+        "type": "example",
+        "de": "Ich gebe dem Mann das Buch.",
+        "note": "dem Mann = dative indirect object"
+      },
+      {
+        "type": "example",
+        "de": "Das Buch gehört der Frau.",
+        "note": "der Frau = dative after gehören"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "dativ-B",
+      "type": "pick_and_type",
+      "instructions": "Füllen Sie die Lücken mit den richtigen Endungen ein. Achtung: die Endungen sind im Nominativ, Akkusativ ODER Dativ!",
+      "items": [
+        {
+          "id": "dativ-B-1",
+          "prompt": "Der Bruder schenkt sein___ Schwester ein___ neuen Drucker.",
+          "promptParts": [
+            "Der Bruder schenkt sein",
+            "Schwester ein",
+            "neuen Drucker."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "er"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "en"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-B-2",
+          "prompt": "Ich gebe d___ Frau mein___ alte Couch.",
+          "promptParts": [
+            "Ich gebe d",
+            "Frau mein",
+            "alte Couch."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "er"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "e"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-B-3",
+          "prompt": "Heute hat d___ Lehrerin d___ Studenten (pl) ein___ Quiz (n) gegeben.",
+          "promptParts": [
+            "Heute hat d",
+            "Lehrerin d",
+            "Studenten (pl) ein",
+            "Quiz (n) gegeben."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ie"
+              ],
+              "hint": "pl"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "en"
+              ],
+              "hint": "n"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "e"
+              ],
+              "hint": "pl"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-B-4",
+          "prompt": "Hast du gestern unser___ Freunde in d___ Bibliothek (f) gesehen?",
+          "promptParts": [
+            "Hast du gestern unser",
+            "Freunde in d",
+            "Bibliothek (f) gesehen?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "er"
+              ],
+              "hint": "f"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "en"
+              ],
+              "hint": "f"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-B-5",
+          "prompt": "Kaufst du d___ Kinder___ ein___ Radio?",
+          "promptParts": [
+            "Kaufst du d",
+            "Kinder",
+            "ein",
+            "Radio?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "n"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "em"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "en"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-B-6",
+          "prompt": "Wir haben unser___ Opa d___ Computer geliehen.",
+          "promptParts": [
+            "Wir haben unser",
+            "Opa d",
+            "Computer geliehen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "er"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "em"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-B-7",
+          "prompt": "Hast du dein___ Mutter etwas zum Muttertag geschenkt?",
+          "promptParts": [
+            "Hast du dein",
+            "Mutter etwas zum Muttertag geschenkt?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "en"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dativ-D",
+      "type": "fill_blank",
+      "instructions": "Schreiben Sie die richtigen Präpositionen + Objekte in die Lücken. Passen Sie auf den Kasus auf! Wählen Sie Präpositionen aus den Listen.",
+      "items": [
+        {
+          "id": "dativ-D-1",
+          "prompt": "Hier ist ein Geschenk ___ (for your brother).",
+          "promptParts": [
+            "Hier ist ein Geschenk",
+            "(for your brother)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "für deinen Bruder"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-2",
+          "prompt": "Der Brief ist ___ (from my father).",
+          "promptParts": [
+            "Der Brief ist",
+            "(from my father)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "von meinem Vater"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-3",
+          "prompt": "Er geht ___ (around the table).",
+          "promptParts": [
+            "Er geht",
+            "(around the table)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "um den Tisch"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-4",
+          "prompt": "Alle waren da ___ (except for her).",
+          "promptParts": [
+            "Alle waren da",
+            "(except for her)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "außer ihr"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-5",
+          "prompt": "Frau Bauer kommt ___ (through the door).",
+          "promptParts": [
+            "Frau Bauer kommt",
+            "(through the door)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "durch die Tür"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-6",
+          "prompt": "Was hast du ___ (after the class) gemacht?",
+          "promptParts": [
+            "Was hast du",
+            "(after the class) gemacht?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "nach dem Unterricht"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-7",
+          "prompt": "Steigen Sie bitte ___ (out of the car)!",
+          "promptParts": [
+            "Steigen Sie bitte",
+            "(out of the car)!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "aus dem Auto"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-8",
+          "prompt": "Sie kommt ___ (without her books) in die Schule.",
+          "promptParts": [
+            "Sie kommt",
+            "(without her books) in die Schule."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ohne ihre Bücher"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-9",
+          "prompt": "Martin hat nichts ___ (against us).",
+          "promptParts": [
+            "Martin hat nichts",
+            "(against us)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "gegen uns"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-10",
+          "prompt": "Ihr geht wirklich ___ (without me)?",
+          "promptParts": [
+            "Ihr geht wirklich",
+            "(without me)?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ohne mich"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-11",
+          "prompt": "Wir gehen jeden Tag um 7 Uhr ___ (to the university).",
+          "promptParts": [
+            "Wir gehen jeden Tag um 7 Uhr",
+            "(to the university)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "zur Uni(versität)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-12",
+          "prompt": "Ich warte schon ___ (since/for an hour, die Stunde).",
+          "promptParts": [
+            "Ich warte schon",
+            "(since/for an hour, die Stunde)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "seit einer Stunde"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-13",
+          "prompt": "Hast du deine Tasche ___ (with you)?",
+          "promptParts": [
+            "Hast du deine Tasche",
+            "(with you)?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mit dir"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-14",
+          "prompt": "Martin arbeitet ___ (at the bank, die Bank).",
+          "promptParts": [
+            "Martin arbeitet",
+            "(at the bank, die Bank)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "bei der Bank"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-15",
+          "prompt": "Bleibt ihr heute abend ___ (at home)?",
+          "promptParts": [
+            "Bleibt ihr heute abend",
+            "(at home)?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "zu Hause"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-D-16",
+          "prompt": "Wann geht ihr heute ___ (home)?",
+          "promptParts": [
+            "Wann geht ihr heute",
+            "(home)?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "nach Hause"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dativ-E",
+      "type": "pick_and_type",
+      "instructions": "Schreiben Sie 6-8 Sätze: benutzen Sie Wörter aus den folgenden Kategorien. Achten Sie auf den Kasus: indirekte Objekte sind im Dativ, direkte Objekte sind im Akkusativ.",
+      "items": [
+        {
+          "id": "dativ-E-1",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich zeige dem Mädchen morgen das Auto."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-E-2",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Du gibst dem Mann oft Bücher."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-E-3",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Frau Meyer leiht meinem Vater nicht gern Geld."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-E-4",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Morgen kocht mein Freund seiner Großmutter eine Tasse Kaffee."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-E-5",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ihr gebt der Katze das Abendessen um 10 Uhr."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-E-6",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Am Wochenende schickt ein Mann unserer Mutter einen Brief."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-E-7",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Die Kinder schenken dem Mann einen Pullover zu Weihnachten."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativ-E-8",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Später kaufen sie den Kindern ein Geschenk."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    }
+  ]
+}

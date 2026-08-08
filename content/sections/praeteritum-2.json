@@ -1,0 +1,78 @@
+{
+  "id": "praeteritum-2",
+  "level": "A2",
+  "title": "Das Präteritum 2",
+  "group": "Past Tense",
+  "sourceFile": "praeteritum2.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Weak (regular) verbs add -te endings: machen → machte. Strong verbs change the stem: gehen → ging, sehen → sah."
+      },
+      {
+        "type": "example",
+        "de": "Er ging ins Kino und kaufte Popcorn.",
+        "note": "strong + weak verb in Präteritum"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "praeteritum2-B",
+      "type": "fill_blank",
+      "instructions": "Übersetzen Sie die folgenden Sätze ins Deutsche. Alle Sätze werden Modalverben haben",
+      "items": [
+        {
+          "id": "praeteritum2-B-1",
+          "prompt": "I couldn't understand the teacher. → ___",
+          "promptParts": [
+            "I couldn't understand the teacher. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich konnte den Lehrer nicht verstehen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "praeteritum2-C",
+      "type": "fill_blank",
+      "instructions": "Schreiben Sie zwei kleine Zusammenfassungen",
+      "items": [
+        {
+          "id": "praeteritum2-C-1",
+          "prompt": "BEISPIEL: → ___",
+          "promptParts": [
+            "BEISPIEL: → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ein sehr schönes Mädchen liebte einen Bauerjungen namens Westley. Er musste weggehen, aber er versprach (=promised), zurückzukommen. Als das Mädchen hörte, dass Westley gestorben war, verlobte sie sich mit dem Prinzen. Der Prinz war sehr böse, und er hatte einen Plan, einen Krieg zu führen. Drei Männer -- ein Spanier, ein Riese und ein komischer kluger Mann -- verführten (=kidnapped) das Mädchen, aber der gute Westley kam zurück und rettete das Mädchen. Zusammen gingen sie durch den Feuersumpf, aber der böse Prinz kam und fing Westley. Am Ende machte Westley sich frei: der Spanier und der Riese halfen ihm. Westley fand Buttercup in ihrer Kammer und sie ritten auf vier weißen Pferden weg."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    }
+  ]
+}

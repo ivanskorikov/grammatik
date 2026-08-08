@@ -1,0 +1,10 @@
+{
+  "parsed": 33,
+  "skipped": 3,
+  "failed": [
+    "adjective-endings-2: no exercises parsed",
+    "adjective-endings-3: no exercises parsed",
+    "adjective-endings-4: no exercises parsed"
+  ],
+  "exercises": 106
+}

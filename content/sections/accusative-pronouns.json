@@ -1,0 +1,1091 @@
+{
+  "id": "accusative-pronouns",
+  "level": "A1",
+  "title": "Akkusativpronomen",
+  "group": "Cases",
+  "sourceFile": "akkuspronom.html",
+  "overviewSource": "akkuspronomenexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Personal pronouns also change in the accusative case. Only ich → mich and du → dich change among the singular pronouns you use most at A1."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "",
+            "Nom.",
+            "Acc."
+          ],
+          [
+            "ich",
+            "ich",
+            "mich"
+          ],
+          [
+            "du",
+            "du",
+            "dich"
+          ],
+          [
+            "er/sie/es",
+            "er/sie/es",
+            "ihn/sie/es"
+          ],
+          [
+            "wir",
+            "wir",
+            "uns"
+          ],
+          [
+            "ihr",
+            "ihr",
+            "euch"
+          ],
+          [
+            "sie/Sie",
+            "sie/Sie",
+            "sie/Sie"
+          ]
+        ]
+      },
+      {
+        "type": "example",
+        "de": "Siehst du mich?",
+        "note": "mich = accusative of ich"
+      },
+      {
+        "type": "example",
+        "de": "Ich liebe dich.",
+        "note": "dich = accusative of du"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "akkuspronom-A",
+      "type": "fill_blank",
+      "instructions": "Make sure you know your pronouns! Fill in the table below.",
+      "items": [
+        {
+          "id": "akkuspronom-A-1",
+          "prompt": "I =     ich           me =     mich         we =  ___      us =  ___  ",
+          "promptParts": [
+            "I =     ich           me =     mich         we =",
+            "us =",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wir"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "uns"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-A-2",
+          "prompt": "you =  ___      you =  ___              you all =  ___      you all =  ___  ",
+          "promptParts": [
+            "you =",
+            "you =",
+            "you all =",
+            "you all =",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "du"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "dich"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "ihr"
+              ],
+              "hint": null
+            },
+            {
+              "index": 3,
+              "accept": [
+                "euch"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-A-3",
+          "prompt": "he =  ___      him =  ___              they =  ___      them =  ___  ",
+          "promptParts": [
+            "he =",
+            "him =",
+            "they =",
+            "them =",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "er"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "ihn"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "sie"
+              ],
+              "hint": null
+            },
+            {
+              "index": 3,
+              "accept": [
+                "sie"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-A-4",
+          "prompt": "she =  ___      her =  ___              You (form) =  ___      You (form) =  ___  ",
+          "promptParts": [
+            "she =",
+            "her =",
+            "You (form) =",
+            "You (form) =",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sie"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "sie"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "Sie"
+              ],
+              "hint": null
+            },
+            {
+              "index": 3,
+              "accept": [
+                "Sie"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-A-5",
+          "prompt": "it =  ___      it =  ___            ",
+          "promptParts": [
+            "it =",
+            "it =",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "es"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "es"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "akkuspronom-B",
+      "type": "pick_and_type",
+      "instructions": "Fill in the blanks with the pronouns indicated in parentheses. Watch out: there are both nominative and accusative forms here.",
+      "items": [
+        {
+          "id": "akkuspronom-B-1",
+          "prompt": "___ (I) liebe meine Katze (f) und ___ (it) liebt ___ (me).",
+          "promptParts": [
+            "",
+            "(I) liebe meine Katze (f) und",
+            "(it) liebt",
+            "(me)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich"
+              ],
+              "hint": "I"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "sie"
+              ],
+              "hint": "f"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "mich"
+              ],
+              "hint": "it"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-2",
+          "prompt": "Meine Tante wohnt in Milwaukee. Ich besuche ___ (her) morgen.",
+          "promptParts": [
+            "Meine Tante wohnt in Milwaukee. Ich besuche",
+            "(her) morgen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sie"
+              ],
+              "hint": "her"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-3",
+          "prompt": "Mein Freund und ich gehen oft zusammen (=together) ins Kino, aber ___ (he) geht nie allein.",
+          "promptParts": [
+            "Mein Freund und ich gehen oft zusammen (=together) ins Kino, aber",
+            "(he) geht nie allein."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "er"
+              ],
+              "hint": "=together"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-4",
+          "prompt": "Kennen Sie meinen Bruder? -- Nein, ich kenne ___ (him) nicht.",
+          "promptParts": [
+            "Kennen Sie meinen Bruder? -- Nein, ich kenne",
+            "(him) nicht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihn"
+              ],
+              "hint": "him"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-5",
+          "prompt": "Nein, Petra, es tut mir leid. Ich kann ___ (you) morgen nicht anrufen.",
+          "promptParts": [
+            "Nein, Petra, es tut mir leid. Ich kann",
+            "(you) morgen nicht anrufen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dich"
+              ],
+              "hint": "you"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-6",
+          "prompt": "Wie findest du meine zwei neuen Stühle (pl)? Ich finde ___ (them) dumm.",
+          "promptParts": [
+            "Wie findest du meine zwei neuen Stühle (pl)? Ich finde",
+            "(them) dumm."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sie"
+              ],
+              "hint": "pl"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-7",
+          "prompt": "Siehst du das Haus da? Wie findest du ___ (it)?",
+          "promptParts": [
+            "Siehst du das Haus da? Wie findest du",
+            "(it)?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "es"
+              ],
+              "hint": "it"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-8",
+          "prompt": "Wo ist mein Stift? Ach, da ist ___ (it).",
+          "promptParts": [
+            "Wo ist mein Stift? Ach, da ist",
+            "(it)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "er"
+              ],
+              "hint": "it"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-9",
+          "prompt": "Thomas und Helena, wann kommt ___ (you, pl) denn?",
+          "promptParts": [
+            "Thomas und Helena, wann kommt",
+            "(you, pl) denn?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihr"
+              ],
+              "hint": "you, pl"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-10",
+          "prompt": "Kennst ___ (you) meine Schwester? ___ (She) heißt Lisa.",
+          "promptParts": [
+            "Kennst",
+            "(you) meine Schwester?",
+            "(She) heißt Lisa."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "du"
+              ],
+              "hint": "you"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Sie"
+              ],
+              "hint": "She"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-11",
+          "prompt": "Ach, der Computer ist viel zu teuer. Ich kaufe ___ (it) nicht.",
+          "promptParts": [
+            "Ach, der Computer ist viel zu teuer. Ich kaufe",
+            "(it) nicht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihn"
+              ],
+              "hint": "it"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-12",
+          "prompt": "Wie findest du meinen neuen Schreibtisch? Ich finde ___ (it) zu modern.",
+          "promptParts": [
+            "Wie findest du meinen neuen Schreibtisch? Ich finde",
+            "(it) zu modern."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihn"
+              ],
+              "hint": "it"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-13",
+          "prompt": "Möchtet ___ (you, pl) mein Auto (n) kaufen? ___ (It) fährt schnell und ist nicht teuer.",
+          "promptParts": [
+            "Möchtet",
+            "(you, pl) mein Auto (n) kaufen?",
+            "(It) fährt schnell und ist nicht teuer."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihr"
+              ],
+              "hint": "you, pl"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Es"
+              ],
+              "hint": "n"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-14",
+          "prompt": "Ich habe sieben Geschwister. ___ (They) wohnen alle zu Hause.",
+          "promptParts": [
+            "Ich habe sieben Geschwister.",
+            "(They) wohnen alle zu Hause."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Sie"
+              ],
+              "hint": "They"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-15",
+          "prompt": "Martin, liebst ___ (you) ___ (me) nicht mehr? ___ (We) gehen nie aus.",
+          "promptParts": [
+            "Martin, liebst",
+            "(you)",
+            "(me) nicht mehr?",
+            "(We) gehen nie aus."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "du"
+              ],
+              "hint": "you"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "mich"
+              ],
+              "hint": "me"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "Wir"
+              ],
+              "hint": "We"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-16",
+          "prompt": "Wie findest du meine neue Tasche? Ich finde ___ (it) sehr schön.",
+          "promptParts": [
+            "Wie findest du meine neue Tasche? Ich finde",
+            "(it) sehr schön."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sie"
+              ],
+              "hint": "it"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-17",
+          "prompt": "Herr Winkler, kennen ___ (You, formal) schon meinen Bruder, Alex?",
+          "promptParts": [
+            "Herr Winkler, kennen",
+            "(You, formal) schon meinen Bruder, Alex?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Sie"
+              ],
+              "hint": "You, formal"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-B-18",
+          "prompt": "Mein Freund und ich sind sehr traurig. Ihr besucht ___ (us) nie.",
+          "promptParts": [
+            "Mein Freund und ich sind sehr traurig. Ihr besucht",
+            "(us) nie."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "uns"
+              ],
+              "hint": "us"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "akkuspronom-C",
+      "type": "pick_and_type",
+      "instructions": "Below are two short stories with various pronouns and articles blanked out for you to fill in. Be careful: there are many different forms here: nominative and accusative personal pronouns as well as articles and even a few possessive pronouns. Use the English clues in parentheses to help.",
+      "items": [
+        {
+          "id": "akkuspronom-C-1",
+          "prompt": "Der Hund Max Ich gehe spazieren. Ich sehe ___ (a) Hund (m). ___ (He) ist klein und schmutzig (=dirty). Ich nehme ___ (him) nach Hause und wasche ___ (him). Ich gebe dem Hund einen Namen: Max. Max hat einen großen Hunger. Max sieht ___ (my) Schuh (m). Er springt und frisst ___ (it). Jetzt ist Max sauber und glücklich (=happy). ___ (He) ist bestimmt ein guter Hund! Aber dann sieht Max ___ (my) Katze (f) -- ___ (she) heißt Carla. Diese Situation ist nicht gut! Carla hat Angst vor Max, und ___ (she) läuft weg. Ich kann ___ (her) nicht finden. Wo ist ___ (she)? Ich rufe, Carla, wo bist ___ (you)? Dann sieht Carla ___ (me) und ___ (she) kommt zurück. Ich gebe Max ___ (a) Knochen (=bone, m) und ich gebe Carla etwas Milch. Bald (=soon) sehe ich ___ (them) zusammen auf meinem Bett: ___ (they) schlafen und sind zufrieden (=content).",
+          "promptParts": [
+            "Der Hund Max Ich gehe spazieren. Ich sehe",
+            "(a) Hund (m).",
+            "(He) ist klein und schmutzig (=dirty). Ich nehme",
+            "(him) nach Hause und wasche",
+            "(him). Ich gebe dem Hund einen Namen: Max. Max hat einen großen Hunger. Max sieht",
+            "(my) Schuh (m). Er springt und frisst",
+            "(it). Jetzt ist Max sauber und glücklich (=happy).",
+            "(He) ist bestimmt ein guter Hund! Aber dann sieht Max",
+            "(my) Katze (f) --",
+            "(she) heißt Carla. Diese Situation ist nicht gut! Carla hat Angst vor Max, und",
+            "(she) läuft weg. Ich kann",
+            "(her) nicht finden. Wo ist",
+            "(she)? Ich rufe, Carla, wo bist",
+            "(you)? Dann sieht Carla",
+            "(me) und",
+            "(she) kommt zurück. Ich gebe Max",
+            "(a) Knochen (=bone, m) und ich gebe Carla etwas Milch. Bald (=soon) sehe ich",
+            "(them) zusammen auf meinem Bett:",
+            "(they) schlafen und sind zufrieden (=content)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "einen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Er"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "ihn"
+              ],
+              "hint": null
+            },
+            {
+              "index": 3,
+              "accept": [
+                "ihn"
+              ],
+              "hint": null
+            },
+            {
+              "index": 4,
+              "accept": [
+                "meinen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 5,
+              "accept": [
+                "ihn"
+              ],
+              "hint": null
+            },
+            {
+              "index": 6,
+              "accept": [
+                "Er"
+              ],
+              "hint": null
+            },
+            {
+              "index": 7,
+              "accept": [
+                "meine"
+              ],
+              "hint": null
+            },
+            {
+              "index": 8,
+              "accept": [
+                "sie"
+              ],
+              "hint": null
+            },
+            {
+              "index": 9,
+              "accept": [
+                "sie"
+              ],
+              "hint": null
+            },
+            {
+              "index": 10,
+              "accept": [
+                "sie"
+              ],
+              "hint": null
+            },
+            {
+              "index": 11,
+              "accept": [
+                "sie"
+              ],
+              "hint": null
+            },
+            {
+              "index": 12,
+              "accept": [
+                "du"
+              ],
+              "hint": null
+            },
+            {
+              "index": 13,
+              "accept": [
+                "mich"
+              ],
+              "hint": null
+            },
+            {
+              "index": 14,
+              "accept": [
+                "sie"
+              ],
+              "hint": null
+            },
+            {
+              "index": 15,
+              "accept": [
+                "einen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 16,
+              "accept": [
+                "sie"
+              ],
+              "hint": null
+            },
+            {
+              "index": 17,
+              "accept": [
+                "sie"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "akkuspronom-D",
+      "type": "fill_blank",
+      "instructions": "Fill in the blanks with the correctly conjugated form of WISSEN or KENNEN.",
+      "items": [
+        {
+          "id": "akkuspronom-D-1",
+          "prompt": "Die Nachbarin ___ meine Telefonnummer nicht.",
+          "promptParts": [
+            "Die Nachbarin",
+            "meine Telefonnummer nicht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "weiß"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-D-2",
+          "prompt": "Ich ___ die Stadt Hamburg sehr gut.",
+          "promptParts": [
+            "Ich",
+            "die Stadt Hamburg sehr gut."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "kenne"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-D-3",
+          "prompt": "___ du, wann er kommt?",
+          "promptParts": [
+            "",
+            "du, wann er kommt?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Weißt"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-D-4",
+          "prompt": "___ ihr, wo die Bibliothek ist?",
+          "promptParts": [
+            "",
+            "ihr, wo die Bibliothek ist?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wisst"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-D-5",
+          "prompt": "Sabine und Marlene ___ die Adresse von Frau Sperber nicht.",
+          "promptParts": [
+            "Sabine und Marlene",
+            "die Adresse von Frau Sperber nicht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wissen"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-D-6",
+          "prompt": "___ du die Kinder da? Und ___ du, wie sie heißen?",
+          "promptParts": [
+            "",
+            "du die Kinder da? Und",
+            "du, wie sie heißen?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Kennst"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "weißt"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-D-7",
+          "prompt": "Mein Freund ___ den Professor.",
+          "promptParts": [
+            "Mein Freund",
+            "den Professor."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "kennt"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-D-8",
+          "prompt": "Ihr ___ bestimmt die neunte Sinfonie von Beethoven.",
+          "promptParts": [
+            "Ihr",
+            "bestimmt die neunte Sinfonie von Beethoven."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "kennt"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-D-9",
+          "prompt": "Endlich (=finally) ___ ich die richtige Antwort!",
+          "promptParts": [
+            "Endlich (=finally)",
+            "ich die richtige Antwort!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "weiß"
+              ],
+              "hint": "=finally"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspronom-D-10",
+          "prompt": "Seinen Sohn ___ die Leute gut.",
+          "promptParts": [
+            "Seinen Sohn",
+            "die Leute gut."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "kennen"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": "comparatives-2",
+  "level": "A2",
+  "title": "Komparative und Superlative 2",
+  "group": "Adjectives",
+  "sourceFile": "kompsuper2.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Use superlative to express the highest degree. Predicate superlative uses am + -sten; attributive uses der/die/das + -ste."
+      },
+      {
+        "type": "example",
+        "de": "Das ist das schönste Buch.",
+        "note": "attributive superlative"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "kompsuper2-C",
+      "type": "fill_blank",
+      "instructions": "Schreiben Sie die richtigen Komparativ- ODER Superlativformen in die Lücken ein.",
+      "items": [
+        {
+          "id": "kompsuper2-C-1",
+          "prompt": "Er wohnt in dem ___ (schön) Haus in der Stadt.",
+          "promptParts": [
+            "Er wohnt in dem",
+            "(schön) Haus in der Stadt."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "schönsten"
+              ],
+              "hint": "sch&#246;n"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper2-C-2",
+          "prompt": "Sie hat ein ___ (groß) Haus als ich.",
+          "promptParts": [
+            "Sie hat ein",
+            "(groß) Haus als ich."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "größeres"
+              ],
+              "hint": "gro&#223;"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper2-C-3",
+          "prompt": "Ich nehme den ___ (nah) Bus.",
+          "promptParts": [
+            "Ich nehme den",
+            "(nah) Bus."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "nächsten"
+              ],
+              "hint": "nah"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper2-C-4",
+          "prompt": "Dieser Film gefällt mir ___ (gut) von allen.",
+          "promptParts": [
+            "Dieser Film gefällt mir",
+            "(gut) von allen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "am besten"
+              ],
+              "hint": "gut"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper2-C-5",
+          "prompt": "Was machen Sie ___ (gern)? -- Ich reise.",
+          "promptParts": [
+            "Was machen Sie",
+            "(gern)? -- Ich reise."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "am liebsten"
+              ],
+              "hint": "gern"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper2-C-6",
+          "prompt": "Können Sie mir sagen, wie ich ___ (schnell) zur Polizei komme?",
+          "promptParts": [
+            "Können Sie mir sagen, wie ich",
+            "(schnell) zur Polizei komme?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "am schnellsten"
+              ],
+              "hint": "schnell"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper2-C-7",
+          "prompt": "Du verdienst ___ (viel) als ich.",
+          "promptParts": [
+            "Du verdienst",
+            "(viel) als ich."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mehr"
+              ],
+              "hint": "viel"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper2-C-8",
+          "prompt": "Das ist die ___ (alt) Kirche in Deutschland.",
+          "promptParts": [
+            "Das ist die",
+            "(alt) Kirche in Deutschland."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "älteste"
+              ],
+              "hint": "alt"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    }
+  ]
+}

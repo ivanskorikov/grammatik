@@ -1,0 +1,633 @@
+{
+  "id": "two-way-prepositions-1",
+  "level": "A2",
+  "title": "Wechselpräpositionen 1",
+  "group": "Prepositions",
+  "sourceFile": "wechselpraeps1.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Wechselpräpositionen (two-way prepositions) take accusative for movement (wohin?) or dative for location (wo?)."
+      },
+      {
+        "type": "list",
+        "content": "an, auf, hinter, in, neben, über, unter, vor, zwischen"
+      },
+      {
+        "type": "example",
+        "de": "Ich gehe in die Schule.",
+        "note": "movement → accusative (die Schule)"
+      },
+      {
+        "type": "example",
+        "de": "Ich bin in der Schule.",
+        "note": "location → dative (der Schule)"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "wechselpraeps1-A",
+      "type": "fill_blank",
+      "instructions": "Fill in the blanks with the appropriate definite articles.",
+      "items": [
+        {
+          "id": "wechselpraeps1-A-1",
+          "prompt": "Das Kind geht unter ___ Tisch (m.).",
+          "promptParts": [
+            "Das Kind geht unter",
+            "Tisch (m.)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "den"
+              ],
+              "hint": "m."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-A-2",
+          "prompt": "Das Kind ist unter ___ Tisch (m.).",
+          "promptParts": [
+            "Das Kind ist unter",
+            "Tisch (m.)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dem"
+              ],
+              "hint": "m."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-A-3",
+          "prompt": "Martin geht an ___ Fenster (n.).",
+          "promptParts": [
+            "Martin geht an",
+            "Fenster (n.)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "das"
+              ],
+              "hint": "n."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-A-4",
+          "prompt": "Martin steht an ___ Fenster (n.).",
+          "promptParts": [
+            "Martin steht an",
+            "Fenster (n.)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dem (=am)"
+              ],
+              "hint": "n."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-A-5",
+          "prompt": "Der Stuhl ist hinter ___ Schreibtisch (m.).",
+          "promptParts": [
+            "Der Stuhl ist hinter",
+            "Schreibtisch (m.)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dem"
+              ],
+              "hint": "m."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-A-6",
+          "prompt": "Das Auto fährt hinter ___ Haus (n.).",
+          "promptParts": [
+            "Das Auto fährt hinter",
+            "Haus (n.)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "das"
+              ],
+              "hint": "n."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-A-7",
+          "prompt": "Das Auto steht vor ___ Haus (n.).",
+          "promptParts": [
+            "Das Auto steht vor",
+            "Haus (n.)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dem"
+              ],
+              "hint": "n."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-A-8",
+          "prompt": "Dein Buch liegt neben ___ Zeitung (f.).",
+          "promptParts": [
+            "Dein Buch liegt neben",
+            "Zeitung (f.)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "der"
+              ],
+              "hint": "f."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-A-9",
+          "prompt": "Er läuft zwischen ___ Stühle (pl.).",
+          "promptParts": [
+            "Er läuft zwischen",
+            "Stühle (pl.)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "die"
+              ],
+              "hint": "pl."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-A-10",
+          "prompt": "Er steht zwischen ___ Stühlen (pl.).",
+          "promptParts": [
+            "Er steht zwischen",
+            "Stühlen (pl.)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "den"
+              ],
+              "hint": "pl."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wechselpraeps1-B",
+      "type": "fill_blank",
+      "instructions": "Fill in the blanks with the prepositions + nouns in the proper case. Remember to check whether the verb indicates motion or not! (Remember that 'wo' (location) vs. 'wohin' (motion) provides a big clue!)",
+      "items": [
+        {
+          "id": "wechselpraeps1-B-1",
+          "prompt": "1.Wo sitzt Großmutter?___ (at the table)",
+          "promptParts": [
+            "1.Wo sitzt Großmutter?",
+            "(at the table)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "am (=an dem) Tisch"
+              ],
+              "hint": "at the table"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-2",
+          "prompt": "2.Wohin geht die Dame?___ (up to the window)",
+          "promptParts": [
+            "2.Wohin geht die Dame?",
+            "(up to the window)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ans (=an das) Fenster"
+              ],
+              "hint": "up to the window"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-3",
+          "prompt": "3.Wo ist mein Mantel?___ (on top of the bed)",
+          "promptParts": [
+            "3.Wo ist mein Mantel?",
+            "(on top of the bed)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "auf dem Bett"
+              ],
+              "hint": "on top of the bed"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-4",
+          "prompt": "4.Wohin laufen die Kinder?___ (onto the football field)",
+          "promptParts": [
+            "4.Wohin laufen die Kinder?",
+            "(onto the football field)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "auf den Fußballplatz"
+              ],
+              "hint": "onto the football field"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-5",
+          "prompt": "5.Wo ist der Regenschirm?___ (behind the door)",
+          "promptParts": [
+            "5.Wo ist der Regenschirm?",
+            "(behind the door)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "hinter der Tür"
+              ],
+              "hint": "behind the door"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-6",
+          "prompt": "6.Wohin läuft der Hund?___ (behind the sofa)",
+          "promptParts": [
+            "6.Wohin läuft der Hund?",
+            "(behind the sofa)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "hinter das Sofa"
+              ],
+              "hint": "behind the sofa"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-7",
+          "prompt": "7.Wo wohnt deine Mutter?___ (in this city)",
+          "promptParts": [
+            "7.Wo wohnt deine Mutter?",
+            "(in this city)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "in dieser Stadt"
+              ],
+              "hint": "in this city"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-8",
+          "prompt": "8.Wohin fährt Onkel Thomas?___ (into the city)",
+          "promptParts": [
+            "8.Wohin fährt Onkel Thomas?",
+            "(into the city)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "in die Stadt"
+              ],
+              "hint": "into the city"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-9",
+          "prompt": "9.Wo findet man die Bäckerei?___ (next to the supermarket)",
+          "promptParts": [
+            "9.Wo findet man die Bäckerei?",
+            "(next to the supermarket)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "neben dem Supermarkt"
+              ],
+              "hint": "next to the supermarket"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-10",
+          "prompt": "10.Wohin wirfst du die Zeitung?___ (next to the chair)",
+          "promptParts": [
+            "10.Wohin wirfst du die Zeitung?",
+            "(next to the chair)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "neben den Stuhl"
+              ],
+              "hint": "next to the chair"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-11",
+          "prompt": "11.Wo hängt die Lampe?___ (above the dresser)",
+          "promptParts": [
+            "11.Wo hängt die Lampe?",
+            "(above the dresser)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "über der Kommode"
+              ],
+              "hint": "above the dresser"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-12",
+          "prompt": "12.Wohin willst du gehen?___ (across the street)",
+          "promptParts": [
+            "12.Wohin willst du gehen?",
+            "(across the street)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "über die Straße"
+              ],
+              "hint": "across the street"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-13",
+          "prompt": "13.Wo schläft die Katze?___ (under the window)",
+          "promptParts": [
+            "13.Wo schläft die Katze?",
+            "(under the window)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "unter dem Fenster"
+              ],
+              "hint": "under the window"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-14",
+          "prompt": "14.Wohin soll ich meine Schuhe setzen?___ (under the bed)",
+          "promptParts": [
+            "14.Wohin soll ich meine Schuhe setzen?",
+            "(under the bed)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "unter das Bett"
+              ],
+              "hint": "under the bed"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-15",
+          "prompt": "15.Wo steht die Lehrerin?___ (in front of the table)",
+          "promptParts": [
+            "15.Wo steht die Lehrerin?",
+            "(in front of the table)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "vor dem Tisch"
+              ],
+              "hint": "in front of the table"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-16",
+          "prompt": "16.Wohin geht der Student?___ (to the front of the class)",
+          "promptParts": [
+            "16.Wohin geht der Student?",
+            "(to the front of the class)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "vor die Klasse"
+              ],
+              "hint": "to the front of the class"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-17",
+          "prompt": "17.Wo sitzt meine Tante?___ (between my brothers)",
+          "promptParts": [
+            "17.Wo sitzt meine Tante?",
+            "(between my brothers)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "zwischen meinen Brüdern"
+              ],
+              "hint": "between my brothers"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps1-B-18",
+          "prompt": "18.Wohin bringe ich das Sofa?___ (between the chairs)",
+          "promptParts": [
+            "18.Wohin bringe ich das Sofa?",
+            "(between the chairs)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "zwischen die Stühle"
+              ],
+              "hint": "between the chairs"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    }
+  ]
+}

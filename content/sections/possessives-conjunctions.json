@@ -1,0 +1,893 @@
+{
+  "id": "possessives-conjunctions",
+  "level": "A2",
+  "title": "Possessive und Konjunktionen",
+  "group": "Adjectives",
+  "sourceFile": "possessiv.html",
+  "overviewSource": "possessivexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Possessive articles (mein, dein, sein, ihr, unser, euer) decline like ein in all cases."
+      },
+      {
+        "type": "example",
+        "de": "Das ist mein Bruder. / Ich sehe meinen Bruder.",
+        "note": "mein (nom.) · meinen (acc. masc.)"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "possessiv-A",
+      "type": "fill_blank",
+      "instructions": "As review from class today, make sure you know the possessive adjectives (my, your, etc). Fill in the chart below.",
+      "items": [
+        {
+          "id": "possessiv-A-1",
+          "prompt": "  ich → ___",
+          "promptParts": [
+            "  ich → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "unser"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-A-2",
+          "prompt": "  du → ___",
+          "promptParts": [
+            "  du → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dein"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-A-3",
+          "prompt": "  er → ___",
+          "promptParts": [
+            "  er → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "euer"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-A-4",
+          "prompt": "  sie → ___",
+          "promptParts": [
+            "  sie → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sein"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-A-5",
+          "prompt": "  es → ___",
+          "promptParts": [
+            "  es → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihr"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "possessiv-B",
+      "type": "pick_and_type",
+      "instructions": "Remember that all these possessives take the same endings as 'ein' or 'kein'. Practice these endings by filling in the following short sentences. Watch out for plural forms and accusative objects!",
+      "items": [
+        {
+          "id": "possessiv-B-1",
+          "prompt": "Das ist ___ (my) Bruder Hans.",
+          "promptParts": [
+            "Das ist",
+            "(my) Bruder Hans."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mein"
+              ],
+              "hint": "my"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-2",
+          "prompt": "Kinder, sind das ___ (your, pl) Eltern?",
+          "promptParts": [
+            "Kinder, sind das",
+            "(your, pl) Eltern?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "eure"
+              ],
+              "hint": "your, pl"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-3",
+          "prompt": "Frau Schmidt, wie heißt ___ (Your, formal) Sohn?",
+          "promptParts": [
+            "Frau Schmidt, wie heißt",
+            "(Your, formal) Sohn?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ihr"
+              ],
+              "hint": "Your, formal"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-4",
+          "prompt": "Hat Lisa ___ (her) Tasche dabei?",
+          "promptParts": [
+            "Hat Lisa",
+            "(her) Tasche dabei?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihre"
+              ],
+              "hint": "her"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-5",
+          "prompt": "Besuchst du oft ___ (your, sg) Bruder?",
+          "promptParts": [
+            "Besuchst du oft",
+            "(your, sg) Bruder?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "deinen"
+              ],
+              "hint": "your, sg"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-6",
+          "prompt": "Martin besucht heute ___ (his) Schwester.",
+          "promptParts": [
+            "Martin besucht heute",
+            "(his) Schwester."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "seine"
+              ],
+              "hint": "his"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-7",
+          "prompt": "Meine Freunde bringen ___ (their) Hund (m) mit.",
+          "promptParts": [
+            "Meine Freunde bringen",
+            "(their) Hund (m) mit."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihren"
+              ],
+              "hint": "their"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-8",
+          "prompt": "Susan beginnt heute ___ (her) neuen Job (m).",
+          "promptParts": [
+            "Susan beginnt heute",
+            "(her) neuen Job (m)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihren"
+              ],
+              "hint": "her"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-9",
+          "prompt": "Am Wochenende treffen wir ___ (our) Freunde (pl).",
+          "promptParts": [
+            "Am Wochenende treffen wir",
+            "(our) Freunde (pl)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "unsere"
+              ],
+              "hint": "our"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-10",
+          "prompt": "Das Kind hört ___ (its) Mutter nicht.",
+          "promptParts": [
+            "Das Kind hört",
+            "(its) Mutter nicht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "seine"
+              ],
+              "hint": "its"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-11",
+          "prompt": "Kommen ___ (your, sg) Schwestern mit?",
+          "promptParts": [
+            "Kommen",
+            "(your, sg) Schwestern mit?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "deine"
+              ],
+              "hint": "your, sg"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-12",
+          "prompt": "Wo ist ___ (our) Computer (m)?",
+          "promptParts": [
+            "Wo ist",
+            "(our) Computer (m)?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "unser"
+              ],
+              "hint": "our"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-13",
+          "prompt": "Robert trinkt ___ (his) Bier.",
+          "promptParts": [
+            "Robert trinkt",
+            "(his) Bier."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sein"
+              ],
+              "hint": "his"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-14",
+          "prompt": "Sehen Sie ___ (your, pl) Vater?",
+          "promptParts": [
+            "Sehen Sie",
+            "(your, pl) Vater?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "euren"
+              ],
+              "hint": "your, pl"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-15",
+          "prompt": "Die Kinder müssen schnell kommen. ___ (their) Abendessen wird kalt.",
+          "promptParts": [
+            "Die Kinder müssen schnell kommen.",
+            "(their) Abendessen wird kalt."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ihr"
+              ],
+              "hint": "their"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-B-16",
+          "prompt": "Herr Lohberger, haben Sie ___ (Your, formal) Stift mit?",
+          "promptParts": [
+            "Herr Lohberger, haben Sie",
+            "(Your, formal) Stift mit?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ihren"
+              ],
+              "hint": "Your, formal"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "possessiv-C",
+      "type": "fill_blank",
+      "instructions": "First, review the correct conjugation of \"möchten\" and \"können\" by filling in the chart below. Then answer the questions using the clues provided, paying attention to the subjects and to word order.",
+      "items": [
+        {
+          "id": "possessiv-C-1",
+          "prompt": "  ich → ___",
+          "promptParts": [
+            "  ich → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "möchten"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-C-2",
+          "prompt": "  du → ___",
+          "promptParts": [
+            "  du → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "können"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-C-3",
+          "prompt": "  er/sie/es → ___",
+          "promptParts": [
+            "  er/sie/es → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "möchtest"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "possessiv-D",
+      "type": "fill_blank",
+      "instructions": "Fill in an appropriate conjunction from the list below.",
+      "items": [
+        {
+          "id": "possessiv-D-1",
+          "prompt": "Gerhardt wohnt in Leipzig, ___ er studiert in Chemnitz.",
+          "promptParts": [
+            "Gerhardt wohnt in Leipzig,",
+            "er studiert in Chemnitz."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "aber (und)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-D-2",
+          "prompt": "Anna ist entweder (=either) in der Bibliothek, ___ sie ist im Supermarkt.",
+          "promptParts": [
+            "Anna ist entweder (=either) in der Bibliothek,",
+            "sie ist im Supermarkt."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "oder"
+              ],
+              "hint": "=either"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-D-3",
+          "prompt": "Kurt Weill ist kein Autor, ___ er ist Komponist.",
+          "promptParts": [
+            "Kurt Weill ist kein Autor,",
+            "er ist Komponist."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sondern"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-D-4",
+          "prompt": "Ich habe keine Angst vor Markus, ___ er ist sehr freundlich.",
+          "promptParts": [
+            "Ich habe keine Angst vor Markus,",
+            "er ist sehr freundlich."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "denn"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-D-5",
+          "prompt": "Ich kann singen ___ ich kann auch Klavier spielen.",
+          "promptParts": [
+            "Ich kann singen",
+            "ich kann auch Klavier spielen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "und"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-D-6",
+          "prompt": "Es ist nicht kalt heute, ___ es ist warm.",
+          "promptParts": [
+            "Es ist nicht kalt heute,",
+            "es ist warm."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sondern"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-D-7",
+          "prompt": "Es ist nicht kalt heute, ___ es ist windig.",
+          "promptParts": [
+            "Es ist nicht kalt heute,",
+            "es ist windig."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "aber"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-D-8",
+          "prompt": "Ich möchte ins Kino gehen, ___ mein Freund kann nicht, ___ er muss (=must) für eine Prüfung lernen.",
+          "promptParts": [
+            "Ich möchte ins Kino gehen,",
+            "mein Freund kann nicht,",
+            "er muss (=must) für eine Prüfung lernen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "aber"
+              ],
+              "hint": "=must"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "denn"
+              ],
+              "hint": "=must"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-D-9",
+          "prompt": "Ich gehe heute abend nicht aus, ___ ich bleibe zu Hause, ___ ich muss meine Hausaufgaben machen.",
+          "promptParts": [
+            "Ich gehe heute abend nicht aus,",
+            "ich bleibe zu Hause,",
+            "ich muss meine Hausaufgaben machen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sondern"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "denn"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "possessiv-E",
+      "type": "fill_blank",
+      "instructions": "Translating can be difficult, but use the patterns we've been practicing to translate the following sentences into German.",
+      "items": [
+        {
+          "id": "possessiv-E-1",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Frau Schmidt, ich möchte Ihre Adresse, bitte."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-E-2",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich nehme/bringe mein Buch mit, denn ich möchte im Auto lesen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-E-3",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Liebt deine Mutter ihre Kinder?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-E-4",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ihr Sohn besucht unsere Tochter nicht gern."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-E-5",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Hast du meinen Hamburger? -- Nein, aber ich habe deine Pommes frites, deine Cola und dein Eis."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "possessiv-E-6",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Meine Schwester möchte ihren Freund mitbringen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    }
+  ]
+}

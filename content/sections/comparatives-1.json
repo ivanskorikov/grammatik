@@ -1,0 +1,712 @@
+{
+  "id": "comparatives-1",
+  "level": "A2",
+  "title": "Komparative und Superlative",
+  "group": "Adjectives",
+  "sourceFile": "kompsuper1.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Comparative: adjective + -er. Superlative: am … -sten or der/die/das … -ste. Umlaut often appears on a/o/u in one-syllable adjectives."
+      },
+      {
+        "type": "list",
+        "content": "groß → größer → am größten\ngut → besser → am besten\nviel → mehr → am meisten"
+      },
+      {
+        "type": "example",
+        "de": "Berlin ist größer als München.",
+        "note": "comparative + als"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "kompsuper1-A",
+      "type": "fill_blank",
+      "instructions": "Schreiben Sie die Komparativformen und die Superlativformen von den folgenden Adjektiven, und auch die englischen Bedeutungen.",
+      "items": [
+        {
+          "id": "kompsuper1-A-1",
+          "prompt": "neu  → ___",
+          "promptParts": [
+            "neu  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "älter"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-A-2",
+          "prompt": "jung  → ___",
+          "promptParts": [
+            "jung  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ältesten"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-A-3",
+          "prompt": "interessant  → ___",
+          "promptParts": [
+            "interessant  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "old"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-A-4",
+          "prompt": "langweilig  → ___",
+          "promptParts": [
+            "langweilig  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "jünger"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-A-5",
+          "prompt": "stark  → ___",
+          "promptParts": [
+            "stark  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "jüngsten"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-A-6",
+          "prompt": "groß  → ___",
+          "promptParts": [
+            "groß  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "young"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-A-7",
+          "prompt": "kurz  → ___",
+          "promptParts": [
+            "kurz  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "interessanter"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-A-8",
+          "prompt": "gut  → ___",
+          "promptParts": [
+            "gut  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "interessantesten"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kompsuper1-B",
+      "type": "fill_blank",
+      "instructions": "Übersetzen Sie die folgenden Ausdrücke.",
+      "items": [
+        {
+          "id": "kompsuper1-B-1",
+          "prompt": "My house is as big as your house.  → ___",
+          "promptParts": [
+            "My house is as big as your house.  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Mein Haus ist größer als dein Haus."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-B-2",
+          "prompt": "I have the fastest car.  → ___",
+          "promptParts": [
+            "I have the fastest car.  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Mein Haus ist so groß wie dein Haus."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-B-3",
+          "prompt": "My car drives the fastest.  → ___",
+          "promptParts": [
+            "My car drives the fastest.  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich habe das schnellste Auto."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-B-4",
+          "prompt": "You are smarter than I am.  → ___",
+          "promptParts": [
+            "You are smarter than I am.  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Mein Auto fährt am schnellsten."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-B-5",
+          "prompt": "You are smarter than me.  → ___",
+          "promptParts": [
+            "You are smarter than me.  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Du bist klüger (intelligenter) als ich."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kompsuper1-C",
+      "type": "word_bank",
+      "instructions": "Wählen Sie das richtige Adjektiv, und setzen Sie es in den Komparativ. Achten Sie auf die Adjektivendungen!",
+      "items": [
+        {
+          "id": "kompsuper1-C-1",
+          "prompt": "Diese Kamera ist zu teuer. Haben Sie keine ___ Kamera?",
+          "promptParts": [
+            "Diese Kamera ist zu teuer. Haben Sie keine",
+            "Kamera?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "billigere"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "bequem",
+            "billig",
+            "gern",
+            "groß",
+            "gut",
+            "klug",
+            "viel"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-C-2",
+          "prompt": "Mein Garten ist so klein. Ich möchte einen ___ Garten.",
+          "promptParts": [
+            "Mein Garten ist so klein. Ich möchte einen",
+            "Garten."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "größeren"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "bequem",
+            "billig",
+            "gern",
+            "groß",
+            "gut",
+            "klug",
+            "viel"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-C-3",
+          "prompt": "Wohnst du ___ auf dem Land oder in der Stadt?",
+          "promptParts": [
+            "Wohnst du",
+            "auf dem Land oder in der Stadt?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "lieber"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "bequem",
+            "billig",
+            "gern",
+            "groß",
+            "gut",
+            "klug",
+            "viel"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-C-4",
+          "prompt": "Ich bin arm. Du hast ___ Geld als ich.",
+          "promptParts": [
+            "Ich bin arm. Du hast",
+            "Geld als ich."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mehr"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "bequem",
+            "billig",
+            "gern",
+            "groß",
+            "gut",
+            "klug",
+            "viel"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-C-5",
+          "prompt": "Dieses Hotel ist sehr schlecht. Ich suche mir ein ___ Hotel.",
+          "promptParts": [
+            "Dieses Hotel ist sehr schlecht. Ich suche mir ein",
+            "Hotel."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "besseres"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "bequem",
+            "billig",
+            "gern",
+            "groß",
+            "gut",
+            "klug",
+            "viel"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-C-6",
+          "prompt": "Sie ist ziemlich dumm. Ich glaube, dass ich ___ bin.",
+          "promptParts": [
+            "Sie ist ziemlich dumm. Ich glaube, dass ich",
+            "bin."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "klüger"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "bequem",
+            "billig",
+            "gern",
+            "groß",
+            "gut",
+            "klug",
+            "viel"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-C-7",
+          "prompt": "Dieser Stuhl ist mir zu hart. Ich sehe dort einen ___ Stuhl.",
+          "promptParts": [
+            "Dieser Stuhl ist mir zu hart. Ich sehe dort einen",
+            "Stuhl."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "bequemeren"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "bequem",
+            "billig",
+            "gern",
+            "groß",
+            "gut",
+            "klug",
+            "viel"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kompsuper1-D",
+      "type": "fill_blank",
+      "instructions": "Ergänzen Sie die Sätze mit den Superlativformen.",
+      "items": [
+        {
+          "id": "kompsuper1-D-2",
+          "prompt": "Im Juli ist es hier heißer als im Juni, aber im August ist es ___.",
+          "promptParts": [
+            "Im Juli ist es hier heißer als im Juni, aber im August ist es",
+            "."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "am heißesten"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-D-3",
+          "prompt": "Mein Bruder weiß mehr als ich, aber meine Schwester weiß ___.",
+          "promptParts": [
+            "Mein Bruder weiß mehr als ich, aber meine Schwester weiß",
+            "."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "am meisten"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-D-4",
+          "prompt": "Ins Theater gehen wir lieber als in die Oper, aber ins Kino gehen wir ___.",
+          "promptParts": [
+            "Ins Theater gehen wir lieber als in die Oper, aber ins Kino gehen wir",
+            "."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "am liebsten"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-D-5",
+          "prompt": "In meinem Zimmer ist es dunkler als in deinem, aber in Evas Zimmer ist es ___.",
+          "promptParts": [
+            "In meinem Zimmer ist es dunkler als in deinem, aber in Evas Zimmer ist es",
+            "."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "am dunkelsten"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-D-6",
+          "prompt": "Eine Flöte spielt lauter als eine Violine, aber eine Trompete spielt ___.",
+          "promptParts": [
+            "Eine Flöte spielt lauter als eine Violine, aber eine Trompete spielt",
+            "."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "am lautesten"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-D-7",
+          "prompt": "Im Sommer ist es bei uns schöner als im Winter, aber im Herbst ist es ___.",
+          "promptParts": [
+            "Im Sommer ist es bei uns schöner als im Winter, aber im Herbst ist es",
+            "."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "am schönsten"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "kompsuper1-D-8",
+          "prompt": "Chemie finde ich interessanter als Mathe, aber Deutsch ist ___.",
+          "promptParts": [
+            "Chemie finde ich interessanter als Mathe, aber Deutsch ist",
+            "."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "am interessantesten"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kompsuper1-F",
+      "type": "fill_blank",
+      "instructions": "The following are somewhat harder sentences to translate, because there are few exceptions or unique ways of doing things. We probably wouldn't put any of these on a quiz, but see how well you can translate them! Hints (explanations of what's hard about these) appear below.",
+      "items": [
+        {
+          "id": "kompsuper1-F-8",
+          "prompt": "Just to show you how ridiculous German adjective endings can get when used with comparatives. \"Clean\" = sauber, \"cleaner\" = sauberer, and add the correct ending for ein sauberer___ Junge.",
+          "promptParts": [
+            "Just to show you how ridiculous German adjective endings can get when used with comparatives. \"Clean\" = sauber, \"cleaner\" = sauberer, and add the correct ending for ein sauberer",
+            "Junge."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Du bist ein besserer Student als ich."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    }
+  ]
+}

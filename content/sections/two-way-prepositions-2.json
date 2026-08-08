@@ -1,0 +1,313 @@
+{
+  "id": "two-way-prepositions-2",
+  "level": "A2",
+  "title": "Wechselpräpositionen 2",
+  "group": "Prepositions",
+  "sourceFile": "wechselpraeps2.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "More practice with the wohin/wo distinction. Movement = accusative; static position = dative."
+      },
+      {
+        "type": "example",
+        "de": "Sie stellt die Vase auf den Tisch.",
+        "note": "onto → accusative (den Tisch)"
+      },
+      {
+        "type": "example",
+        "de": "Die Vase steht auf dem Tisch.",
+        "note": "on → dative (dem Tisch)"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "wechselpraeps2-A",
+      "type": "fill_blank",
+      "instructions": "Füllen Sie die Lücken mit den richtigen Artikeln oder Pronomen ein. Achten Sie auf den Kasus!",
+      "items": [
+        {
+          "id": "wechselpraeps2-A-1",
+          "prompt": "Anna geht in ___ (the) Theater und setzt sich hinter ___ (a) großen Mann hin. In ___ (the) Theater ist es ganz dunkel. Jetzt sitzt sie hinter ___ (the) Mann und kann nichts sehen. Die Schauspieler springen auf ___ (the) Bühne (=stage, f.) und das Stück fängt an. Über ___ (the) Bühne hängen schöne Lampen: rote, grüne, und blaue. Anna sieht die Lampen über ___ (the) Schauspieler___ (=actors, pl.), aber sie sieht die Schauspieler nicht! Der Mann vor ___ (her) ist SEHR groß. Neben ___ (her) setzen sich zwei Frauen hin. Jetzt sitzt Anna zwischen ___ (the) Frauen und hinter ___ (the) großen Mann. Sie kann nicht weggehen und sie kann nichts sehen. Unter ___ (her) Sitzplatz (=seat, m.) findet sie alten Kaugummi (=chewing gum). Bäh!!! Plötzlich springt Anna über ___ (the) Frau neben ihr und fällt auf ___ (the) Boden (=ground, m.). Sie sitzt auf ___ (the) Boden und schreit: \"Ich kann Sie da auf ___ (the) Bühne nicht sehen!\" Das darf man in ___ (a) Theater natürlich nicht machen. Die Polizei kommt, und sie muss in ___ (the) Gefängnis (=prison, n.) gehen. Moral: Du sollst nicht hinter ___ (a) großen Mann in Theater sitzen.",
+          "promptParts": [
+            "Anna geht in",
+            "(the) Theater und setzt sich hinter",
+            "(a) großen Mann hin. In",
+            "(the) Theater ist es ganz dunkel. Jetzt sitzt sie hinter",
+            "(the) Mann und kann nichts sehen. Die Schauspieler springen auf",
+            "(the) Bühne (=stage, f.) und das Stück fängt an. Über",
+            "(the) Bühne hängen schöne Lampen: rote, grüne, und blaue. Anna sieht die Lampen über",
+            "(the) Schauspieler",
+            "(=actors, pl.), aber sie sieht die Schauspieler nicht! Der Mann vor",
+            "(her) ist SEHR groß. Neben",
+            "(her) setzen sich zwei Frauen hin. Jetzt sitzt Anna zwischen",
+            "(the) Frauen und hinter",
+            "(the) großen Mann. Sie kann nicht weggehen und sie kann nichts sehen. Unter",
+            "(her) Sitzplatz (=seat, m.) findet sie alten Kaugummi (=chewing gum). Bäh!!! Plötzlich springt Anna über",
+            "(the) Frau neben ihr und fällt auf",
+            "(the) Boden (=ground, m.). Sie sitzt auf",
+            "(the) Boden und schreit: \"Ich kann Sie da auf",
+            "(the) Bühne nicht sehen!\" Das darf man in",
+            "(a) Theater natürlich nicht machen. Die Polizei kommt, und sie muss in",
+            "(the) Gefängnis (=prison, n.) gehen. Moral: Du sollst nicht hinter",
+            "(a) großen Mann in Theater sitzen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "das"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "einen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "dem"
+              ],
+              "hint": null
+            },
+            {
+              "index": 3,
+              "accept": [
+                "dem"
+              ],
+              "hint": null
+            },
+            {
+              "index": 4,
+              "accept": [
+                "die"
+              ],
+              "hint": null
+            },
+            {
+              "index": 5,
+              "accept": [
+                "der"
+              ],
+              "hint": null
+            },
+            {
+              "index": 6,
+              "accept": [
+                "den"
+              ],
+              "hint": null
+            },
+            {
+              "index": 7,
+              "accept": [
+                "n"
+              ],
+              "hint": null
+            },
+            {
+              "index": 8,
+              "accept": [
+                "ihr"
+              ],
+              "hint": null
+            },
+            {
+              "index": 9,
+              "accept": [
+                "sie"
+              ],
+              "hint": null
+            },
+            {
+              "index": 10,
+              "accept": [
+                "den"
+              ],
+              "hint": null
+            },
+            {
+              "index": 11,
+              "accept": [
+                "dem"
+              ],
+              "hint": null
+            },
+            {
+              "index": 12,
+              "accept": [
+                "ihrem"
+              ],
+              "hint": null
+            },
+            {
+              "index": 13,
+              "accept": [
+                "die"
+              ],
+              "hint": null
+            },
+            {
+              "index": 14,
+              "accept": [
+                "den"
+              ],
+              "hint": null
+            },
+            {
+              "index": 15,
+              "accept": [
+                "dem"
+              ],
+              "hint": null
+            },
+            {
+              "index": 16,
+              "accept": [
+                "der"
+              ],
+              "hint": null
+            },
+            {
+              "index": 17,
+              "accept": [
+                "einem"
+              ],
+              "hint": null
+            },
+            {
+              "index": 18,
+              "accept": [
+                "das"
+              ],
+              "hint": null
+            },
+            {
+              "index": 19,
+              "accept": [
+                "einem"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wechselpraeps2-C",
+      "type": "free_text",
+      "instructions": "Wählen Sie das richtige Wort in Klammern.",
+      "items": [
+        {
+          "id": "wechselpraeps2-C-1",
+          "prompt": "[ Wo / Wohin ] gehst du heute Abend? -- Ich gehe [ ins / im ] Theater.",
+          "acceptFull": [
+            "Wohin"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps2-C-2",
+          "prompt": "[ Wo / Wohin ] ist dein Mantel? -- Er hängt [ an / auf ] der Wand dort.",
+          "acceptFull": [
+            "ins"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps2-C-3",
+          "prompt": "[ Wo / Wohin ] fährt deine Mutter? -- Sie muß [ an / auf ] die Post gehen.",
+          "acceptFull": [
+            "Wo"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps2-C-4",
+          "prompt": "[ Wo / Wohin ] soll ich den Brief schicken? -- An [ dieser / diese ] Adresse in Berlin.",
+          "acceptFull": [
+            "an"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps2-C-5",
+          "prompt": "[ Wo / Wohin ] liegt Ulm? -- Ulm liegt [ an / auf / in ] der Donau (=Danube).",
+          "acceptFull": [
+            "Wohin"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps2-C-6",
+          "prompt": "[ Wo / Wohin ] ist der Brief von meiner Freundin? -- Er [ legt / liegt ] auf dem Tisch.",
+          "acceptFull": [
+            "auf"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps2-C-7",
+          "prompt": "[ Wo / Wohin ] hast du mein Fahrrad gestellt? -- Es [ steht / stellt ] hinter der Garage.",
+          "acceptFull": [
+            "Wohin"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps2-C-8",
+          "prompt": "[ Wo / Wohin ] ist die Bäckerei? -- Die Bäckerei [ liegt / sitzt ] neben der Metzgerei.",
+          "acceptFull": [
+            "diese"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps2-C-9",
+          "prompt": "[ Wo / Wohin ] wohnst du jetzt? -- Ich wohne [ an / auf / in ] der Schillerstraße.",
+          "acceptFull": [
+            "Wo"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    }
+  ]
+}

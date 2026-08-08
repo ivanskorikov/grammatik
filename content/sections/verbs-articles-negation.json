@@ -1,0 +1,1222 @@
+{
+  "id": "verbs-articles-negation",
+  "level": "A1",
+  "title": "Wiederholung: Verben, Artikel und Negation",
+  "group": "Verbs",
+  "sourceFile": "verbartiknegat.html",
+  "overviewSource": "negationexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Negate verbs with nicht (not the verb itself). Negate nouns with kein (not a/ no + noun) — kein declines like ein."
+      },
+      {
+        "type": "example",
+        "de": "Ich trinke nicht Kaffee. / Ich trinke keinen Kaffee.",
+        "note": "nicht = general negation · kein = \"no/not a\" + noun"
+      },
+      {
+        "type": "example",
+        "de": "Das ist kein Problem.",
+        "note": "kein + nominative neuter"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "verbartiknegat-A",
+      "type": "fill_blank",
+      "instructions": "Fill in the blanks with an appropriate verb from the list, conjugated to match the subject!",
+      "items": [
+        {
+          "id": "verbartiknegat-A-1",
+          "prompt": "Die Kinder ___ gern Tennis und Fußball.",
+          "promptParts": [
+            "Die Kinder",
+            "gern Tennis und Fußball."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "spielen"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-2",
+          "prompt": "Karin ___ oft klassische Musik im Radio.",
+          "promptParts": [
+            "Karin",
+            "oft klassische Musik im Radio."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "hört"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-3",
+          "prompt": "Im Sommer ___ mein Bruder nach Australien.",
+          "promptParts": [
+            "Im Sommer",
+            "mein Bruder nach Australien."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "fliegt"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-4",
+          "prompt": "Ich ___ aus den USA.",
+          "promptParts": [
+            "Ich",
+            "aus den USA."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "komme"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-5",
+          "prompt": "___ Sie einen Stift?",
+          "promptParts": [
+            "",
+            "Sie einen Stift?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Haben"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-6",
+          "prompt": "Du ___ freundlich.",
+          "promptParts": [
+            "Du",
+            "freundlich."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "bist"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-7",
+          "prompt": "Meine Mutter ___ heute eine Suppe.",
+          "promptParts": [
+            "Meine Mutter",
+            "heute eine Suppe."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "kocht"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-8",
+          "prompt": "___ du die neue CD von Radiohead?",
+          "promptParts": [
+            "",
+            "du die neue CD von Radiohead?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Kaufst"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-9",
+          "prompt": "Nein, die CD ___ €15! Das ist zu viel!",
+          "promptParts": [
+            "Nein, die CD",
+            "€15! Das ist zu viel!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "kostet"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-10",
+          "prompt": "Ich ___ meine Schlüssel (=keys) nicht!",
+          "promptParts": [
+            "Ich",
+            "meine Schlüssel (=keys) nicht!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "finde"
+              ],
+              "hint": "=keys"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-11",
+          "prompt": "___ ihr die Eltern nächste Woche?",
+          "promptParts": [
+            "",
+            "ihr die Eltern nächste Woche?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Besucht"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-12",
+          "prompt": "Lars und Maria ___ ihre Hausaufgaben in der Bibliothek.",
+          "promptParts": [
+            "Lars und Maria",
+            "ihre Hausaufgaben in der Bibliothek."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "machen"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-13",
+          "prompt": "___ du gern Emails?",
+          "promptParts": [
+            "",
+            "du gern Emails?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Schreibst"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-14",
+          "prompt": "Meine Schwester ___ Mathematik an der Uni.",
+          "promptParts": [
+            "Meine Schwester",
+            "Mathematik an der Uni."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "studiert"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-15",
+          "prompt": "___ ihr gern in den Bergen?",
+          "promptParts": [
+            "",
+            "ihr gern in den Bergen?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wandert"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-16",
+          "prompt": "Paul ___ bei McDonald's.",
+          "promptParts": [
+            "Paul",
+            "bei McDonald's."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "arbeitet"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-17",
+          "prompt": "Bernhard ___ kein Bier.",
+          "promptParts": [
+            "Bernhard",
+            "kein Bier."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "trinkt"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-A-18",
+          "prompt": "___ du ein neues Haus?",
+          "promptParts": [
+            "",
+            "du ein neues Haus?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Suchst"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbartiknegat-B",
+      "type": "fill_blank",
+      "instructions": "Fill in the blanks with the correct form of the definite article (e.g. 'der') in either the nominative or accusative case.",
+      "items": [
+        {
+          "id": "verbartiknegat-B-1",
+          "prompt": "Ich sehe ___ Schreibtisch.",
+          "promptParts": [
+            "Ich sehe",
+            "Schreibtisch."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "den"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-2",
+          "prompt": "Das ist ___ Schreibtisch.",
+          "promptParts": [
+            "Das ist",
+            "Schreibtisch."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "der"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-3",
+          "prompt": "Um 6 Uhr kauft ___ Mann ___ Tisch.",
+          "promptParts": [
+            "Um 6 Uhr kauft",
+            "Mann",
+            "Tisch."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "der"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "den"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-4",
+          "prompt": "Ich mache ___ Fenster und ___ Tür im Klassenzimmer auf.",
+          "promptParts": [
+            "Ich mache",
+            "Fenster und",
+            "Tür im Klassenzimmer auf."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "das"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "die"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-5",
+          "prompt": "Warum tanzen ___ Schwestern nicht gern?",
+          "promptParts": [
+            "Warum tanzen",
+            "Schwestern nicht gern?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "die"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-6",
+          "prompt": "___ Tochter kommt heute und morgen kommt ___ Sohn.",
+          "promptParts": [
+            "",
+            "Tochter kommt heute und morgen kommt",
+            "Sohn."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Die"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "der"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-7",
+          "prompt": "Ich suche ___ Vetter von Maria.",
+          "promptParts": [
+            "Ich suche",
+            "Vetter von Maria."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "den"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-8",
+          "prompt": "Kommen ___ Freunde heute Abend vorbei?",
+          "promptParts": [
+            "Kommen",
+            "Freunde heute Abend vorbei?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "die"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-9",
+          "prompt": "Ich rufe ___ Vater und ___ Mutter an.",
+          "promptParts": [
+            "Ich rufe",
+            "Vater und",
+            "Mutter an."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "den"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "die"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-10",
+          "prompt": "Wohnt ___ Mann in Madison?",
+          "promptParts": [
+            "Wohnt",
+            "Mann in Madison?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "der"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbartiknegat-B",
+      "type": "pick_and_type",
+      "instructions": "Fill in the blanks with the correct form of the indefinite article (e.g. 'ein') in either the nominative or accusative case.",
+      "items": [
+        {
+          "id": "verbartiknegat-B-1",
+          "prompt": "Das Klassenzimmer hat ___ Overheadprojektor.",
+          "promptParts": [
+            "Das Klassenzimmer hat",
+            "Overheadprojektor."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "den"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-2",
+          "prompt": "___ Uhr hängt über der Tür.",
+          "promptParts": [
+            "",
+            "Uhr hängt über der Tür."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "der"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-3",
+          "prompt": "Die Studenten lesen ___ Buch.",
+          "promptParts": [
+            "Die Studenten lesen",
+            "Buch."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "der"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-4",
+          "prompt": "Das ist ___ Stuhl.",
+          "promptParts": [
+            "Das ist",
+            "Stuhl."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "den"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-5",
+          "prompt": "Ich sehe ___ Stuhl.",
+          "promptParts": [
+            "Ich sehe",
+            "Stuhl."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "das"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-6",
+          "prompt": "Hans-Joachim kauft ___ Lampe.",
+          "promptParts": [
+            "Hans-Joachim kauft",
+            "Lampe."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "die"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-7",
+          "prompt": "Hast du ___ Bruder oder ___ Schwester?",
+          "promptParts": [
+            "Hast du",
+            "Bruder oder",
+            "Schwester?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "die"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Die"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-8",
+          "prompt": "___ Student hat ___ Papierkorb.",
+          "promptParts": [
+            "",
+            "Student hat",
+            "Papierkorb."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "der"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "den"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-9",
+          "prompt": "Manfred trinkt ___ Bier (n).",
+          "promptParts": [
+            "Manfred trinkt",
+            "Bier (n)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "die"
+              ],
+              "hint": "n"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-B-10",
+          "prompt": "M___ Vater kauft ___ Stift, ___ Telefon und ___ Uhr für mich.",
+          "promptParts": [
+            "M",
+            "Vater kauft",
+            "Stift,",
+            "Telefon und",
+            "Uhr für mich."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "den"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "die"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "der"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbartiknegat-D",
+      "type": "pick_and_type",
+      "instructions": "Fill in the blanks with 'nicht' or the correct form of 'kein'.",
+      "items": [
+        {
+          "id": "verbartiknegat-D-1",
+          "prompt": "Anna spielt ___ gern Fußball.",
+          "promptParts": [
+            "Anna spielt",
+            "gern Fußball."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "nicht"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-D-2",
+          "prompt": "Ich habe ___ viele Freunde.",
+          "promptParts": [
+            "Ich habe",
+            "viele Freunde."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "kein"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-D-3",
+          "prompt": "Du hast ___ Freunde.",
+          "promptParts": [
+            "Du hast",
+            "Freunde."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "nicht"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-D-4",
+          "prompt": "Er geht morgen ___ spazieren.",
+          "promptParts": [
+            "Er geht morgen",
+            "spazieren."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "nicht"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-D-5",
+          "prompt": "Heute machen wir ___ Pause (f).",
+          "promptParts": [
+            "Heute machen wir",
+            "Pause (f)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "keine"
+              ],
+              "hint": "f"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbartiknegat-E",
+      "type": "fill_blank",
+      "instructions": "Make sure you can answer questions like the following in complete sentences.",
+      "items": [
+        {
+          "id": "verbartiknegat-E-1",
+          "prompt": "Lernst du gern Deutsch? → ___",
+          "promptParts": [
+            "Lernst du gern Deutsch? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ja, ich lerne gern Deutsch (oder: Nein, ich lerne nicht gern Deutsch)."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-E-2",
+          "prompt": "Welchen Sport spielst du gern? → ___",
+          "promptParts": [
+            "Welchen Sport spielst du gern? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich spiele gern Fußball. (oder: Ich spiele keinen Sport gern.)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "verbartiknegat-E-3",
+          "prompt": "Welche Musikgruppe hörst du gern? → ___",
+          "promptParts": [
+            "Welche Musikgruppe hörst du gern? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich höre Radiohead gern. Ich höre klassische Musik auch gern."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbartiknegat-F",
+      "type": "fill_blank",
+      "instructions": "Fill in the blanks with the correct prefix to match the verbs. Some prefixes will be used multiple times, as indicated. (Not on quiz in this form.)",
+      "items": [
+        {
+          "id": "verbartiknegat-F-1",
+          "prompt": "Was mache ich an einem normalen Tag? Ich wache morgens schon früh ___ und stehe um fünf Uhr ___. Ich wohne zusammen mit meinem Bruder Mark in einer alten Villa in Berlin. Wir beide sind so etwas wie Hausmänner für die Familie Schröder; wir kaufen für sie ___, räumen das Haus ein bisschen ___ und arbeiten im Garten. Ich habe zwei Tagespläne: einen für das Geld und einen für die Kunst. An drei Tagen arbeite ich im Hotel als Junge für alles. Um sieben Uhr komme ich zur Arbeit ___. Um drei Uhr nachmittags komme ich nach Hause ___. Dann schlafe ich erst mal ein bis zwei Stunden. So habe ich die Illusion, mein Tag beginnt noch einmal neu. Dann beginnt nämlich mein Leben für die Kunst. Meistens habe ich ein Projekt ___: Ich mache Skulpturen aus Metall und Plastik. Abends rufe ich manchmal ein paar Freunde ___. Sie kommen dann ___, und dann reden wir und trinken Bier bis Mitternacht. Ich gehe nie vor ein Uhr nachts ___. Ich brauche auch nicht viel Schlaf.",
+          "promptParts": [
+            "Was mache ich an einem normalen Tag? Ich wache morgens schon früh",
+            "und stehe um fünf Uhr",
+            ". Ich wohne zusammen mit meinem Bruder Mark in einer alten Villa in Berlin. Wir beide sind so etwas wie Hausmänner für die Familie Schröder; wir kaufen für sie",
+            ", räumen das Haus ein bisschen",
+            "und arbeiten im Garten. Ich habe zwei Tagespläne: einen für das Geld und einen für die Kunst. An drei Tagen arbeite ich im Hotel als Junge für alles. Um sieben Uhr komme ich zur Arbeit",
+            ". Um drei Uhr nachmittags komme ich nach Hause",
+            ". Dann schlafe ich erst mal ein bis zwei Stunden. So habe ich die Illusion, mein Tag beginnt noch einmal neu. Dann beginnt nämlich mein Leben für die Kunst. Meistens habe ich ein Projekt",
+            ": Ich mache Skulpturen aus Metall und Plastik. Abends rufe ich manchmal ein paar Freunde",
+            ". Sie kommen dann",
+            ", und dann reden wir und trinken Bier bis Mitternacht. Ich gehe nie vor ein Uhr nachts",
+            ". Ich brauche auch nicht viel Schlaf."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "auf"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "auf"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "ein"
+              ],
+              "hint": null
+            },
+            {
+              "index": 3,
+              "accept": [
+                "auf"
+              ],
+              "hint": null
+            },
+            {
+              "index": 4,
+              "accept": [
+                "an"
+              ],
+              "hint": null
+            },
+            {
+              "index": 5,
+              "accept": [
+                "zurück"
+              ],
+              "hint": null
+            },
+            {
+              "index": 6,
+              "accept": [
+                "vor"
+              ],
+              "hint": null
+            },
+            {
+              "index": 7,
+              "accept": [
+                "an"
+              ],
+              "hint": null
+            },
+            {
+              "index": 8,
+              "accept": [
+                "vorbei"
+              ],
+              "hint": null
+            },
+            {
+              "index": 9,
+              "accept": [
+                "schlafen"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbartiknegat-G",
+      "type": "fill_blank",
+      "instructions": "Write a few sentences about what you do on a typical day, using some of the following verbs. Add time elements or direct objects if you wish. (This type of thing is NOT on the quiz, but it is very good practice.)",
+      "items": [
+        {
+          "id": "verbartiknegat-G-1",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Morgens wache ich um 8 Uhr auf, und ich stehe um 8.30 Uhr auf. Ich gehe um 10 Uhr aus; ich bringe meine Bücher und meine Tasche mit. Manchmal (=sometimes) rufe ich meine Mutter an, oder ich kaufe im Supermarkt ein. Ich gehe nachmittags am See spazieren. Ich komme um 9 Uhr von der Uni zurück, und dann arbeite ich. Ich gehe um ein Uhr schlafen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    }
+  ]
+}

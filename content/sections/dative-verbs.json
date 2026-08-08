@@ -1,0 +1,1199 @@
+{
+  "id": "dative-verbs",
+  "level": "A2",
+  "title": "Dativverben",
+  "group": "Cases",
+  "sourceFile": "dativverben.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Certain verbs always take a dative object (no accusative). Learn them as chunks."
+      },
+      {
+        "type": "list",
+        "content": "helfen (+ dat.) — to help\ngehören (+ dat.) — to belong to\ndanken (+ dat.) — to thank\ngefallen (+ dat.) — to please\nantworten (+ dat.) — to answer"
+      },
+      {
+        "type": "example",
+        "de": "Ich helfe dem Kind.",
+        "note": "helfen always + dative"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "dativverben-A",
+      "type": "word_bank",
+      "instructions": "Füllen Sie die Lücken mit einer Präposition aus der Liste ein.",
+      "items": [
+        {
+          "id": "dativverben-A-1",
+          "prompt": "Wo wohnt Johannes? -- Er wohnt ___ einer Familie in Wien.",
+          "promptParts": [
+            "Wo wohnt Johannes? -- Er wohnt",
+            "einer Familie in Wien."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "bei / mit"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "aus",
+            "außer",
+            "bei",
+            "mit",
+            "nach",
+            "seit",
+            "von",
+            "zu"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-A-2",
+          "prompt": "Franz ist nicht sehr aktiv. Er bleibt immer ___ Hause.",
+          "promptParts": [
+            "Franz ist nicht sehr aktiv. Er bleibt immer",
+            "Hause."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "zu"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "aus",
+            "außer",
+            "bei",
+            "mit",
+            "nach",
+            "seit",
+            "von",
+            "zu"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-A-3",
+          "prompt": "Cecile Zemp ist Schweizerin. Sie kommt ___ Zürich.",
+          "promptParts": [
+            "Cecile Zemp ist Schweizerin. Sie kommt",
+            "Zürich."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "aus"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "aus",
+            "außer",
+            "bei",
+            "mit",
+            "nach",
+            "seit",
+            "von",
+            "zu"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-A-4",
+          "prompt": "Hier ist ein Brief für dich. ___ wem ist er?",
+          "promptParts": [
+            "Hier ist ein Brief für dich.",
+            "wem ist er?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Von"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "aus",
+            "außer",
+            "bei",
+            "mit",
+            "nach",
+            "seit",
+            "von",
+            "zu"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-A-5",
+          "prompt": "Frau Lett reist oft für ihren Job. Diesen Monat reist sie ___ Rom ___ Paris.",
+          "promptParts": [
+            "Frau Lett reist oft für ihren Job. Diesen Monat reist sie",
+            "Rom",
+            "Paris."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "von"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "nach"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "aus",
+            "außer",
+            "bei",
+            "mit",
+            "nach",
+            "seit",
+            "von",
+            "zu"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-A-6",
+          "prompt": "Herr Blume ist Architekt. Er arbeitet ___ drei Jahren in München.",
+          "promptParts": [
+            "Herr Blume ist Architekt. Er arbeitet",
+            "drei Jahren in München."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "seit"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "aus",
+            "außer",
+            "bei",
+            "mit",
+            "nach",
+            "seit",
+            "von",
+            "zu"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-A-7",
+          "prompt": "Ich bin sehr müde. Ich möchte jetzt ___ Hause gehen.",
+          "promptParts": [
+            "Ich bin sehr müde. Ich möchte jetzt",
+            "Hause gehen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "nach"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "aus",
+            "außer",
+            "bei",
+            "mit",
+            "nach",
+            "seit",
+            "von",
+            "zu"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-A-8",
+          "prompt": "Alle meine Verwandten sprechen Deutsch, ___ meinem Vater.",
+          "promptParts": [
+            "Alle meine Verwandten sprechen Deutsch,",
+            "meinem Vater."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "außer"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "aus",
+            "außer",
+            "bei",
+            "mit",
+            "nach",
+            "seit",
+            "von",
+            "zu"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dativverben-B",
+      "type": "word_bank",
+      "instructions": "Wählen Sie ein Verb von der Liste, und schreiben Sie es in die Lücke. Sie müssen das Verb auch konjugieren!",
+      "items": [
+        {
+          "id": "dativverben-B-1",
+          "prompt": "Diese Bücher ___ mir, aber die Stifte hier sind für dich.",
+          "promptParts": [
+            "Diese Bücher",
+            "mir, aber die Stifte hier sind für dich."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "gehören"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "antworten",
+            "danken",
+            "gefallen",
+            "gehören",
+            "glauben",
+            "gratulieren",
+            "helfen",
+            "passen",
+            "schmecken"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-B-2",
+          "prompt": "Die Mutter fragt die Kinder: »___ euch diese Musik?«",
+          "promptParts": [
+            "Die Mutter fragt die Kinder: »",
+            "euch diese Musik?«"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "glauben"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "antworten",
+            "danken",
+            "gefallen",
+            "gehören",
+            "glauben",
+            "gratulieren",
+            "helfen",
+            "passen",
+            "schmecken"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-B-3",
+          "prompt": "Die Kinder ___ ihrer Mutter: »Ja, die Musik ist toll!«",
+          "promptParts": [
+            "Die Kinder",
+            "ihrer Mutter: »Ja, die Musik ist toll!«"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Gefällt"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "antworten",
+            "danken",
+            "gefallen",
+            "gehören",
+            "glauben",
+            "gratulieren",
+            "helfen",
+            "passen",
+            "schmecken"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-B-4",
+          "prompt": "Diese Schuhe ___ mir nicht. Ich trage Größe 10, nicht 9.",
+          "promptParts": [
+            "Diese Schuhe",
+            "mir nicht. Ich trage Größe 10, nicht 9."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "antworten"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "antworten",
+            "danken",
+            "gefallen",
+            "gehören",
+            "glauben",
+            "gratulieren",
+            "helfen",
+            "passen",
+            "schmecken"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-B-5",
+          "prompt": "Maria, das ist so nett! Ich ___ dir für das Geschenk!",
+          "promptParts": [
+            "Maria, das ist so nett! Ich",
+            "dir für das Geschenk!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "passen"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "antworten",
+            "danken",
+            "gefallen",
+            "gehören",
+            "glauben",
+            "gratulieren",
+            "helfen",
+            "passen",
+            "schmecken"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-B-6",
+          "prompt": "Dieser Apfelsaft ___ mir nicht. Ich mag nur Orangensaft.",
+          "promptParts": [
+            "Dieser Apfelsaft",
+            "mir nicht. Ich mag nur Orangensaft."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "gratuliere"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "antworten",
+            "danken",
+            "gefallen",
+            "gehören",
+            "glauben",
+            "gratulieren",
+            "helfen",
+            "passen",
+            "schmecken"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-B-7",
+          "prompt": "Mutti, kannst du mir ___? Ich kann meine Hausaufgaben nicht verstehen.",
+          "promptParts": [
+            "Mutti, kannst du mir",
+            "? Ich kann meine Hausaufgaben nicht verstehen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "danke"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "antworten",
+            "danken",
+            "gefallen",
+            "gehören",
+            "glauben",
+            "gratulieren",
+            "helfen",
+            "passen",
+            "schmecken"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dativverben-C",
+      "type": "fill_blank",
+      "instructions": "Schreiben Sie das richtige Pronomen in jede Lücke. Alle sind im Dativ!",
+      "items": [
+        {
+          "id": "dativverben-C-1",
+          "prompt": "Hallo Anita! Wie geht es ___ ?",
+          "promptParts": [
+            "Hallo Anita! Wie geht es",
+            "?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dir"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-C-2",
+          "prompt": "Es tut ___ Leid, dass ich dich nicht angerufen habe.",
+          "promptParts": [
+            "Es tut",
+            "Leid, dass ich dich nicht angerufen habe."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mir"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-C-3",
+          "prompt": "Kinder, wie schmeckt ___ das Essen?",
+          "promptParts": [
+            "Kinder, wie schmeckt",
+            "das Essen?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "euch"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-C-4",
+          "prompt": "Opa kann es nicht allein machen. Bitte helft ___!",
+          "promptParts": [
+            "Opa kann es nicht allein machen. Bitte helft",
+            "!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihm"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-C-5",
+          "prompt": "Wir lieben Deutsch! Deutsch gefällt ___ sehr!",
+          "promptParts": [
+            "Wir lieben Deutsch! Deutsch gefällt",
+            "sehr!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "uns"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dativverben-D",
+      "type": "fill_blank",
+      "instructions": "Ergänzen Sie die Sätze mit den Wörtern in Klammern. Alle sollen im Dativ sein!",
+      "items": [
+        {
+          "id": "dativverben-D-1",
+          "prompt": "Das Haus gehört ___ (meine Mutter).",
+          "promptParts": [
+            "Das Haus gehört",
+            "(meine Mutter)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "meiner Mutter"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-D-2",
+          "prompt": "Ich erzähle ___ (die Kinder) ein Märchen.",
+          "promptParts": [
+            "Ich erzähle",
+            "(die Kinder) ein Märchen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "den Kindern"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-D-3",
+          "prompt": "Wir haben es ___ (keine Leute) gesagt.",
+          "promptParts": [
+            "Wir haben es",
+            "(keine Leute) gesagt."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "keinen Leuten"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-D-4",
+          "prompt": "Er hat ___ (seine Tante) Parfüm geschenkt.",
+          "promptParts": [
+            "Er hat",
+            "(seine Tante) Parfüm geschenkt."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "seiner Tante"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-D-5",
+          "prompt": "Ich glaube ___ (der Mann) nicht.",
+          "promptParts": [
+            "Ich glaube",
+            "(der Mann) nicht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dem Mann"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dativverben-E",
+      "type": "word_bank",
+      "instructions": "Schreiben Sie eine Antwort auf jede Situation. Folgen Sie dem Beispiel.",
+      "items": [
+        {
+          "id": "dativverben-E-1",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Mir ist langweilig."
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "heiß",
+            "kalt",
+            "langweilig",
+            "schlecht",
+            "warm"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-E-2",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Mir ist schlecht."
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "heiß",
+            "kalt",
+            "langweilig",
+            "schlecht",
+            "warm"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-E-3",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Mir ist warm."
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "heiß",
+            "kalt",
+            "langweilig",
+            "schlecht",
+            "warm"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-E-4",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Mir ist kalt."
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "heiß",
+            "kalt",
+            "langweilig",
+            "schlecht",
+            "warm"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dativverben-F",
+      "type": "fill_blank",
+      "instructions": "Schreiben Sie eine Antwort auf jede Frage.",
+      "items": [
+        {
+          "id": "dativverben-F-1",
+          "prompt": "Wie geht es dir heute? → ___",
+          "promptParts": [
+            "Wie geht es dir heute? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Es geht mir gut (toll / prima / schlecht / solala / furchtbar)."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-F-2",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich schenke ihnen (=meinen Eltern) zwei Bücher und eine CD."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-F-3",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Nein, ich schreibe ihnen (=meinen Freunden) nicht oft."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-F-4",
+          "prompt": "Welcher Film gefällt dir gut? → ___",
+          "promptParts": [
+            "Welcher Film gefällt dir gut? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Der Herr der Ringe gefällt mir sehr!"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-F-5",
+          "prompt": "Was schmeckt dir gut? → ___",
+          "promptParts": [
+            "Was schmeckt dir gut? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Schokolade schmeckt mir gut. Bananen schmecken mir auch gut."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-F-6",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Du sollst mir Milch und Orangensaft mitbringen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-F-7",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich kann ihm $10 geben."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dativverben-G",
+      "type": "fill_blank",
+      "instructions": "Übersetzen Sie die Sätze ins Deutsche.",
+      "items": [
+        {
+          "id": "dativverben-G-1",
+          "prompt": "I can help you. → ___",
+          "promptParts": [
+            "I can help you. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich kann dir (euch / Ihnen) helfen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-G-2",
+          "prompt": "I wrote my friends a letter. → ___",
+          "promptParts": [
+            "I wrote my friends a letter. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich habe meinen Freunden einen Brief geschreiben."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-G-3",
+          "prompt": "What did you do after breakfast? → ___",
+          "promptParts": [
+            "What did you do after breakfast? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Was hast du nach dem Frühstück gemacht?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-G-4",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Er arbeitet bei der Post."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-G-5",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Gefällt ihm die Suppe? (Gefällt die Suppe ihm?)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-G-6",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Das ist mir viel zu teuer."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativverben-G-7",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Von wem ist der Brief?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dativverben-H",
+      "type": "fill_blank",
+      "instructions": "Imagine you are one of the nicest, most thoughtful people in the world. Write a short paragraph (perhaps 5 sentences) describing all the things you do for other people.",
+      "items": [
+        {
+          "id": "dativverben-H-1",
+          "prompt": "BEISPIEL: → ___",
+          "promptParts": [
+            "BEISPIEL: → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich gebe meinen Eltern meinen Computer und meinen Drucker. Ich gebe meinem Bruder meine Deustchbücher. Ich gebe meinen Freunden viel Geld. Ich kaufe meinem besten Freund ein Haus. Ich kaufe meiner Großmutter Blumen. Ich schenke meiner Kusine alle meine CDs. Ich gebe meiner Katze viel Liebe und viel Essen!"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    }
+  ]
+}

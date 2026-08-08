@@ -1,0 +1,1174 @@
+{
+  "id": "word-order-conjunctions",
+  "level": "A2",
+  "title": "Wortstellung mit Konjunktionen",
+  "group": "Word Order",
+  "sourceFile": "wortstellung.html",
+  "overviewSource": "wortstellungexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Coordinating conjunctions (und, aber, oder, denn, sondern) do not change word order. Subordinating conjunctions (weil, dass, wenn, ob…) send the conjugated verb to the end."
+      },
+      {
+        "type": "example",
+        "de": "Ich lerne, weil ich die Prüfung bestehen will.",
+        "note": "weil … verb at end (bestehen will)"
+      },
+      {
+        "type": "example",
+        "de": "Ich lerne, aber er schläft.",
+        "note": "aber — verb stays in position 2"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "wortstellung-A",
+      "type": "fill_blank",
+      "instructions": "Wie heißen die folgenden Konjunktionen auf Englisch?",
+      "items": [
+        {
+          "id": "wortstellung-A-1",
+          "prompt": "weil = ___ aber = ___ wo = ___",
+          "promptParts": [
+            "weil =",
+            "aber =",
+            "wo =",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "because"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "but, however"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "where"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-A-2",
+          "prompt": "ob = ___ sondern = ___ wie viel = ___",
+          "promptParts": [
+            "ob =",
+            "sondern =",
+            "wie viel =",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "if, whether"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "but rather"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "how much"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-A-3",
+          "prompt": "dass = ___ denn = ___ warum = ___",
+          "promptParts": [
+            "dass =",
+            "denn =",
+            "warum =",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "that"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "because"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "why"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-A-4",
+          "prompt": "wenn = ___ oder = ___ wohin = ___",
+          "promptParts": [
+            "wenn =",
+            "oder =",
+            "wohin =",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "when, if"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "or"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "to where"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wortstellung-B",
+      "type": "fill_blank",
+      "instructions": "Machen Sie einen Satz aus den zwei Sätzen. Benutzen Sie die Konjunktion in Klammern.",
+      "items": [
+        {
+          "id": "wortstellung-B-1",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Er denkt, dass Deutsch sehr interessant ist."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-B-2",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Weißt du, ob du morgen mitkommen kannst?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-B-3",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Der Mann ist traurig, weil seine Frau gestorben ist."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-B-4",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Deine Schwester sagt mir, dass sie einen neuen Job gefunden hat."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-B-5",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Glaubst du, dass ich ein neues Auto kaufen soll?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-B-6",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wir können nicht nach Europa fliegen, weil wir nicht genug Geld haben."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-B-7",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Mein Bruder weiß nicht, dass seine Frau das Auto genommen hat."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-B-8",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich möchte wissen, ob sie sich gestern verlobt haben."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wortstellung-C",
+      "type": "fill_blank",
+      "instructions": "Machen Sie einen Satz aus den zwei Sätzen. Benutzen Sie die Konjunktion in Klammern.",
+      "items": [
+        {
+          "id": "wortstellung-C-1",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich hoffe, dass der Kurs interessant ist."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-C-2",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Frau Bernstein wandert gern und sie reitet auch gern. (Comma optional before 'und'.)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-C-3",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Barbara kommt nicht vor dem Unterricht, sondern sie kommt danach."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-C-4",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich weiß nicht, ob die Bibliothek morgens geöffnet ist."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-C-5",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich kann dich nicht anrufen, weil ich keine Zeit habe."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-C-6",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Er kauft einen Wagen, denn er will nicht mit dem Bus fahren."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-C-7",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich will ausgehen, aber er kann nicht, weil er für eine Prüfung lernen muss."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-C-8",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Er sagt, dass er krank ist, aber ich weiß nicht, ob das wahr ist."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wortstellung-D",
+      "type": "fill_blank",
+      "instructions": "Schreiben Sie die Fragen als indirekte Fragen um.",
+      "items": [
+        {
+          "id": "wortstellung-D-1",
+          "prompt": " Ich möchte wissen, ___",
+          "promptParts": [
+            "Ich möchte wissen,",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "was du gestern gemacht hast."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-D-2",
+          "prompt": " Ich weiß nicht, ___",
+          "promptParts": [
+            "Ich weiß nicht,",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wie dein Vater aussieht."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-D-3",
+          "prompt": " Er möchte wissen, ___",
+          "promptParts": [
+            "Er möchte wissen,",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wo du jetzt wohnst."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-D-4",
+          "prompt": " Sie fragt, ___",
+          "promptParts": [
+            "Sie fragt,",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wann der Kurs anfängt."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-D-5",
+          "prompt": " Sie wollen wissen, ___",
+          "promptParts": [
+            "Sie wollen wissen,",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "warum du nach Europa geflogen bist."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wortstellung-E",
+      "type": "word_bank",
+      "instructions": "Schreiben Sie ein Wort in jede Lücke. Sie sollen jedes Wort nur einmal benutzen.",
+      "items": [
+        {
+          "id": "wortstellung-E-1",
+          "prompt": "Sie hat nicht gesagt, ___ sie nach Hause kommt.",
+          "promptParts": [
+            "Sie hat nicht gesagt,",
+            "sie nach Hause kommt."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wann"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "was",
+            "wer",
+            "wen",
+            "wann",
+            "wo",
+            "warum",
+            "wie",
+            "wie viel",
+            "wohin"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-E-2",
+          "prompt": "Mutter hat gefragt, ___ du deine Hausaufgaben nicht gemacht hast.",
+          "promptParts": [
+            "Mutter hat gefragt,",
+            "du deine Hausaufgaben nicht gemacht hast."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "warum"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "was",
+            "wer",
+            "wen",
+            "wann",
+            "wo",
+            "warum",
+            "wie",
+            "wie viel",
+            "wohin"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-E-3",
+          "prompt": "Kannst du mir sagen, ___ die Bibliothek ist?",
+          "promptParts": [
+            "Kannst du mir sagen,",
+            "die Bibliothek ist?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wo"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "was",
+            "wer",
+            "wen",
+            "wann",
+            "wo",
+            "warum",
+            "wie",
+            "wie viel",
+            "wohin"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-E-4",
+          "prompt": "Hat er gesagt, ___ alt er ist?",
+          "promptParts": [
+            "Hat er gesagt,",
+            "alt er ist?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wie"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "was",
+            "wer",
+            "wen",
+            "wann",
+            "wo",
+            "warum",
+            "wie",
+            "wie viel",
+            "wohin"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-E-5",
+          "prompt": "Kannst du sehen, ___ der Titel von dem Buch ist?",
+          "promptParts": [
+            "Kannst du sehen,",
+            "der Titel von dem Buch ist?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "was"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "was",
+            "wer",
+            "wen",
+            "wann",
+            "wo",
+            "warum",
+            "wie",
+            "wie viel",
+            "wohin"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-E-6",
+          "prompt": "Paul weiß nicht, ___ das Buch gekostet hat.",
+          "promptParts": [
+            "Paul weiß nicht,",
+            "das Buch gekostet hat."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wie viel"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "was",
+            "wer",
+            "wen",
+            "wann",
+            "wo",
+            "warum",
+            "wie",
+            "wie viel",
+            "wohin"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-E-7",
+          "prompt": "Der Taxifahrer fragt euch, ___ ihr fahren möchtet.",
+          "promptParts": [
+            "Der Taxifahrer fragt euch,",
+            "ihr fahren möchtet."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wohin"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "was",
+            "wer",
+            "wen",
+            "wann",
+            "wo",
+            "warum",
+            "wie",
+            "wie viel",
+            "wohin"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-E-8",
+          "prompt": "Karin, sag mir, ___ du zum Abendessen eingeladen hast.",
+          "promptParts": [
+            "Karin, sag mir,",
+            "du zum Abendessen eingeladen hast."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wen"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "was",
+            "wer",
+            "wen",
+            "wann",
+            "wo",
+            "warum",
+            "wie",
+            "wie viel",
+            "wohin"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wortstellung-F",
+      "type": "fill_blank",
+      "instructions": "Schreiben Sie dass, ob oder weil in die Lücke.",
+      "items": [
+        {
+          "id": "wortstellung-F-1",
+          "prompt": "Ich muss bald nach Hause fahren, ___ ich früh ins Bett gehen muss.",
+          "promptParts": [
+            "Ich muss bald nach Hause fahren,",
+            "ich früh ins Bett gehen muss."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "weil"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-F-2",
+          "prompt": "Ist es wahr (=true), ___ die Studentin jeden Tag fünf Kilometer joggt?",
+          "promptParts": [
+            "Ist es wahr (=true),",
+            "die Studentin jeden Tag fünf Kilometer joggt?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dass"
+              ],
+              "hint": "=true"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-F-3",
+          "prompt": "Wir wissen nicht, ___ wir nächste Woche ein Quiz haben.",
+          "promptParts": [
+            "Wir wissen nicht,",
+            "wir nächste Woche ein Quiz haben."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ob"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-F-4",
+          "prompt": "Ich glaube (=believe, think), ___ ich krank bin.",
+          "promptParts": [
+            "Ich glaube (=believe, think),",
+            "ich krank bin."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dass"
+              ],
+              "hint": "=believe, think"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-F-5",
+          "prompt": "Paul möchte wissen, ___ du ins Kino mitkommen willst.",
+          "promptParts": [
+            "Paul möchte wissen,",
+            "du ins Kino mitkommen willst."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ob"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-F-6",
+          "prompt": "Hast du gewusst, ___ Frau Eierstock zwei Töchter hat?",
+          "promptParts": [
+            "Hast du gewusst,",
+            "Frau Eierstock zwei Töchter hat?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dass"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wortstellung-G",
+      "type": "fill_blank",
+      "instructions": "Übersetzen Sie die folgenden Sätze ins Deutsche. Achten Sie auf die Wortstellung!",
+      "items": [
+        {
+          "id": "wortstellung-G-1",
+          "prompt": "Do you know if it's raining? → ___",
+          "promptParts": [
+            "Do you know if it's raining? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Weißt du, ob es regnet?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-G-2",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Es ist nicht sonnig, sondern neblig."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-G-3",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich bin müde, weil ich gestern Abend (letzte Nacht) nicht geschlafen habe."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-G-4",
+          "prompt": "I hope that it doesn't snow. → ___",
+          "promptParts": [
+            "I hope that it doesn't snow. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich hoffe, dass es nicht schneit."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-G-5",
+          "prompt": "Do you understand what she is saying? → ___",
+          "promptParts": [
+            "Do you understand what she is saying? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Verstehst du, was sie sagt?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        },
+        {
+          "id": "wortstellung-G-6",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wir möchten wissen, wie kalt es draußen ist."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "word-order"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,760 @@
+{
+  "id": "sein-heissen",
+  "level": "A1",
+  "title": "Die Verben 'sein' und 'heißen'",
+  "group": "Verbs",
+  "sourceFile": "seinheissen.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Sein (to be) and heißen (to be called) are irregular but essential from day one."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "",
+            "sein",
+            "heißen"
+          ],
+          [
+            "ich",
+            "bin",
+            "heiße"
+          ],
+          [
+            "du",
+            "bist",
+            "heißt"
+          ],
+          [
+            "er/sie/es",
+            "ist",
+            "heißt"
+          ],
+          [
+            "wir",
+            "sind",
+            "heißen"
+          ],
+          [
+            "ihr",
+            "seid",
+            "heißt"
+          ],
+          [
+            "sie/Sie",
+            "sind",
+            "heißen"
+          ]
+        ]
+      },
+      {
+        "type": "example",
+        "de": "Ich bin Student. Ich heiße Anna.",
+        "note": "Use sein for identity/ origin; heißen for your name"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "seinheissen-A",
+      "type": "fill_blank",
+      "instructions": "Fill in the chart with the appropriate conjugated forms of the verbs",
+      "items": [
+        {
+          "id": "seinheissen-A-1",
+          "prompt": "I am → ___",
+          "promptParts": [
+            "I am → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ich bin"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-A-2",
+          "prompt": "you (sg) are → ___",
+          "promptParts": [
+            "you (sg) are → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wir sind"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-A-3",
+          "prompt": "he is → ___",
+          "promptParts": [
+            "he is → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "du bist"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-A-4",
+          "prompt": "she is → ___",
+          "promptParts": [
+            "she is → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihr seid"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-A-5",
+          "prompt": "it is → ___",
+          "promptParts": [
+            "it is → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "er ist"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-A-6",
+          "prompt": "I am called → ___",
+          "promptParts": [
+            "I am called → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sie sind"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-A-7",
+          "prompt": "you (sg) are called → ___",
+          "promptParts": [
+            "you (sg) are called → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sie ist"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-A-8",
+          "prompt": "he is called → ___",
+          "promptParts": [
+            "he is called → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Sie sind"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-A-9",
+          "prompt": "she is called → ___",
+          "promptParts": [
+            "she is called → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "es ist"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-A-10",
+          "prompt": "it is called → ___",
+          "promptParts": [
+            "it is called → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ich heiße"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "seinheissen-B",
+      "type": "fill_blank",
+      "instructions": "Which greeting or farewell would be appropriate to the following situations? Choose from the list; there may be more than one correct answer for some situations.",
+      "items": [
+        {
+          "id": "seinheissen-B-1",
+          "prompt": "two students saying goodbye → ___",
+          "promptParts": [
+            "two students saying goodbye → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Guten Abend! (oder: Guten Tag!)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "seinheissen-C",
+      "type": "fill_blank",
+      "instructions": "Which form of \"you\" would you use to talk to the following people? Write",
+      "items": [
+        {
+          "id": "seinheissen-C-1",
+          "prompt": "your two cousins → ___",
+          "promptParts": [
+            "your two cousins → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihr"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-C-2",
+          "prompt": "your grandmother → ___",
+          "promptParts": [
+            "your grandmother → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "du"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-C-3",
+          "prompt": "your chemistry professor → ___",
+          "promptParts": [
+            "your chemistry professor → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "du"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-C-4",
+          "prompt": "two strangers on the street → ___",
+          "promptParts": [
+            "two strangers on the street → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Sie"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "seinheissen-E",
+      "type": "fill_blank",
+      "instructions": "Fill in the blanks with appropriate words, based on the formulas we've used in class.",
+      "items": [
+        {
+          "id": "seinheissen-E-1",
+          "prompt": "1.Norbert:___ Tag! Herzlich Willkommen! Mein ___ ist Pohle, Norbert Pohle. Wie ___ Sie?",
+          "promptParts": [
+            "1.Norbert:",
+            "Tag! Herzlich Willkommen! Mein",
+            "ist Pohle, Norbert Pohle. Wie",
+            "Sie?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Guten"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Name"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "heißen"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-E-2",
+          "prompt": " Sabine:___ heiße Sabine Zimmermann. Und das ist mein Freund. ___ heißt Klaus Weichel.",
+          "promptParts": [
+            "Sabine:",
+            "heiße Sabine Zimmermann. Und das ist mein Freund.",
+            "heißt Klaus Weichel."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Er"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-E-3",
+          "prompt": " Norbert:___ schreiben Sie das?",
+          "promptParts": [
+            "Norbert:",
+            "schreiben Sie das?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wie"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-E-4",
+          "prompt": " Klaus:W-E-I-C-H-E-L, Weichel. ___ kommen Sie, Herr Pohle?",
+          "promptParts": [
+            "Klaus:W-E-I-C-H-E-L, Weichel.",
+            "kommen Sie, Herr Pohle?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Woher"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-E-5",
+          "prompt": " Norbert:Ich komme ___ München. Und woher kommen Sie?",
+          "promptParts": [
+            "Norbert:Ich komme",
+            "München. Und woher kommen Sie?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "aus"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-E-6",
+          "prompt": " Klaus:Wir kommen ___ Frankfurt.",
+          "promptParts": [
+            "Klaus:Wir kommen",
+            "Frankfurt."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "aus"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-E-7",
+          "prompt": "2.Peter:Hallo! ___ bin Peter Sedlmeier.",
+          "promptParts": [
+            "2.Peter:Hallo!",
+            "bin Peter Sedlmeier."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-E-8",
+          "prompt": " Katarina:___ dich, Peter. Ich heiße Katarina Steinmetz. Wie ___ bist du?",
+          "promptParts": [
+            "Katarina:",
+            "dich, Peter. Ich heiße Katarina Steinmetz. Wie",
+            "bist du?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Grüß"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "alt"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-E-9",
+          "prompt": " Peter:Ich bin siebzehn ___ alt. Und wie alt bist du?",
+          "promptParts": [
+            "Peter:Ich bin siebzehn",
+            "alt. Und wie alt bist du?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Jahre"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-E-10",
+          "prompt": " Katarina:Ich bin achtzehn. Bist ___ Deutscher, Peter?",
+          "promptParts": [
+            "Katarina:Ich bin achtzehn. Bist",
+            "Deutscher, Peter?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "du"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-E-11",
+          "prompt": " Peter:Ja, ich komme aus Hamburg. Woher ___ du?",
+          "promptParts": [
+            "Peter:Ja, ich komme aus Hamburg. Woher",
+            "du?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "kommst"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-E-12",
+          "prompt": " Katarina:Ich bin Amerikanerin. Ich komme ___ New York.",
+          "promptParts": [
+            "Katarina:Ich bin Amerikanerin. Ich komme",
+            "New York."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "aus"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "seinheissen-F",
+      "type": "fill_blank",
+      "instructions": "As review, write out the numbers as words.",
+      "items": [
+        {
+          "id": "seinheissen-F-1",
+          "prompt": "Wie viel ist zwölf plus sieben? → ___",
+          "promptParts": [
+            "Wie viel ist zwölf plus sieben? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "neunzehn"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-F-2",
+          "prompt": "Wie viel ist siebzig minus neunzehn? → ___",
+          "promptParts": [
+            "Wie viel ist siebzig minus neunzehn? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "zweiundvierzig"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "seinheissen-F-3",
+          "prompt": "Wie viel ist tausend minus elf? → ___",
+          "promptParts": [
+            "Wie viel ist tausend minus elf? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "einundfünfzig"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    }
+  ]
+}

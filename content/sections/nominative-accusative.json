@@ -1,0 +1,676 @@
+{
+  "id": "nominative-accusative",
+  "level": "A1",
+  "title": "Nominativ und Akkusativ",
+  "group": "Cases",
+  "sourceFile": "nominakkus.html",
+  "overviewSource": "nomakkexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "German nouns change form depending on their role in the sentence. At A1 level we focus on nominative (subject) and accusative (direct object)."
+      },
+      {
+        "type": "heading",
+        "content": "Nominative — the subject"
+      },
+      {
+        "type": "paragraph",
+        "content": "The subject performs the action. Ask: \"Who or what is doing the verb?\" Nouns after sein (to be) are also nominative."
+      },
+      {
+        "type": "example",
+        "de": "Der Tisch ist braun.",
+        "note": "Der Tisch = subject (nominative)"
+      },
+      {
+        "type": "heading",
+        "content": "Accusative — the direct object"
+      },
+      {
+        "type": "paragraph",
+        "content": "The direct object receives the action. Ask: \"Who or what is being verbed?\" Only masculine articles change: der → den, ein → einen."
+      },
+      {
+        "type": "example",
+        "de": "Ich sehe den Tisch.",
+        "note": "den Tisch = direct object (accusative masculine)"
+      },
+      {
+        "type": "example",
+        "de": "Er hat ein Buch.",
+        "note": "Er = subject · ein Buch = object (neuter, no change)"
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "",
+            "Nominative",
+            "Accusative"
+          ],
+          [
+            "Masc.",
+            "der / ein",
+            "den / einen"
+          ],
+          [
+            "Fem.",
+            "die / eine",
+            "die / eine"
+          ],
+          [
+            "Neut.",
+            "das / ein",
+            "das / ein"
+          ],
+          [
+            "Plural",
+            "die / keine",
+            "die / keine"
+          ]
+        ]
+      },
+      {
+        "type": "list",
+        "content": "Nominative: subjects; after sein\nAccusative: direct objects; after accusative prepositions (durch, für, ohne…)"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "nominakkus-B",
+      "type": "pick_and_type",
+      "instructions": "Place the correct form of the definite article",
+      "items": [
+        {
+          "id": "nominakkus-B-1",
+          "prompt": "Hörst du ___ Musik gern?",
+          "promptParts": [
+            "Hörst du",
+            "Musik gern?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "die"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-B-2",
+          "prompt": "___ Studenten (pl) spielen gern Tischfußball.",
+          "promptParts": [
+            "",
+            "Studenten (pl) spielen gern Tischfußball."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Die"
+              ],
+              "hint": "pl"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-B-3",
+          "prompt": "Ich sehe ___ Overheadprojektor nicht.",
+          "promptParts": [
+            "Ich sehe",
+            "Overheadprojektor nicht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "den"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-B-4",
+          "prompt": "___ Tisch ist grau.",
+          "promptParts": [
+            "",
+            "Tisch ist grau."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Der"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-B-5",
+          "prompt": "Herr Walthers ist ___ Professor.",
+          "promptParts": [
+            "Herr Walthers ist",
+            "Professor."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "der"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-B-6",
+          "prompt": "Findest du ___ Tür nicht?",
+          "promptParts": [
+            "Findest du",
+            "Tür nicht?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "die"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-B-7",
+          "prompt": "___ Vater versteht ___ Kind nicht.",
+          "promptParts": [
+            "",
+            "Vater versteht",
+            "Kind nicht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Der"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "das"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-B-8",
+          "prompt": "___ Kind versteht ___ Vater nicht.",
+          "promptParts": [
+            "",
+            "Kind versteht",
+            "Vater nicht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Das"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "den"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nominakkus-C",
+      "type": "pick_and_type",
+      "instructions": "Place the correct form of the indefinite article",
+      "items": [
+        {
+          "id": "nominakkus-C-1",
+          "prompt": "Steven King schreibt ___ Buch.",
+          "promptParts": [
+            "Steven King schreibt",
+            "Buch."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ein"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-C-2",
+          "prompt": "Hast du ___ Stift?",
+          "promptParts": [
+            "Hast du",
+            "Stift?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "einen"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-C-3",
+          "prompt": "Wir besuchen ___ Freund.",
+          "promptParts": [
+            "Wir besuchen",
+            "Freund."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "einen"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-C-4",
+          "prompt": "___ Freund besucht uns.",
+          "promptParts": [
+            "",
+            "Freund besucht uns."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ein"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-C-5",
+          "prompt": "Ich habe ___ Bruder und ___ Schwester.",
+          "promptParts": [
+            "Ich habe",
+            "Bruder und",
+            "Schwester."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "einen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "eine"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-C-6",
+          "prompt": "Lars kauft ___ CD (f).",
+          "promptParts": [
+            "Lars kauft",
+            "CD (f)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "eine"
+              ],
+              "hint": "f"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-C-7",
+          "prompt": "___ Student kommt ins Klassenzimmer.",
+          "promptParts": [
+            "",
+            "Student kommt ins Klassenzimmer."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ein"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-C-8",
+          "prompt": "Heute Abend sehe ich ___ Film (m).",
+          "promptParts": [
+            "Heute Abend sehe ich",
+            "Film (m)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "einen"
+              ],
+              "hint": "m"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nominakkus-D",
+      "type": "pick_and_type",
+      "instructions": "Fill in Melanie's description with the correct forms of the verbs (to match the subject), and also the correct articles when needed.",
+      "items": [
+        {
+          "id": "nominakkus-D-1",
+          "prompt": "Ich ___ (heißen) Melanie. Ich ___ (sein) Deutsche, aber ich ___ (wohnen) in New York. Ich ___ (haben) ein___ Bruder. Er ___ (heißen) Martin und er ___ (sein) vierundzwanzig Jahre alt. Er ___ (arbeiten) in Rochester an der Uni. Wir ___ (haben) auch ein___ Schwester, Annette. Sie ___ (studieren) an der Uni in München. Annette hat ein___ Hund (m), und meine Eltern ___ (haben) ein___ Katze (f). Meine Mutter ___ (kommen) nächste Woche, mich zu besuchen. Sie ___ (bleiben) drei Wochen lang.",
+          "promptParts": [
+            "Ich",
+            "(heißen) Melanie. Ich",
+            "(sein) Deutsche, aber ich",
+            "(wohnen) in New York. Ich",
+            "(haben) ein",
+            "Bruder. Er",
+            "(heißen) Martin und er",
+            "(sein) vierundzwanzig Jahre alt. Er",
+            "(arbeiten) in Rochester an der Uni. Wir",
+            "(haben) auch ein",
+            "Schwester, Annette. Sie",
+            "(studieren) an der Uni in München. Annette hat ein",
+            "Hund (m), und meine Eltern",
+            "(haben) ein",
+            "Katze (f). Meine Mutter",
+            "(kommen) nächste Woche, mich zu besuchen. Sie",
+            "(bleiben) drei Wochen lang."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "heiße"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "bin"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "wohne"
+              ],
+              "hint": null
+            },
+            {
+              "index": 3,
+              "accept": [
+                "habe"
+              ],
+              "hint": null
+            },
+            {
+              "index": 4,
+              "accept": [
+                "en"
+              ],
+              "hint": null
+            },
+            {
+              "index": 5,
+              "accept": [
+                "heißt"
+              ],
+              "hint": null
+            },
+            {
+              "index": 6,
+              "accept": [
+                "ist"
+              ],
+              "hint": null
+            },
+            {
+              "index": 7,
+              "accept": [
+                "arbeitet"
+              ],
+              "hint": null
+            },
+            {
+              "index": 8,
+              "accept": [
+                "haben"
+              ],
+              "hint": null
+            },
+            {
+              "index": 9,
+              "accept": [
+                "e"
+              ],
+              "hint": null
+            },
+            {
+              "index": 10,
+              "accept": [
+                "studiert"
+              ],
+              "hint": null
+            },
+            {
+              "index": 11,
+              "accept": [
+                "en"
+              ],
+              "hint": null
+            },
+            {
+              "index": 12,
+              "accept": [
+                "haben"
+              ],
+              "hint": null
+            },
+            {
+              "index": 13,
+              "accept": [
+                "e"
+              ],
+              "hint": null
+            },
+            {
+              "index": 14,
+              "accept": [
+                "kommt"
+              ],
+              "hint": null
+            },
+            {
+              "index": 15,
+              "accept": [
+                "bleibt"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nominakkus-E",
+      "type": "fill_blank",
+      "instructions": "Answer the questions in a complete sentence, with the appropriate school subject.",
+      "items": [
+        {
+          "id": "nominakkus-E-1",
+          "prompt": "_______________________________________ → ___",
+          "promptParts": [
+            "_______________________________________ → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Du studierst Russisch."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-E-2",
+          "prompt": "_______________________________________ → ___",
+          "promptParts": [
+            "_______________________________________ → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Sie studiert Medizin."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "nominakkus-E-3",
+          "prompt": "_______________________________________ → ___",
+          "promptParts": [
+            "_______________________________________ → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Er studiert Informatik."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    }
+  ]
+}

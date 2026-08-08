@@ -1,0 +1,593 @@
+{
+  "id": "dative-der-words",
+  "level": "A2",
+  "title": "Wiederholung: Dativ und Der-Wörter",
+  "group": "Cases",
+  "sourceFile": "dativderwort.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Der-words (dieser, jeder, welcher, mancher…) and ein-words (mein, dein, kein…) decline like articles in each case."
+      },
+      {
+        "type": "example",
+        "de": "Ich kaufe meinem Bruder ein Geschenk.",
+        "note": "meinem = dative masculine of mein"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "dativderwort-A",
+      "type": "fill_blank",
+      "instructions": "Lesen Sie die Situationen, und wählen Sie den passenden Satz aus der Liste.",
+      "items": [
+        {
+          "id": "dativderwort-A-1",
+          "prompt": "Es ist Juli und Astrid sitzt in der Sonne. Sie trägt aber lange Hose und einen Pulli! Sie ist dumm! ___ 2.Wilhelm hat alte Milch getrunken! Igitt (=yuck)! ___ 3.Nina ist gestern zu viel gelaufen, und sie hat neue Schuhe getragen. Das war nicht gut! ___ 4.Gestern war Jörg beim Zahnarzt, aber er muss morgen zurückgehen, denn es gibt mehr Probleme. ___ 5.Gestern ist Birgit vom Rad gefallen, und das Fahrrad ist auf ihre Beine gelandet! Aua! ___ 6.Alexander muss ein dummes Kostüm für ein Theaterstück tragen. Er sieht idiotisch aus! ___ 7.Jessika war im Rockkonzert, aber die Musik war viel zu laut. Jetzt kann sie nichts hören! ___ 8.Die Heizung in Rolfs Wohnung funktioniert nicht, und er kann sein Fenster nicht zumachen! ___ 9.Karin sitzt im Klassenzimmer, aber der Lehrer sagt nichts interessantes. Er redet nur über Dinge, die Karin schon weiß.",
+          "promptParts": [
+            "Es ist Juli und Astrid sitzt in der Sonne. Sie trägt aber lange Hose und einen Pulli! Sie ist dumm!",
+            "2.Wilhelm hat alte Milch getrunken! Igitt (=yuck)!",
+            "3.Nina ist gestern zu viel gelaufen, und sie hat neue Schuhe getragen. Das war nicht gut!",
+            "4.Gestern war Jörg beim Zahnarzt, aber er muss morgen zurückgehen, denn es gibt mehr Probleme.",
+            "5.Gestern ist Birgit vom Rad gefallen, und das Fahrrad ist auf ihre Beine gelandet! Aua!",
+            "6.Alexander muss ein dummes Kostüm für ein Theaterstück tragen. Er sieht idiotisch aus!",
+            "7.Jessika war im Rockkonzert, aber die Musik war viel zu laut. Jetzt kann sie nichts hören!",
+            "8.Die Heizung in Rolfs Wohnung funktioniert nicht, und er kann sein Fenster nicht zumachen!",
+            "9.Karin sitzt im Klassenzimmer, aber der Lehrer sagt nichts interessantes. Er redet nur über Dinge, die Karin schon weiß."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ihm"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Ihm"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "Ihr"
+              ],
+              "hint": null
+            },
+            {
+              "index": 3,
+              "accept": [
+                "Ihr"
+              ],
+              "hint": null
+            },
+            {
+              "index": 4,
+              "accept": [
+                "Ihm"
+              ],
+              "hint": null
+            },
+            {
+              "index": 5,
+              "accept": [
+                "Ihr"
+              ],
+              "hint": null
+            },
+            {
+              "index": 6,
+              "accept": [
+                "Ihr"
+              ],
+              "hint": null
+            },
+            {
+              "index": 7,
+              "accept": [
+                "Ihr"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dativderwort-C",
+      "type": "pick_and_type",
+      "instructions": "Füllen Sie die Lücken mit den Phrasen in Klammern ein.",
+      "items": [
+        {
+          "id": "dativderwort-C-1",
+          "prompt": "Jürgen kommt ___ (from) Deutschland. Er möchte ___ (to) Frankreich reisen.",
+          "promptParts": [
+            "Jürgen kommt",
+            "(from) Deutschland. Er möchte",
+            "(to) Frankreich reisen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "aus"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "nach"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativderwort-C-2",
+          "prompt": "___ ___ (since one) Jahr lebt er ___ ___ (at/with his) Freundin.",
+          "promptParts": [
+            "",
+            "",
+            "(since one) Jahr lebt er",
+            "",
+            "(at/with his) Freundin."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Seit einem"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "bei/mit seiner"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "von seinen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 3,
+              "accept": [
+                "Nach diesem"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativderwort-C-3",
+          "prompt": "Das Geld für die Miete kriegt er ___ ___ (from his) Eltern.",
+          "promptParts": [
+            "Das Geld für die Miete kriegt er",
+            "",
+            "(from his) Eltern."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "bei einer"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "von"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativderwort-C-4",
+          "prompt": "___ ___ (after this) Semester (n) möchte er ___ ___ (at a) Bank (f) arbeiten.",
+          "promptParts": [
+            "",
+            "",
+            "(after this) Semester (n) möchte er",
+            "",
+            "(at a) Bank (f) arbeiten."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "seit einer"
+              ],
+              "hint": "n"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "zu Hause"
+              ],
+              "hint": "f"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "aus ihrem Haus"
+              ],
+              "hint": "n"
+            },
+            {
+              "index": 3,
+              "accept": [
+                "zu ihrem"
+              ],
+              "hint": "n"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativderwort-C-5",
+          "prompt": "Dieses Buch ist ___ (by) Goethe. Kurt liest es ___ ___ (since/for one) Stunde.",
+          "promptParts": [
+            "Dieses Buch ist",
+            "(by) Goethe. Kurt liest es",
+            "",
+            "(since/for one) Stunde."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mit dem"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Nach einem"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "mit ihrem"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativderwort-C-6",
+          "prompt": "Petra ist jetzt ___ ___ (at home). Morgen geht sie ___ ___ ___ (out of her) Haus und fährt ___ ___ (to her) Onkel. Sie muss ___ ___ (with the) Bus (m) fahren. ___ ___ (after one) Tag ___ ___ (with her) Onkel kommt sie wieder ___ ___ (home).",
+          "promptParts": [
+            "Petra ist jetzt",
+            "",
+            "(at home). Morgen geht sie",
+            "",
+            "",
+            "(out of her) Haus und fährt",
+            "",
+            "(to her) Onkel. Sie muss",
+            "",
+            "(with the) Bus (m) fahren.",
+            "",
+            "(after one) Tag",
+            "",
+            "(with her) Onkel kommt sie wieder",
+            "",
+            "(home)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "nach Hause"
+              ],
+              "hint": "m"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dativderwort-D",
+      "type": "pick_and_type",
+      "instructions": "Übersetzen Sie die Sätze ins Deutsche.",
+      "items": [
+        {
+          "id": "dativderwort-D-1",
+          "prompt": "I'm giving my mother a book. → ___",
+          "promptParts": [
+            "I'm giving my mother a book. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich gebe (schenke) meiner Mutter ein Buch."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativderwort-D-2",
+          "prompt": "I'm giving my father a tie. → ___",
+          "promptParts": [
+            "I'm giving my father a tie. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich gebe (schenke) meinem Vater eine Krawatte."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativderwort-D-3",
+          "prompt": "I'm giving my brothers a suitcase. → ___",
+          "promptParts": [
+            "I'm giving my brothers a suitcase. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich gebe (schenke) meinen Brüdern einen Koffer."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativderwort-D-4",
+          "prompt": "He's giving his sister a plant. → ___",
+          "promptParts": [
+            "He's giving his sister a plant. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Sie geben (schenken) mir eine CD."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "dativderwort-D-5",
+          "prompt": "What are your parents giving you? → ___",
+          "promptParts": [
+            "What are your parents giving you? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Er gibt (schenkt) seiner Schwester eine Pflanze."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dativderwort-E",
+      "type": "pick_and_type",
+      "instructions": "Füllen Sie die Lücken mit einem DER-WORT (dies-, jed-, welch-, all-) ein. Achten Sie auf die Endungen!",
+      "items": [
+        {
+          "id": "dativderwort-E-1",
+          "prompt": "Und ___ Sessel hier geht gut mit dem Sofa. MAX:  Kosten ___ Sofas hier nur € 400? Das ist wirklich toll! MORITZ:  Ja, ___ Sofa kostet € 400. Und ___ Tische (pl) kosten nur €100. MAX:  Dann soll ich einen kaufen. Aber ___ Tisch soll ich kaufen? MORITZ:  ___ braune Tisch ist sehr schön. Er passt gut zu ___ Stuhl, findest du nicht? MAX:  Ja, sie passen sehr gut zusammen! Ich glaube, ich kaufe ___ Tisch und ___ Stuhl. MORITZ:  Und ich kaufe ___ Sofa und ___ Sessel. Kaufen wir auch ___ Lampe hier? MAX:  Ich brauche keine Lampe, denn ich habe schon Lichter in ___ Zimmern (pl) zu Hause. Und du -- brauchst du wirklich eine Lampe? In ___ Zimmer möchtest du eine Lampe haben? MORITZ:  In meinem Wohnzimmer. Ich habe schon eine kleine Lampe, aber ___ Lampe hier ist wunderschön und ich muss sie haben! MAX:  Ja, OK. Kauf doch die Lampe. Und dann bringen wir ___ neuen Möbel (pl) nach Hause!",
+          "promptParts": [
+            "Und",
+            "Sessel hier geht gut mit dem Sofa. MAX:  Kosten",
+            "Sofas hier nur € 400? Das ist wirklich toll! MORITZ:  Ja,",
+            "Sofa kostet € 400. Und",
+            "Tische (pl) kosten nur €100. MAX:  Dann soll ich einen kaufen. Aber",
+            "Tisch soll ich kaufen? MORITZ:",
+            "braune Tisch ist sehr schön. Er passt gut zu",
+            "Stuhl, findest du nicht? MAX:  Ja, sie passen sehr gut zusammen! Ich glaube, ich kaufe",
+            "Tisch und",
+            "Stuhl. MORITZ:  Und ich kaufe",
+            "Sofa und",
+            "Sessel. Kaufen wir auch",
+            "Lampe hier? MAX:  Ich brauche keine Lampe, denn ich habe schon Lichter in",
+            "Zimmern (pl) zu Hause. Und du -- brauchst du wirklich eine Lampe? In",
+            "Zimmer möchtest du eine Lampe haben? MORITZ:  In meinem Wohnzimmer. Ich habe schon eine kleine Lampe, aber",
+            "Lampe hier ist wunderschön und ich muss sie haben! MAX:  Ja, OK. Kauf doch die Lampe. Und dann bringen wir",
+            "neuen Möbel (pl) nach Hause!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Welches"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Dieses"
+              ],
+              "hint": null
+            },
+            {
+              "index": 2,
+              "accept": [
+                "dieser"
+              ],
+              "hint": null
+            },
+            {
+              "index": 3,
+              "accept": [
+                "alle"
+              ],
+              "hint": null
+            },
+            {
+              "index": 4,
+              "accept": [
+                "jedes"
+              ],
+              "hint": null
+            },
+            {
+              "index": 5,
+              "accept": [
+                "alle"
+              ],
+              "hint": null
+            },
+            {
+              "index": 6,
+              "accept": [
+                "welchen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 7,
+              "accept": [
+                "Dieser"
+              ],
+              "hint": null
+            },
+            {
+              "index": 8,
+              "accept": [
+                "diesem"
+              ],
+              "hint": null
+            },
+            {
+              "index": 9,
+              "accept": [
+                "diesen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 10,
+              "accept": [
+                "diesen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 11,
+              "accept": [
+                "dieses"
+              ],
+              "hint": null
+            },
+            {
+              "index": 12,
+              "accept": [
+                "diesen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 13,
+              "accept": [
+                "diese"
+              ],
+              "hint": null
+            },
+            {
+              "index": 14,
+              "accept": [
+                "allen"
+              ],
+              "hint": null
+            },
+            {
+              "index": 15,
+              "accept": [
+                "welchem"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    }
+  ]
+}

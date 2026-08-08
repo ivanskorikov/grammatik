@@ -1,0 +1,635 @@
+{
+  "id": "accusative-prepositions",
+  "level": "A1",
+  "title": "Akkusativpräpositionen",
+  "group": "Cases",
+  "sourceFile": "akkuspraeps.html",
+  "overviewSource": "akkuspraepsexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "These prepositions always take the accusative case. The noun that follows must be in accusative form."
+      },
+      {
+        "type": "list",
+        "content": "durch (through)\nfür (for)\ngegen (against)\nohne (without)\num (around, at [time])\nentlang (along — follows the noun)"
+      },
+      {
+        "type": "example",
+        "de": "Das Geschenk ist für den Mann.",
+        "note": "für + accusative → den Mann"
+      },
+      {
+        "type": "example",
+        "de": "Wir fahren durch die Stadt.",
+        "note": "durch + accusative → die Stadt"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "akkuspraeps-A",
+      "type": "fill_blank",
+      "instructions": "Füllen Sie die Lücken mit den richtigen Präpositionen (durch, für, gegen, ohne, um) ein.",
+      "items": [
+        {
+          "id": "akkuspraeps-A-1",
+          "prompt": "Warum willst du denn ein Motorrad kaufen? Ein Fahrrad ist doch viel besser ___ dich.",
+          "promptParts": [
+            "Warum willst du denn ein Motorrad kaufen? Ein Fahrrad ist doch viel besser",
+            "dich."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "für"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-A-2",
+          "prompt": "Warum geht Brigitte jetzt so oft ___ ihren Freund aus? Liebt sie ihn nicht mehr?",
+          "promptParts": [
+            "Warum geht Brigitte jetzt so oft",
+            "ihren Freund aus? Liebt sie ihn nicht mehr?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ohne"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-A-3",
+          "prompt": "Die neue Straße soll direkt ___ den Park gehen.",
+          "promptParts": [
+            "Die neue Straße soll direkt",
+            "den Park gehen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "durch"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-A-4",
+          "prompt": "Ich bin ___ Experimente an Mäusen und Ratten.",
+          "promptParts": [
+            "Ich bin",
+            "Experimente an Mäusen und Ratten."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "gegen"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-A-5",
+          "prompt": "___ wie viel Uhr fängt das Konzert an? -- ___ acht Uhr.",
+          "promptParts": [
+            "",
+            "wie viel Uhr fängt das Konzert an? --",
+            "acht Uhr."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Um"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Um"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-A-6",
+          "prompt": "Wir haben noch keine Karten ___ das Konzert.",
+          "promptParts": [
+            "Wir haben noch keine Karten",
+            "das Konzert."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "für"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-A-7",
+          "prompt": "Das Konzert kostet nichts. Ihr könnt auch ___ Karten gehen.",
+          "promptParts": [
+            "Das Konzert kostet nichts. Ihr könnt auch",
+            "Karten gehen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ohne"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-A-8",
+          "prompt": "Kevin joggt morgens ___ den Campus.",
+          "promptParts": [
+            "Kevin joggt morgens",
+            "den Campus."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "um / durch"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-A-9",
+          "prompt": "Ich trinke meinen Kaffee mit viel Milch, aber ___ Zucker.",
+          "promptParts": [
+            "Ich trinke meinen Kaffee mit viel Milch, aber",
+            "Zucker."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ohne"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-A-10",
+          "prompt": "Was hast du denn ___ Bernd? Ich finde ihn sehr nett.",
+          "promptParts": [
+            "Was hast du denn",
+            "Bernd? Ich finde ihn sehr nett."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "gegen"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-A-11",
+          "prompt": "Heute müsst ihr mal ___ mich ausgehen. Ich muss ein Referat schreiben.",
+          "promptParts": [
+            "Heute müsst ihr mal",
+            "mich ausgehen. Ich muss ein Referat schreiben."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ohne"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-A-12",
+          "prompt": "Mein Freund wohnt direkt ___ die Ecke (=corner) hier.",
+          "promptParts": [
+            "Mein Freund wohnt direkt",
+            "die Ecke (=corner) hier."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "um"
+              ],
+              "hint": "=corner"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-A-13",
+          "prompt": "Spielen die Badgers am Samstag ___ Northwestern?",
+          "promptParts": [
+            "Spielen die Badgers am Samstag",
+            "Northwestern?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "gegen"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-A-14",
+          "prompt": "Wir kommen nicht genau (=exactly) ___ 7 Uhr an. Wir kommen ___ 7 Uhr, vielleicht ein paar Minuten später.",
+          "promptParts": [
+            "Wir kommen nicht genau (=exactly)",
+            "7 Uhr an. Wir kommen",
+            "7 Uhr, vielleicht ein paar Minuten später."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "um"
+              ],
+              "hint": "=exactly"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "gegen"
+              ],
+              "hint": "=exactly"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "akkuspraeps-B",
+      "type": "pick_and_type",
+      "instructions": "Füllen Sie die Lücken mit den passenden Pronomen",
+      "items": [
+        {
+          "id": "akkuspraeps-B-1",
+          "prompt": "Tobias:Torsten, hallo! Wohnst du dieses Semester in Studentenheim (=dorm, n)? Wie findest du ___ (it)?",
+          "promptParts": [
+            "Tobias:Torsten, hallo! Wohnst du dieses Semester in Studentenheim (=dorm, n)? Wie findest du",
+            "(it)?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "es"
+              ],
+              "hint": "=dorm, n"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-B-2",
+          "prompt": "Tobias:'Leider?' Warum? Hast du ___ (them) nicht gern?",
+          "promptParts": [
+            "Tobias:'Leider?' Warum? Hast du",
+            "(them) nicht gern?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sie"
+              ],
+              "hint": "them"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-B-3",
+          "prompt": "Torsten:Nein, ich mag ___ (them) nicht besonders. Sie sind sehr laut, und sie schlafen immer, wenn ich meine Musik spielen will. Der eine, Johannes, ist sehr groß, und ich finde ___ (him) hässlich. Und der andere, Matthias, ist einfach intolerant; er hat immer etwas gegen ___ (me). Aber ich habe nichts gegen ___ (them) -- ich verstehe ___ (it) wirklich nicht.",
+          "promptParts": [
+            "Torsten:Nein, ich mag",
+            "(them) nicht besonders. Sie sind sehr laut, und sie schlafen immer, wenn ich meine Musik spielen will. Der eine, Johannes, ist sehr groß, und ich finde",
+            "(him) hässlich. Und der andere, Matthias, ist einfach intolerant; er hat immer etwas gegen",
+            "(me). Aber ich habe nichts gegen",
+            "(them) -- ich verstehe",
+            "(it) wirklich nicht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sie"
+              ],
+              "hint": "them"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "ihn"
+              ],
+              "hint": "him"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "mich"
+              ],
+              "hint": "me"
+            },
+            {
+              "index": 3,
+              "accept": [
+                "ihn"
+              ],
+              "hint": "them"
+            },
+            {
+              "index": 4,
+              "accept": [
+                "es"
+              ],
+              "hint": "it"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-B-4",
+          "prompt": "Beate:Komm, Marta! Ich muss einkaufen! Mein Bruder hat nämlich Geburtstag, und meine Freundin Liese auch. Ich weiß schon, was ich für ___ (her) kaufe: eine neue Küchenuhr. Bei Hertie gibt es eine sehr schöne Uhr, ich finde ___ (it) einfach ausgezeichnet!",
+          "promptParts": [
+            "Beate:Komm, Marta! Ich muss einkaufen! Mein Bruder hat nämlich Geburtstag, und meine Freundin Liese auch. Ich weiß schon, was ich für",
+            "(her) kaufe: eine neue Küchenuhr. Bei Hertie gibt es eine sehr schöne Uhr, ich finde",
+            "(it) einfach ausgezeichnet!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sie"
+              ],
+              "hint": "her"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "sie"
+              ],
+              "hint": "it"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-B-5",
+          "prompt": "Marta:Und dein Bruder -- was kaufst du für ___ (him)?",
+          "promptParts": [
+            "Marta:Und dein Bruder -- was kaufst du für",
+            "(him)?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihn"
+              ],
+              "hint": "him"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-B-6",
+          "prompt": "Beate:Das weiß ich noch nicht. Ich habe schon ein Video für ___ (him), aber ich finde es nicht so interessant. Hast du eine Idee für ___ (me)?",
+          "promptParts": [
+            "Beate:Das weiß ich noch nicht. Ich habe schon ein Video für",
+            "(him), aber ich finde es nicht so interessant. Hast du eine Idee für",
+            "(me)?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihn"
+              ],
+              "hint": "him"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "mich"
+              ],
+              "hint": "me"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-B-7",
+          "prompt": "Marta:Nein, für ___ (you, sg) habe ich keine Ideen, aber ich muss selber einkaufen! Komm, gehen wir jetzt zusammen, vielleicht finden wir etwas schönes.",
+          "promptParts": [
+            "Marta:Nein, für",
+            "(you, sg) habe ich keine Ideen, aber ich muss selber einkaufen! Komm, gehen wir jetzt zusammen, vielleicht finden wir etwas schönes."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dich"
+              ],
+              "hint": "you, sg"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-B-8",
+          "prompt": "Martin:Nicht viel. Georgs Vater hat Geburtstag, und wir suchen ein Geschenk für ___ (him). Und du?",
+          "promptParts": [
+            "Martin:Nicht viel. Georgs Vater hat Geburtstag, und wir suchen ein Geschenk für",
+            "(him). Und du?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ihn"
+              ],
+              "hint": "him"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-B-9",
+          "prompt": "Katrin:Ich möchte ein bisschen durch ___ (the) Park (m) spazieren. Wollt ihr mitkommen?",
+          "promptParts": [
+            "Katrin:Ich möchte ein bisschen durch",
+            "(the) Park (m) spazieren. Wollt ihr mitkommen?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "den"
+              ],
+              "hint": "the"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-B-10",
+          "prompt": "Martin:Nein, du sollst ohne ___ (us) gehen. Wir müssen hier bleiben.",
+          "promptParts": [
+            "Martin:Nein, du sollst ohne",
+            "(us) gehen. Wir müssen hier bleiben."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "uns"
+              ],
+              "hint": "us"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        },
+        {
+          "id": "akkuspraeps-B-11",
+          "prompt": "Katrin:Ohne ___ (you, pl)? Aber allein möchte ich nicht gehen.",
+          "promptParts": [
+            "Katrin:Ohne",
+            "(you, pl)? Aber allein möchte ich nicht gehen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "euch"
+              ],
+              "hint": "you, pl"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    }
+  ]
+}

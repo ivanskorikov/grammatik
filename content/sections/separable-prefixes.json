@@ -1,0 +1,161 @@
+{
+  "id": "separable-prefixes",
+  "level": "A2",
+  "title": "Verben mit trennbaren Präfixen",
+  "group": "Verbs",
+  "sourceFile": "sepprefix.html",
+  "overviewSource": "sepinsepprefixexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Separable prefixes (an-, auf-, ein-, mit-, vor-…) detach and move to the end in main clauses."
+      },
+      {
+        "type": "example",
+        "de": "Ich stehe um sieben Uhr auf.",
+        "note": "aufstehen → stehe … auf"
+      },
+      {
+        "type": "example",
+        "de": "Er ruft seine Mutter an.",
+        "note": "anrufen → ruft … an"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "sepprefix-E",
+      "type": "fill_blank",
+      "instructions": "Answer the following questions in a complete sentence.",
+      "items": [
+        {
+          "id": "sepprefix-E-1",
+          "prompt": "Wann hast du Geburtstag? → ___",
+          "promptParts": [
+            "Wann hast du Geburtstag? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich habe Geburtstag im Oktober / Ich habe Geburtstag am 30. Oktober."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "sepprefix-E-2",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich stehe normalerweise um 8 Uhr auf."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "sepprefix-E-3",
+          "prompt": "Wann gehst du normalerweise schlafen? → ___",
+          "promptParts": [
+            "Wann gehst du normalerweise schlafen? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich gehe um ein Uhr schlafen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "sepprefix-E-4",
+          "prompt": "Hast du Deutsch gern? → ___",
+          "promptParts": [
+            "Hast du Deutsch gern? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ja, ich habe Deutsch sehr gern!"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "sepprefix-E-5",
+          "prompt": "Spielst du gern Fußball? → ___",
+          "promptParts": [
+            "Spielst du gern Fußball? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Nein, ich spiele nicht gern Fußball."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "sepprefix-E-6",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich habe zwei Brüder, aber ich habe keine Schwester."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    }
+  ]
+}

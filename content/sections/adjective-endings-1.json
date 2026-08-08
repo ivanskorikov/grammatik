@@ -1,0 +1,56 @@
+{
+  "id": "adjective-endings-1",
+  "level": "A2",
+  "title": "Adjektivendungen 1",
+  "group": "Adjectives",
+  "sourceFile": "adjektivendungen1.html",
+  "overviewSource": "adjektivendungenexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Attributive adjectives (before a noun) take endings based on the preceding article. Strong declension: no article → more endings. Weak: after der/die/das → mostly -e/-en."
+      },
+      {
+        "type": "example",
+        "de": "Deutsches Brot schmeckt gut.",
+        "note": "no article → strong ending -es"
+      },
+      {
+        "type": "example",
+        "de": "Das deutsche Brot schmeckt gut.",
+        "note": "after das → weak ending -e"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "adjektivendungen1-G",
+      "type": "fill_blank",
+      "instructions": "Now try to translate these sentences, using correct adjective endings where needed.",
+      "items": [
+        {
+          "id": "adjektivendungen1-G-1",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Die glücklichen (fröhlichen, frohen) Studenten sprechen gutes Deutsch mit ihrem alten Lehrer (mit ihrer jungen Lehrerin)."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "accusative-articles"
+          }
+        }
+      ]
+    }
+  ]
+}

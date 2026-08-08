@@ -1,0 +1,356 @@
+{
+  "id": "stem-changing-verbs",
+  "level": "A1",
+  "title": "Verben mit Wechsel des Stammvokals",
+  "group": "Verbs",
+  "sourceFile": "stemchange.html",
+  "overviewSource": "stemchangeexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Some verbs change their stem vowel in the du and er/sie/es forms (and du-form only for some). The pattern is fixed per verb — learn them with the infinitive."
+      },
+      {
+        "type": "list",
+        "content": "e → i: geben → du gibst\ne → ie: sehen → du siehst\na → ä: fahren → du fährst"
+      },
+      {
+        "type": "example",
+        "de": "Er gibt mir das Buch.",
+        "note": "geben → er gibt (not gibt)"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "stemchange-B",
+      "type": "fill_blank",
+      "instructions": "Make complete sentences out of the following elements. Watch out for stem-changing verbs as well as word order! (And note that two of the sentences are in question form.)",
+      "items": [
+        {
+          "id": "stemchange-B-1",
+          "prompt": "der Kurs / anfangen / um 7 Uhr . → ___",
+          "promptParts": [
+            "der Kurs / anfangen / um 7 Uhr . → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Der Kurs fängt um 7 Uhr an. (Um 7 Uhr fängt der Kurs an.)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "stemchange-B-2",
+          "prompt": "wir / sehen / einen Film / heute Abend ? → ___",
+          "promptParts": [
+            "wir / sehen / einen Film / heute Abend ? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Sehen wir heute Abend einen Film? (Sehen wir einen Film heute Abend?)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "stemchange-B-3",
+          "prompt": "du / aussehen/ sehr schick / heute . → ___",
+          "promptParts": [
+            "du / aussehen/ sehr schick / heute . → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Du siehst heute sehr schick aus. (Heute siehst du sehr schick aus.)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "stemchange-B-4",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wir essen heute Nachmittag in der Mensa. (Heute Nachmittag essen wir in der Mensa.)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "stemchange-B-5",
+          "prompt": "er / nehmen / ein Taxi / zur Arbeit ? → ___",
+          "promptParts": [
+            "er / nehmen / ein Taxi / zur Arbeit ? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Nimmt er ein Taxi zur Arbeit?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "stemchange-B-6",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Mein Vater liest morgens die Zeitung. (Morgens liest mein Vater die Zeitung. Mein Vater liest die Zeitung morgens.)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stemchange-C",
+      "type": "fill_blank",
+      "instructions": "Imagine you overhear only one side of a conversation. Write the questions (in du-form) that would have elicited the following responses. Be careful: these are all stem-changing verbs! Also, the pattern of questions changes after number 4, so pay attention and use the vocabulary that is found in each response.",
+      "items": [
+        {
+          "id": "stemchange-C-2",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Siehst du gern fern?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "stemchange-C-3",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Fährst du gern Auto?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "stemchange-C-4",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Läufst du gern?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "stemchange-C-5",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Liest du oft die Zeitung? (Liest du die Zeitung oft?)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "stemchange-C-6",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wann schläfst du nachts?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "stemchange-C-7",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wen lädst du zur Party ein?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "stemchange-C-8",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Trägst du eine Brille?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "stemchange-C-9",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Sprichst du Französisch?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "stemchange-C-10",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wann triffst du deine Freunde?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    }
+  ]
+}

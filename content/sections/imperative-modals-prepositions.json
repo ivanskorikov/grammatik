@@ -1,0 +1,566 @@
+{
+  "id": "imperative-modals-prepositions",
+  "level": "A1",
+  "title": "Wiederholung: Imperative, Modalverben und Akkusativpräpositionen",
+  "group": "Review",
+  "sourceFile": "impmodalpraeps.html",
+  "overviewSource": "imperativesexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "The imperative gives commands. Du-form often drops the -st ending; Sie-form uses the infinitive + Sie."
+      },
+      {
+        "type": "list",
+        "content": "Komm! / Kommen Sie! — Come!\nLies! / Lesen Sie! — Read!\nSeid leise! — Be quiet! (ihr-form)"
+      },
+      {
+        "type": "example",
+        "de": "Gehen Sie bitte nach links.",
+        "note": "formal imperative"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "impmodalpraeps-B",
+      "type": "word_bank",
+      "instructions": "Wählen Sie das richtige Verb aus der Liste, und schreiben Sie es als Imperativ in die Lücke. Achten Sie auf die Verbform!",
+      "items": [
+        {
+          "id": "impmodalpraeps-B-1",
+          "prompt": "Hast du Durst, Maria? Dann ___ Wasser, nicht Cola.",
+          "promptParts": [
+            "Hast du Durst, Maria? Dann",
+            "Wasser, nicht Cola."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "trink"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "essen",
+            "gehen",
+            "haben",
+            "kaufen",
+            "lernen",
+            "reisen",
+            "öffnen",
+            "trinken"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-B-2",
+          "prompt": "Kinder, Gemüse ist gesund. ___ eure Karotten!",
+          "promptParts": [
+            "Kinder, Gemüse ist gesund.",
+            "eure Karotten!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Öffnen"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "essen",
+            "gehen",
+            "haben",
+            "kaufen",
+            "lernen",
+            "reisen",
+            "öffnen",
+            "trinken"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-B-3",
+          "prompt": "Der neue James-Bond-Film ist aus. ___ wir heute Abend ins Kino!",
+          "promptParts": [
+            "Der neue James-Bond-Film ist aus.",
+            "wir heute Abend ins Kino!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Esst"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "essen",
+            "gehen",
+            "haben",
+            "kaufen",
+            "lernen",
+            "reisen",
+            "öffnen",
+            "trinken"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-B-4",
+          "prompt": "Mutti, das neue Harry-Potter-Buch ist hier. ___ es, bitte! Ich möchte es lesen.",
+          "promptParts": [
+            "Mutti, das neue Harry-Potter-Buch ist hier.",
+            "es, bitte! Ich möchte es lesen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Gehen"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "essen",
+            "gehen",
+            "haben",
+            "kaufen",
+            "lernen",
+            "reisen",
+            "öffnen",
+            "trinken"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-B-5",
+          "prompt": "___ Sie keine Angst, Herr Lotz. Mein Hund beißt nicht.",
+          "promptParts": [
+            "",
+            "Sie keine Angst, Herr Lotz. Mein Hund beißt nicht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Lern"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "essen",
+            "gehen",
+            "haben",
+            "kaufen",
+            "lernen",
+            "reisen",
+            "öffnen",
+            "trinken"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "impmodalpraeps-D",
+      "type": "fill_blank",
+      "instructions": "Eine Gruppe von Studenten macht Pläne für das Wochenende. Setzen Sie die passenden Verbformen der Modalverben in die Lücken ein. Achten Sie auf das Subjekt!",
+      "items": [
+        {
+          "id": "impmodalpraeps-D-1",
+          "prompt": "ALEXANDER:Hier ist es so langweilig! Was ___ (want) wir heute abend machen?",
+          "promptParts": [
+            "ALEXANDER:Hier ist es so langweilig! Was",
+            "(want) wir heute abend machen?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wollen"
+              ],
+              "hint": "want"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-D-2",
+          "prompt": "STEFANIE:Ach, ich weiß es nicht. Ich ___ (would like) ausgehen, aber ich ___ (supposed to) mit Gabi in die Bibliothek gehen und lernen.",
+          "promptParts": [
+            "STEFANIE:Ach, ich weiß es nicht. Ich",
+            "(would like) ausgehen, aber ich",
+            "(supposed to) mit Gabi in die Bibliothek gehen und lernen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "möchte"
+              ],
+              "hint": "would like"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "soll"
+              ],
+              "hint": "supposed to"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-D-3",
+          "prompt": "KARINA:Was? ___ (can) du Samstag abend wirklich noch lernen? Ich ___ (can) es nicht. Ich ___ (want) immer am Wochenende faulenzen.",
+          "promptParts": [
+            "KARINA:Was?",
+            "(can) du Samstag abend wirklich noch lernen? Ich",
+            "(can) es nicht. Ich",
+            "(want) immer am Wochenende faulenzen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Kannst"
+              ],
+              "hint": "can"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "kann"
+              ],
+              "hint": "can"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "will"
+              ],
+              "hint": "want"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-D-4",
+          "prompt": "ALEXANDER:Vielleicht ___ (should) ihr doch in die Bibliothek gehen -- ihr ___ (have to) nämlich am Montag eine Klausur schreiben.",
+          "promptParts": [
+            "ALEXANDER:Vielleicht",
+            "(should) ihr doch in die Bibliothek gehen -- ihr",
+            "(have to) nämlich am Montag eine Klausur schreiben."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sollt"
+              ],
+              "hint": "should"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "müsst"
+              ],
+              "hint": "have to"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-D-5",
+          "prompt": "KARINA:Ja, ja, aber heute abend ___ (want) ich ins Theater gehen, und Stefanie ___ (would like) eigentlich auch mitkommen, nicht wahr?",
+          "promptParts": [
+            "KARINA:Ja, ja, aber heute abend",
+            "(want) ich ins Theater gehen, und Stefanie",
+            "(would like) eigentlich auch mitkommen, nicht wahr?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "will"
+              ],
+              "hint": "want"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "möchte"
+              ],
+              "hint": "would like"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-D-6",
+          "prompt": "STEFANIE:Na ja, Gabi und ich ___ (can) auch morgen lernen. Aber wie kommen wir zum Theater? Habt ihr ein Auto?",
+          "promptParts": [
+            "STEFANIE:Na ja, Gabi und ich",
+            "(can) auch morgen lernen. Aber wie kommen wir zum Theater? Habt ihr ein Auto?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "können"
+              ],
+              "hint": "can"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-D-7",
+          "prompt": "ALEXANDER:Ach, ich ___ (may) bestimmt das Auto von meinen Eltern nehmen. Kommt, jetzt gehen wir!",
+          "promptParts": [
+            "ALEXANDER:Ach, ich",
+            "(may) bestimmt das Auto von meinen Eltern nehmen. Kommt, jetzt gehen wir!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "darf"
+              ],
+              "hint": "may"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "impmodalpraeps-E",
+      "type": "fill_blank",
+      "instructions": "Schreiben Sie 5 Sätze mit Modalverben. Wählen Sie ein Subjekt, ein Verb, und eine Phrase aus jeder Spalte",
+      "items": [
+        {
+          "id": "impmodalpraeps-E-1",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Du sollst Deutsch lernen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-E-2",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Mein Bruder darf kein Eis essen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-E-3",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Sie können nach England fliegen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-E-4",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich muss morgen einen Quiz schreiben."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-E-5",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wir wollen Musik hören."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "impmodalpraeps-F",
+      "type": "word_bank",
+      "instructions": "Schreiben Sie die richtige Präpositionen in die Lücken, und schreiben Sie auch das richtige Wort (Pronomen oder Artikel), wie in den Klammern.",
+      "items": [
+        {
+          "id": "impmodalpraeps-F-1",
+          "prompt": "Ich beginne meinen Tag immer ___ 7 Uhr morgens.",
+          "promptParts": [
+            "Ich beginne meinen Tag immer",
+            "7 Uhr morgens."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "gegen mich"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "durch",
+            "für",
+            "gegen",
+            "ohne",
+            "um"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "impmodalpraeps-F-2",
+          "prompt": "Das Fenster ist aus Glas. Ich kann ___ ___ Fenster sehen.",
+          "promptParts": [
+            "Das Fenster ist aus Glas. Ich kann",
+            "",
+            "Fenster sehen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "für ihn"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "durch die"
+              ],
+              "hint": null
+            }
+          ],
+          "wordBank": [
+            "durch",
+            "für",
+            "gegen",
+            "ohne",
+            "um"
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    }
+  ]
+}

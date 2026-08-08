@@ -1,0 +1,651 @@
+{
+  "id": "werden",
+  "level": "A2",
+  "title": "Werden, Wurden, Würden, Was?",
+  "group": "Verbs",
+  "sourceFile": "werden.html",
+  "overviewSource": "werdenexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Werden means \"to become\" and is also used as a helper for Futur I and passive (later levels)."
+      },
+      {
+        "type": "example",
+        "de": "Er wird Arzt.",
+        "note": "werden + noun (no article) = become"
+      },
+      {
+        "type": "example",
+        "de": "Es wird kalt.",
+        "note": "werden + adjective"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "werden-B",
+      "type": "fill_blank",
+      "instructions": "Fill in the correct form of",
+      "items": [
+        {
+          "id": "werden-B-1",
+          "prompt": "Nächstes Jahr ___ ich in Deutschland studieren.",
+          "promptParts": [
+            "Nächstes Jahr",
+            "ich in Deutschland studieren."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "werde"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-2",
+          "prompt": "Mein Bruder ___ mich dort besuchen.",
+          "promptParts": [
+            "Mein Bruder",
+            "mich dort besuchen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Next year I will (I'm going to) study in Germany."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-3",
+          "prompt": "___ ihr mir einen Brief schreiben?",
+          "promptParts": [
+            "",
+            "ihr mir einen Brief schreiben?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wird"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-4",
+          "prompt": "Du ___ dich bestimmt freuen, mich wiederzusehen.",
+          "promptParts": [
+            "Du",
+            "dich bestimmt freuen, mich wiederzusehen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "My brother will (is going to) visit me there."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-5",
+          "prompt": "___ ich nach einem Jahr besser Deutsch sprechen können?",
+          "promptParts": [
+            "",
+            "ich nach einem Jahr besser Deutsch sprechen können?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Werdet"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-1",
+          "prompt": "Ich ___ nach Chicago fahren, wenn ich genug Geld hätte.",
+          "promptParts": [
+            "Ich",
+            "nach Chicago fahren, wenn ich genug Geld hätte."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Will you (all) write me a letter?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-2",
+          "prompt": "___ du mir bitte den Salz reichen?",
+          "promptParts": [
+            "",
+            "du mir bitte den Salz reichen?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "wirst"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-3",
+          "prompt": "Ach, wenn meine Eltern mir nur mehr Geld geben ___ !",
+          "promptParts": [
+            "Ach, wenn meine Eltern mir nur mehr Geld geben",
+            "!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "You will certainly be happy to see me again."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-4",
+          "prompt": "Meine Mütter ___ lieber nicht arbeiten, aber sie braucht das Geld.",
+          "promptParts": [
+            "Meine Mütter",
+            "lieber nicht arbeiten, aber sie braucht das Geld."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Werde"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-5",
+          "prompt": "Ich wünschte, ich ___ nachts länger schlafen können.",
+          "promptParts": [
+            "Ich wünschte, ich",
+            "nachts länger schlafen können."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Will I be able to speak better German after a year?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-1",
+          "prompt": "Präteritum: Ich ___ im Jahre 1971 geboren.",
+          "promptParts": [
+            "Präteritum: Ich",
+            "im Jahre 1971 geboren."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "würde"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-2",
+          "prompt": "Präsens: Das Haus ___ ganz weiß angestrichen (=painted).",
+          "promptParts": [
+            "Präsens: Das Haus",
+            "ganz weiß angestrichen (=painted)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "I would drive to Chicago if I had enough money."
+              ],
+              "hint": "=painted"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-3",
+          "prompt": "Mit Modalverb: Dem alten Mann muss geholfen ___, die Straße zu überqueren.",
+          "promptParts": [
+            "Mit Modalverb: Dem alten Mann muss geholfen",
+            ", die Straße zu überqueren."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Würdest"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-4",
+          "prompt": "Präsens: Der Mann ___ von der Polizei gesucht.",
+          "promptParts": [
+            "Präsens: Der Mann",
+            "von der Polizei gesucht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Would you please pass me the salt?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-5",
+          "prompt": "Perfekt: Die Weimarar Republik ist im Jahre 1918 gegründet ___.",
+          "promptParts": [
+            "Perfekt: Die Weimarar Republik ist im Jahre 1918 gegründet",
+            "."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "würden"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-6",
+          "prompt": "Präteritum: Die Tür ___ von einem starken Wind zugemacht.",
+          "promptParts": [
+            "Präteritum: Die Tür",
+            "von einem starken Wind zugemacht."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "If only my parents would give me more money!"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-7",
+          "prompt": "Mit Modalverb: Soll die Suppe länger gekocht ___?",
+          "promptParts": [
+            "Mit Modalverb: Soll die Suppe länger gekocht",
+            "?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "würde"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-2",
+          "prompt": "Im Dezember ___ es um 16 Uhr dunkel.",
+          "promptParts": [
+            "Im Dezember",
+            "es um 16 Uhr dunkel."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "My mother would rather not work, but she needs the money."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-3",
+          "prompt": "Meine kleine Schwester möchte später Ärztin ___.",
+          "promptParts": [
+            "Meine kleine Schwester möchte später Ärztin",
+            "."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "würde"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-B-4",
+          "prompt": "Deutschland ___ im Jahre 1990 wieder ein Land.",
+          "promptParts": [
+            "Deutschland",
+            "im Jahre 1990 wieder ein Land."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "I wish I were able to sleep longer at night."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "werden-C",
+      "type": "fill_blank",
+      "instructions": "Translate the sentences into German. All of them will use some form of",
+      "items": [
+        {
+          "id": "werden-C-1",
+          "prompt": "Did it get cold last night? → ___",
+          "promptParts": [
+            "Did it get cold last night? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wurde es gestern Abend (letzte Nacht) kalt? (or: Ist es gestern Abend kalt geworden?)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-C-2",
+          "prompt": "Were the windows washed? → ___",
+          "promptParts": [
+            "Were the windows washed? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wurden die Fenster gewaschen?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-C-3",
+          "prompt": "He would rather drive. → ___",
+          "promptParts": [
+            "He would rather drive. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Er würde lieber fahren."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-C-4",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Mein Hauptfach wird Deutsch sein."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-C-5",
+          "prompt": "Would you please stop? → ___",
+          "promptParts": [
+            "Would you please stop? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Würdest du bitte aufhören?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-C-6",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Mein Bruder wurde gestern verhaftet. (or: Mein Bruder ist gestern verhaftet worden.)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-C-7",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wir werden im November wählen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-C-8",
+          "prompt": "She turned 21 last year. → ___",
+          "promptParts": [
+            "She turned 21 last year. → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Sie ist letztes Jahr 21 geworden. (or: Sie wurde letztes Jahr 21.)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "werden-C-9",
+          "prompt": "By whom were the books written? → ___",
+          "promptParts": [
+            "By whom were the books written? → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Von wem wurden die Bücher geschrieben?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    }
+  ]
+}

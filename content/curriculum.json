@@ -1,0 +1,327 @@
+{
+  "levels": [
+    {
+      "id": "A1",
+      "label": "A1 — Beginner",
+      "description": "Cases, present tense, articles, basic word order, modal verbs."
+    },
+    {
+      "id": "A2",
+      "label": "A2 — Elementary",
+      "description": "Dative, Perfekt, reflexive verbs, conjunctions, comparatives."
+    }
+  ],
+  "sections": [
+    {
+      "id": "nominative-accusative",
+      "level": "A1",
+      "title": "Nominative and Accusative",
+      "group": "Cases",
+      "sourceFile": "nominakkus.html",
+      "overviewSource": "nomakkexpl.html",
+      "topic": "accusative-articles"
+    },
+    {
+      "id": "accusative-pronouns",
+      "level": "A1",
+      "title": "Accusative Pronouns",
+      "group": "Cases",
+      "sourceFile": "akkuspronom.html",
+      "overviewSource": "akkuspronomenexpl.html",
+      "topic": "accusative-articles"
+    },
+    {
+      "id": "accusative-prepositions",
+      "level": "A1",
+      "title": "Accusative Prepositions",
+      "group": "Cases",
+      "sourceFile": "akkuspraeps.html",
+      "overviewSource": "akkuspraepsexpl.html",
+      "topic": "accusative-articles"
+    },
+    {
+      "id": "sein-heissen",
+      "level": "A1",
+      "title": "Sein and Heißen",
+      "group": "Verbs",
+      "sourceFile": "seinheissen.html",
+      "topic": "verb-conjugation"
+    },
+    {
+      "id": "modal-verbs",
+      "level": "A1",
+      "title": "Modal Verbs",
+      "group": "Verbs",
+      "sourceFile": "modalverben.html",
+      "overviewSource": "modalverbenexpl.html",
+      "topic": "verb-conjugation"
+    },
+    {
+      "id": "stem-changing-verbs",
+      "level": "A1",
+      "title": "Stem-Changing Verbs",
+      "group": "Verbs",
+      "sourceFile": "stemchange.html",
+      "overviewSource": "stemchangeexpl.html",
+      "topic": "verb-conjugation"
+    },
+    {
+      "id": "verbs-articles-negation",
+      "level": "A1",
+      "title": "Verbs, Articles and Negation",
+      "group": "Verbs",
+      "sourceFile": "verbartiknegat.html",
+      "overviewSource": "negationexpl.html",
+      "topic": "verb-conjugation"
+    },
+    {
+      "id": "introductions",
+      "level": "A1",
+      "title": "Introductions and Pronouns",
+      "group": "Basics",
+      "sourceFile": "vorstellen.html",
+      "topic": "verb-conjugation"
+    },
+    {
+      "id": "pronouns-questions",
+      "level": "A1",
+      "title": "Pronouns and Questions",
+      "group": "Basics",
+      "sourceFile": "pronomfragen.html",
+      "topic": "verb-conjugation"
+    },
+    {
+      "id": "imperative-modals-prepositions",
+      "level": "A1",
+      "title": "Imperative, Modals and Prepositions",
+      "group": "Review",
+      "sourceFile": "impmodalpraeps.html",
+      "overviewSource": "imperativesexpl.html",
+      "topic": "verb-conjugation"
+    },
+    {
+      "id": "dative",
+      "level": "A2",
+      "title": "The Dative Case",
+      "group": "Cases",
+      "sourceFile": "dativ.html",
+      "overviewSource": "dativexpl.html",
+      "topic": "dative"
+    },
+    {
+      "id": "dative-verbs",
+      "level": "A2",
+      "title": "Dative Verbs",
+      "group": "Cases",
+      "sourceFile": "dativverben.html",
+      "topic": "dative"
+    },
+    {
+      "id": "cases-review",
+      "level": "A2",
+      "title": "Nominative, Accusative and Dative Review",
+      "group": "Cases",
+      "sourceFile": "nomakkdat.html",
+      "overviewSource": "nomakkdatexpl.html",
+      "topic": "dative"
+    },
+    {
+      "id": "dative-der-words",
+      "level": "A2",
+      "title": "Dative and Der-Words",
+      "group": "Cases",
+      "sourceFile": "dativderwort.html",
+      "topic": "dative"
+    },
+    {
+      "id": "two-way-prepositions-1",
+      "level": "A2",
+      "title": "Two-Way Prepositions 1",
+      "group": "Prepositions",
+      "sourceFile": "wechselpraeps1.html",
+      "topic": "dative"
+    },
+    {
+      "id": "two-way-prepositions-2",
+      "level": "A2",
+      "title": "Two-Way Prepositions 2",
+      "group": "Prepositions",
+      "sourceFile": "wechselpraeps2.html",
+      "topic": "dative"
+    },
+    {
+      "id": "two-way-prepositions-3",
+      "level": "A2",
+      "title": "Two-Way Prepositions 3",
+      "group": "Prepositions",
+      "sourceFile": "wechselpraeps3.html",
+      "topic": "dative"
+    },
+    {
+      "id": "word-order-prepositions",
+      "level": "A2",
+      "title": "Word Order and Two-Way Prepositions",
+      "group": "Prepositions",
+      "sourceFile": "wortstellpraeps.html",
+      "topic": "word-order"
+    },
+    {
+      "id": "perfekt-1",
+      "level": "A2",
+      "title": "Perfekt 1",
+      "group": "Past Tense",
+      "sourceFile": "perfekt1.html",
+      "overviewSource": "perfektexpl.html",
+      "topic": "perfekt"
+    },
+    {
+      "id": "perfekt-2",
+      "level": "A2",
+      "title": "Perfekt 2",
+      "group": "Past Tense",
+      "sourceFile": "perfekt2.html",
+      "overviewSource": "perfektexpl.html",
+      "topic": "perfekt"
+    },
+    {
+      "id": "praeteritum-1",
+      "level": "A2",
+      "title": "Präteritum 1",
+      "group": "Past Tense",
+      "sourceFile": "praeteritum1.html",
+      "topic": "verb-conjugation"
+    },
+    {
+      "id": "praeteritum-2",
+      "level": "A2",
+      "title": "Präteritum 2",
+      "group": "Past Tense",
+      "sourceFile": "praeteritum2.html",
+      "topic": "verb-conjugation"
+    },
+    {
+      "id": "reflexive-verbs-1",
+      "level": "A2",
+      "title": "Reflexive Verbs 1",
+      "group": "Verbs",
+      "sourceFile": "reflexiv1.html",
+      "overviewSource": "reflexexpl.html",
+      "topic": "verb-conjugation"
+    },
+    {
+      "id": "reflexive-verbs-2",
+      "level": "A2",
+      "title": "Reflexive Verbs 2",
+      "group": "Verbs",
+      "sourceFile": "reflexiv2.html",
+      "overviewSource": "reflexexpl.html",
+      "topic": "verb-conjugation"
+    },
+    {
+      "id": "separable-prefixes",
+      "level": "A2",
+      "title": "Separable Prefix Verbs",
+      "group": "Verbs",
+      "sourceFile": "sepprefix.html",
+      "overviewSource": "sepinsepprefixexpl.html",
+      "topic": "verb-conjugation"
+    },
+    {
+      "id": "werden",
+      "level": "A2",
+      "title": "Werden",
+      "group": "Verbs",
+      "sourceFile": "werden.html",
+      "overviewSource": "werdenexpl.html",
+      "topic": "verb-conjugation"
+    },
+    {
+      "id": "word-order-conjunctions",
+      "level": "A2",
+      "title": "Word Order with Conjunctions",
+      "group": "Word Order",
+      "sourceFile": "wortstellung.html",
+      "overviewSource": "wortstellungexpl.html",
+      "topic": "word-order"
+    },
+    {
+      "id": "conjunctions",
+      "level": "A2",
+      "title": "Conjunctions",
+      "group": "Word Order",
+      "sourceFile": "konjunktionen.html",
+      "overviewSource": "konjunktionenexpl.html",
+      "topic": "word-order"
+    },
+    {
+      "id": "time-expressions",
+      "level": "A2",
+      "title": "Word Order with Time Expressions",
+      "group": "Word Order",
+      "sourceFile": "zeitangaben.html",
+      "overviewSource": "zeitangabenexpl.html",
+      "topic": "word-order"
+    },
+    {
+      "id": "possessives-conjunctions",
+      "level": "A2",
+      "title": "Possessives and Conjunctions",
+      "group": "Adjectives",
+      "sourceFile": "possessiv.html",
+      "overviewSource": "possessivexpl.html",
+      "topic": "accusative-articles"
+    },
+    {
+      "id": "comparatives-1",
+      "level": "A2",
+      "title": "Comparatives and Superlatives 1",
+      "group": "Adjectives",
+      "sourceFile": "kompsuper1.html",
+      "topic": "accusative-articles"
+    },
+    {
+      "id": "comparatives-2",
+      "level": "A2",
+      "title": "Comparatives and Superlatives 2",
+      "group": "Adjectives",
+      "sourceFile": "kompsuper2.html",
+      "topic": "accusative-articles"
+    },
+    {
+      "id": "adjective-endings-1",
+      "level": "A2",
+      "title": "Adjective Endings 1",
+      "group": "Adjectives",
+      "sourceFile": "adjektivendungen1.html",
+      "overviewSource": "adjektivendungenexpl.html",
+      "topic": "accusative-articles"
+    },
+    {
+      "id": "adjective-endings-2",
+      "level": "A2",
+      "title": "Adjective Endings 2",
+      "group": "Adjectives",
+      "sourceFile": "adjektivendungen2.html",
+      "overviewSource": "adjektivendungenexpl.html",
+      "topic": "accusative-articles"
+    },
+    {
+      "id": "adjective-endings-3",
+      "level": "A2",
+      "title": "Adjective Endings 3",
+      "group": "Adjectives",
+      "sourceFile": "adjektivendungen3.html",
+      "overviewSource": "adjektivendungenexpl.html",
+      "topic": "accusative-articles"
+    },
+    {
+      "id": "adjective-endings-4",
+      "level": "A2",
+      "title": "Adjective Endings 4",
+      "group": "Adjectives",
+      "sourceFile": "adjektivendungen4.html",
+      "overviewSource": "adjektivendungenexpl.html",
+      "topic": "accusative-articles"
+    }
+  ]
+}

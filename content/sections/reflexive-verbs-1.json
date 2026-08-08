@@ -1,0 +1,539 @@
+{
+  "id": "reflexive-verbs-1",
+  "level": "A2",
+  "title": "Reflexivverben 1",
+  "group": "Verbs",
+  "sourceFile": "reflexiv1.html",
+  "overviewSource": "reflexexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Reflexive verbs use a reflexive pronoun (mich, dich, sich…) that refers back to the subject. Many daily-routine verbs are reflexive."
+      },
+      {
+        "type": "list",
+        "content": "sich waschen — to wash (oneself)\nsich anziehen — to get dressed\nsich freuen — to be glad\nsich interessieren — to be interested"
+      },
+      {
+        "type": "example",
+        "de": "Ich wasche mich. / Du wäschst dich.",
+        "note": "reflexive pronoun matches subject"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "reflexiv1-C",
+      "type": "fill_blank",
+      "instructions": "Füllen Sie die Lücken mit dem richtigen Reflexivpronomen ein, und sagen Sie, ob das Verb den Akkusativ oder den Dativ erfordert.",
+      "items": [
+        {
+          "id": "reflexiv1-C-1",
+          "prompt": "Wie oft rasierst du ___ die Beine? [ AKK / DAT ]",
+          "promptParts": [
+            "Wie oft rasierst du",
+            "die Beine? [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dir"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-C-2",
+          "prompt": "Wir haben ___ alle furchtbar erkältet. [ AKK / DAT ]",
+          "promptParts": [
+            "Wir haben",
+            "alle furchtbar erkältet. [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "uns"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-C-3",
+          "prompt": "Wascht ihr ___ die Hände vor dem Essen? [ AKK / DAT ]",
+          "promptParts": [
+            "Wascht ihr",
+            "die Hände vor dem Essen? [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "euch"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-C-4",
+          "prompt": "Morgens dusche ich ___ [ AKK / DAT ], dann föhne ich ___ die Haare. [ AKK / DAT ]",
+          "promptParts": [
+            "Morgens dusche ich",
+            "[ AKK / DAT ], dann föhne ich",
+            "die Haare. [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mich"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "mir"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-C-5",
+          "prompt": "Frau Meyer, setzen Sie ___, bitte! [ AKK / DAT ]",
+          "promptParts": [
+            "Frau Meyer, setzen Sie",
+            ", bitte! [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sich"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-C-6",
+          "prompt": "Meine Mutter ist ganz müde. Sie muss ___ jetzt hinlegen. [ AKK / DAT ]",
+          "promptParts": [
+            "Meine Mutter ist ganz müde. Sie muss",
+            "jetzt hinlegen. [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sich"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-C-7",
+          "prompt": "Bevor du ins Bett gehst, musst du ___ das Hemd und die Hose ausziehen. [ AKK / DAT ]",
+          "promptParts": [
+            "Bevor du ins Bett gehst, musst du",
+            "das Hemd und die Hose ausziehen. [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "dir"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-C-8",
+          "prompt": "Ich kann ___ einen Ferrari nicht leisten. [ AKK / DAT ]",
+          "promptParts": [
+            "Ich kann",
+            "einen Ferrari nicht leisten. [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mir"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-C-9",
+          "prompt": "Wir freuen ___ sehr auf die Ferien. [ AKK / DAT ]",
+          "promptParts": [
+            "Wir freuen",
+            "sehr auf die Ferien. [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "uns"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-C-10",
+          "prompt": "Meine Schwester hält ___ mit Radfahren fit. [ AKK / DAT ]",
+          "promptParts": [
+            "Meine Schwester hält",
+            "mit Radfahren fit. [ AKK / DAT ]"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "sich"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reflexiv1-D",
+      "type": "fill_blank",
+      "instructions": "Bilden Sie Sätze aus den gegebenen Elementen. Passen Sie auf die Wortstellung",
+      "items": [
+        {
+          "id": "reflexiv1-D-1",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich lege mich eine Weile auf das Sofa hin."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-D-2",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich habe mich eine Weile auf das Sofa hingelegt."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-D-3",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Maria wäscht sich die Hände vor dem Abendessen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-D-4",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Maria hat sich die Hände vor dem Abendessen gewaschen."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-D-5",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Schminkst du dich am Wochenende?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-D-6",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Hast du dich am Wochenende geschminkt?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-D-7",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Interessiert ihr euch für klassische Musik?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-D-8",
+          "prompt": "  → ___",
+          "promptParts": [
+            "  → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Habt ihr euch für klassische Musik interessiert?"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reflexiv1-E",
+      "type": "fill_blank",
+      "instructions": "Antworten Sie auf die folgenden Fragen mit einem ganzen deutschen Satz.",
+      "items": [
+        {
+          "id": "reflexiv1-E-1",
+          "prompt": " ___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich fühle mich ziemlich gut (oder: müde, schlecht, krank, sehr gut, ausgezeichnet)."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-E-2",
+          "prompt": " ___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich ziehe mich an; ich dusche mich; ich putze mir die Zähne; ich beeile mich."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-E-3",
+          "prompt": " ___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich ärgere mich über George W. Bush (über nichts / über meinen Mathekurs ...)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-E-4",
+          "prompt": " ___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich interessiere mich für Computers (für Musik, für Filme, für Geschichte, für Deutsch ...)"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        },
+        {
+          "id": "reflexiv1-E-5",
+          "prompt": " ___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich wünsche mir einen DVD-Player (eine Karte, ein Auto)."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "praeteritum-1",
+  "level": "A2",
+  "title": "Das Präteritum 1",
+  "group": "Past Tense",
+  "sourceFile": "praeteritum1.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Präteritum is the written/narrative past. At A2, focus on sein, haben, and modal verbs — they are used more in Präteritum than in speech."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "",
+            "sein",
+            "haben"
+          ],
+          [
+            "ich",
+            "war",
+            "hatte"
+          ],
+          [
+            "du",
+            "warst",
+            "hattest"
+          ],
+          [
+            "er/sie/es",
+            "war",
+            "hatte"
+          ],
+          [
+            "wir",
+            "waren",
+            "hatten"
+          ]
+        ]
+      },
+      {
+        "type": "example",
+        "de": "Es war kalt und ich hatte keine Zeit.",
+        "note": "Präteritum in narration"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "praeteritum1-E",
+      "type": "fill_blank",
+      "instructions": "Was machten Sie, als Sie jung waren? Schreiben Sie 7-10 Sätze im Präteritum, und benutzen Sie Verben aus der Liste.",
+      "items": [
+        {
+          "id": "praeteritum1-E-1",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich spielte jeden Tag mit meinen Freunden. Ich schlief um 7 Uhr abends ein, und ich stand um 7 Uhr morgens auf. Ich wohnte natürlich bei meinen Eltern. Zum Frühstück aß ich immer Kindermüsli, und ich trank viel Schokomilch. Ich sah ziemlich oft fern, und ich schrieb manchmal auf die Wände. Ich lernte Klavierspielen, und ich sprach mit meiner Katze. Ich ging mit meiner Mutti in die Stadt, und ich fuhr meine Spielzeugautos um das Wohnzimmer. Wir reisten jeden Sommer irgendwohin mit der ganzen Familie. Ich lief nicht so viel, und ich rannte nie. Ich trug viele Kleider. Ich wußte nicht viel über Mathematik oder Geographie, und ich konnte nicht Deutsch sprechen. Ich wollte immer mit meinen Freunden spielen, aber ich sollte manchmal das Geschirr spülen. Ich machte keine Hausaufgaben, denn ich hatte keine! Ich durfte nicht Kaffee trinken, und ich half meiner Mutti mit der Hausarbeit."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "verb-conjugation"
+          }
+        }
+      ]
+    }
+  ]
+}

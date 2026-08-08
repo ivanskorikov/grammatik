@@ -1,0 +1,764 @@
+{
+  "id": "cases-review",
+  "level": "A2",
+  "title": "Nominativ, Akkusativ, Dativ",
+  "group": "Cases",
+  "sourceFile": "nomakkdat.html",
+  "overviewSource": "nomakkdatexpl.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Quick reference for the three cases at A2 level."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Case",
+            "Role",
+            "Example"
+          ],
+          [
+            "Nominative",
+            "subject",
+            "Der Mann liest."
+          ],
+          [
+            "Accusative",
+            "direct object",
+            "Ich sehe den Mann."
+          ],
+          [
+            "Dative",
+            "indirect object",
+            "Ich gebe dem Mann das Buch."
+          ]
+        ]
+      },
+      {
+        "type": "example",
+        "de": "Die Frau gibt dem Kind einen Apfel.",
+        "note": "Die Frau (nom.) · dem Kind (dat.) · einen Apfel (acc.)"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "nomakkdat-B",
+      "type": "fill_blank",
+      "instructions": "Complete the sentences using the clues in parentheses to form a prepositional phrase. Pay attention to which case the preposition should take!",
+      "items": [
+        {
+          "id": "nomakkdat-B-1",
+          "prompt": "Hier ist ein Geschenk ___ (for your brother).",
+          "promptParts": [
+            "Hier ist ein Geschenk",
+            "(for your brother)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "für deinen Bruder"
+              ],
+              "hint": "for your brother"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-B-2",
+          "prompt": "Der Brief ist ___ (from my father).",
+          "promptParts": [
+            "Der Brief ist",
+            "(from my father)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "von meinem Vater"
+              ],
+              "hint": "from my father"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-B-3",
+          "prompt": "Er geht ___ (around the table).",
+          "promptParts": [
+            "Er geht",
+            "(around the table)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "um den Tisch"
+              ],
+              "hint": "around the table"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-B-4",
+          "prompt": "Alle waren da ___ (except for her).",
+          "promptParts": [
+            "Alle waren da",
+            "(except for her)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "außer ihr"
+              ],
+              "hint": "except for her"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-B-5",
+          "prompt": "Frau Bauer kommt ___ (through the door).",
+          "promptParts": [
+            "Frau Bauer kommt",
+            "(through the door)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "durch die Tür"
+              ],
+              "hint": "through the door"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-B-6",
+          "prompt": "Was hast du ___ (after the class) gemacht?",
+          "promptParts": [
+            "Was hast du",
+            "(after the class) gemacht?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "nach dem Unterricht"
+              ],
+              "hint": "after the class"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-B-7",
+          "prompt": "Sie kommt ___ (without her books) in die Schule.",
+          "promptParts": [
+            "Sie kommt",
+            "(without her books) in die Schule."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ohne ihre Bücher"
+              ],
+              "hint": "without her books"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-B-8",
+          "prompt": "Bleibt ihr heute abend ___ (at home)?",
+          "promptParts": [
+            "Bleibt ihr heute abend",
+            "(at home)?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "zu Hause"
+              ],
+              "hint": "at home"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-B-9",
+          "prompt": "Martin hat nichts ___ (against us).",
+          "promptParts": [
+            "Martin hat nichts",
+            "(against us)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "gegen uns"
+              ],
+              "hint": "against us"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-B-10",
+          "prompt": "Ihr geht wirklich ___ (without me)?",
+          "promptParts": [
+            "Ihr geht wirklich",
+            "(without me)?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ohne mich"
+              ],
+              "hint": "without me"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-B-11",
+          "prompt": "Ich warte schon ___ (since/for an hour).",
+          "promptParts": [
+            "Ich warte schon",
+            "(since/for an hour)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "seit einer Stunde"
+              ],
+              "hint": "since/for an hour"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-B-12",
+          "prompt": "Hast du deine Tasche ___ (with you)?",
+          "promptParts": [
+            "Hast du deine Tasche",
+            "(with you)?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mit dir"
+              ],
+              "hint": "with you"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-B-13",
+          "prompt": "Hilf ___ (me), bitte!",
+          "promptParts": [
+            "Hilf",
+            "(me), bitte!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mir"
+              ],
+              "hint": "me"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nomakkdat-C",
+      "type": "fill_blank",
+      "instructions": "Imagine you are one of the nicest, most thoughtful people in the world. Write a short paragraph (perhaps 5 sentences) describing all the things you do for other people.",
+      "items": [
+        {
+          "id": "nomakkdat-C-1",
+          "prompt": "BEISPIEL: → ___",
+          "promptParts": [
+            "BEISPIEL: → ",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich gebe meinen Eltern meinen Computer und meinen Drucker. Ich gebe meinem Bruder meine Deustchbücher. Ich gebe meinen Freunden viel Geld. Ich kaufe meinem besten Freund ein Haus. Ich kaufe meiner Großmutter Blumen. Ich schenke meiner Kusine alle meine CDs. Ich gebe meiner Katze viel Liebe und viel Essen!"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nomakkdat-D",
+      "type": "pick_and_type",
+      "instructions": "Fill in the blanks with pronouns, prepositions, articles, etc., using the cues in parentheses.",
+      "items": [
+        {
+          "id": "nomakkdat-D-1",
+          "prompt": "(Szene:Es ist ___ (a) normaler Tag, die Zeit ist 19 Uhr. ___ ___ (after their) Arbeit (f.) kommen zwei Menschen in eine Kneipe und setzen sich. Der Mann trinkt ___ (his) Bier und spricht ___ ___ (to the) Frau.)",
+          "promptParts": [
+            "(Szene:Es ist",
+            "(a) normaler Tag, die Zeit ist 19 Uhr.",
+            "",
+            "(after their) Arbeit (f.) kommen zwei Menschen in eine Kneipe und setzen sich. Der Mann trinkt",
+            "(his) Bier und spricht",
+            "",
+            "(to the) Frau.)"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ein"
+              ],
+              "hint": "a"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Nach ihrer"
+              ],
+              "hint": "after their"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "sein"
+              ],
+              "hint": "f."
+            },
+            {
+              "index": 3,
+              "accept": [
+                "zu der"
+              ],
+              "hint": "his"
+            },
+            {
+              "index": 4,
+              "accept": [
+                "Mein"
+              ],
+              "hint": "to the"
+            },
+            {
+              "index": 5,
+              "accept": [
+                "Ihr"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-D-2",
+          "prompt": "Dirk:Guten Abend. ___ (my) Name ist Dirk Friedrichsen. Wie ist ___ (your, formal) Name?",
+          "promptParts": [
+            "Dirk:Guten Abend.",
+            "(my) Name ist Dirk Friedrichsen. Wie ist",
+            "(your, formal) Name?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "aus"
+              ],
+              "hint": "my"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "mit meinem"
+              ],
+              "hint": "your, formal"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-D-3",
+          "prompt": "Dirk:Ich komme ___ (from) Leipzig, aber ich wohne hier ___ ___ (with my) Vater. Und Sie?",
+          "promptParts": [
+            "Dirk:Ich komme",
+            "(from) Leipzig, aber ich wohne hier",
+            "",
+            "(with my) Vater. Und Sie?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "von (oder: aus)"
+              ],
+              "hint": "from"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Bei der"
+              ],
+              "hint": "with my"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "Sie"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-D-4",
+          "prompt": "Ulla:Ich bin letztes Jahr ___ (from) Bremen hierher umgezogen (=moved).",
+          "promptParts": [
+            "Ulla:Ich bin letztes Jahr",
+            "(from) Bremen hierher umgezogen (=moved)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "durch"
+              ],
+              "hint": "from"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-D-5",
+          "prompt": "Ulla: ___ ___ (at the) Universitätsbibliothek (f). Und ___ (you, formal), was sind Sie von Beruf?",
+          "promptParts": [
+            "Ulla:",
+            "",
+            "(at the) Universitätsbibliothek (f). Und",
+            "(you, formal), was sind Sie von Beruf?"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "um"
+              ],
+              "hint": "at the"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "nach einem"
+              ],
+              "hint": "f"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "ohne"
+              ],
+              "hint": "you, formal"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-D-6",
+          "prompt": "Dirk:Ich fahre Taxi. Ich muss ___ (through) und ___ (around) ganz Berlin fahren. Das Problem ist, ich komme___ ___ (after a) langen Tag am Abend ___ (without) viel Geld aus.",
+          "promptParts": [
+            "Dirk:Ich fahre Taxi. Ich muss",
+            "(through) und",
+            "(around) ganz Berlin fahren. Das Problem ist, ich komme",
+            "",
+            "(after a) langen Tag am Abend",
+            "(without) viel Geld aus."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ihnen"
+              ],
+              "hint": "through"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "Ihnen"
+              ],
+              "hint": "around"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "Außer meinen"
+              ],
+              "hint": "after a"
+            },
+            {
+              "index": 3,
+              "accept": [
+                "seit einem"
+              ],
+              "hint": "without"
+            },
+            {
+              "index": 4,
+              "accept": [
+                "gegen sie"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-D-7",
+          "prompt": "Ulla:Das tut mir aber leid. Na, kommen Sie, ich kaufe ___ (you, formal) ein Bier!",
+          "promptParts": [
+            "Ulla:Das tut mir aber leid. Na, kommen Sie, ich kaufe",
+            "(you, formal) ein Bier!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "aus ihrem"
+              ],
+              "hint": "you, formal"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-D-8",
+          "prompt": "Dirk:Vielen Dank! Mit ___ (you, formal) kann ich gut sprechen. ___ ___ (besides my) Eltern habe ich keine Freunde. Aber meine Mutter ist ___ ___ (since one) Jahr im Krankenhaus (=hospital).",
+          "promptParts": [
+            "Dirk:Vielen Dank! Mit",
+            "(you, formal) kann ich gut sprechen.",
+            "",
+            "(besides my) Eltern habe ich keine Freunde. Aber meine Mutter ist",
+            "",
+            "(since one) Jahr im Krankenhaus (=hospital)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ihnen"
+              ],
+              "hint": "you, formal"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "von dem"
+              ],
+              "hint": "besides my"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "Ihnen"
+              ],
+              "hint": "since one"
+            },
+            {
+              "index": 3,
+              "accept": [
+                "von Ihnen"
+              ],
+              "hint": "=hospital"
+            },
+            {
+              "index": 4,
+              "accept": [
+                "Ihrem"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-D-9",
+          "prompt": "Dirk:Sie ist eines Abends ganz langsam gefahren, als plötzlich (=suddenly) ein anderes Auto ___ ___ (against her) geknallt ist. Jetzt kann sie gar nicht ___ ___ (out of her) Bett kommen.",
+          "promptParts": [
+            "Dirk:Sie ist eines Abends ganz langsam gefahren, als plötzlich (=suddenly) ein anderes Auto",
+            "",
+            "(against her) geknallt ist. Jetzt kann sie gar nicht",
+            "",
+            "(out of her) Bett kommen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "aus einem"
+              ],
+              "hint": "=suddenly"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "bei ihm"
+              ],
+              "hint": "against her"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "für ihn"
+              ],
+              "hint": "out of her"
+            },
+            {
+              "index": 3,
+              "accept": [
+                "mein"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-D-10",
+          "prompt": "Ulla:Das ist aber schrecklich! Sie armer Mann, ich kaufe ___ (you) noch ein (=another) Bier!",
+          "promptParts": [
+            "Ulla:Das ist aber schrecklich! Sie armer Mann, ich kaufe",
+            "(you) noch ein (=another) Bier!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "nach Hause"
+              ],
+              "hint": "you"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "nomakkdat-D-11",
+          "prompt": "Dirk:Meine Mutter ist auch blind! Im Autounfall (=accident) hat das Glas ___ ___ (from the) Fenster in ihre Augen geschnitten (=cut).",
+          "promptParts": [
+            "Dirk:Meine Mutter ist auch blind! Im Autounfall (=accident) hat das Glas",
+            "",
+            "(from the) Fenster in ihre Augen geschnitten (=cut)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ohne"
+              ],
+              "hint": "=accident"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    }
+  ]
+}

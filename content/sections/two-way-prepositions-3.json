@@ -1,0 +1,826 @@
+{
+  "id": "two-way-prepositions-3",
+  "level": "A2",
+  "title": "Wechselpräpositionen 3",
+  "group": "Prepositions",
+  "sourceFile": "wechselpraeps3.html",
+  "overview": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "content": "Combined contexts: describe where something is and where it is going using the same preposition with different cases."
+      },
+      {
+        "type": "example",
+        "de": "Das Bild hängt an der Wand. / Ich hänge das Bild an die Wand.",
+        "note": "an der Wand (dat.) · an die Wand (acc.)"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "wechselpraeps3-A",
+      "type": "fill_blank",
+      "instructions": "Geben Sie die deutschen Äquivalente.",
+      "items": [
+        {
+          "id": "wechselpraeps3-A-1",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wenn der Satz Bewegung (=motion) von einem Ort zu einem anderen Ort zeigt."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-A-2",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich gehe in das Haus."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-A-3",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Wenn der Satz keine Bewegung, sondern nur eine statische Lage beschreibt."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-A-4",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "Ich bin in dem Haus."
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-A-5",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "durch     für     gegen     ohne     um"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-A-6",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "aus     außer     bei     mit"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-A-7",
+          "prompt": "___",
+          "promptParts": [
+            "",
+            ""
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "nach     seit     von     zu"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wechselpraeps3-B",
+      "type": "fill_blank",
+      "instructions": "Füllen Sie die Lücken mit den richtigen Phrasen ein.",
+      "items": [
+        {
+          "id": "wechselpraeps3-B-1",
+          "prompt": "Max:Ich bin sofort ___ (into the room) gegangen.",
+          "promptParts": [
+            "Max:Ich bin sofort",
+            "(into the room) gegangen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ins (=in das) Zimmer"
+              ],
+              "hint": "into the room"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-B-2",
+          "prompt": "Wim:Nein, Max, du bist ___ (behind the door) gegangen.",
+          "promptParts": [
+            "Wim:Nein, Max, du bist",
+            "(behind the door) gegangen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "hinter die Tür"
+              ],
+              "hint": "behind the door"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-B-3",
+          "prompt": "Max:Na, auf jeden Fall war dort ein Mann. Er hat ___ (at the window) gestanden.",
+          "promptParts": [
+            "Max:Na, auf jeden Fall war dort ein Mann. Er hat",
+            "(at the window) gestanden."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "am (=an dem) Fenster"
+              ],
+              "hint": "at the window"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-B-4",
+          "prompt": "Max:Der Dieb ist ___ (between these tables) gelaufen. Ich habe ihn verfolgt (=followed).",
+          "promptParts": [
+            "Max:Der Dieb ist",
+            "(between these tables) gelaufen. Ich habe ihn verfolgt (=followed)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "zwischen diese Tische"
+              ],
+              "hint": "between these tables"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-B-5",
+          "prompt": "Wim:Max, du spinnst! Du bist ___ (on the ground [=Boden, m.] behind the door) geblieben. Du hattest ja so große Angst!",
+          "promptParts": [
+            "Wim:Max, du spinnst! Du bist",
+            "(on the ground [=Boden, m.] behind the door) geblieben. Du hattest ja so große Angst!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "auf dem Boden hinter der Tür"
+              ],
+              "hint": "on the ground [=Boden, m.] behind the door"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-B-6",
+          "prompt": "Max:Er war etwa vierzig Jahre alt. Er hatte rotes Haar und eine lange Narbe (=scar) ___ (under one eye).",
+          "promptParts": [
+            "Max:Er war etwa vierzig Jahre alt. Er hatte rotes Haar und eine lange Narbe (=scar)",
+            "(under one eye)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "unter einem Auge"
+              ],
+              "hint": "=scar"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-B-7",
+          "prompt": "Max:Eine billige Kuckucksuhr, die dort ___ (on the wall) gehangen hat, ___ (above the stairs).",
+          "promptParts": [
+            "Max:Eine billige Kuckucksuhr, die dort",
+            "(on the wall) gehangen hat,",
+            "(above the stairs)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "an der Wand"
+              ],
+              "hint": "on the wall"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "über der Treppe"
+              ],
+              "hint": "above the stairs"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-B-8",
+          "prompt": "Wim:Max, das ist nicht richtig! Es war eine kostbare astronomische Uhr, die hier ___ (on the table) gestanden hat, ___ (next to this bottle).",
+          "promptParts": [
+            "Wim:Max, das ist nicht richtig! Es war eine kostbare astronomische Uhr, die hier",
+            "(on the table) gestanden hat,",
+            "(next to this bottle)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "auf dem Tisch"
+              ],
+              "hint": "on the table"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "neben dieser Flasche"
+              ],
+              "hint": "next to this bottle"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-B-9",
+          "prompt": "Max:Er hat einen Augenblick da drüben ___ (in front of the window) gestanden. Dann ist er plötzlich ___ (up to the door) gerannt und ist weggelaufen.",
+          "promptParts": [
+            "Max:Er hat einen Augenblick da drüben",
+            "(in front of the window) gestanden. Dann ist er plötzlich",
+            "(up to the door) gerannt und ist weggelaufen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "vor dem Fenster"
+              ],
+              "hint": "in front of the window"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "an die Tür"
+              ],
+              "hint": "up to the door"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-B-10",
+          "prompt": "Wim:Max, du redest Unsinn! Er hat einen Stuhl geholt, hat ihn ___ (under the window) gestellt und ist ___ (on top of the chair) geklettert (=climbed). Dann ist er ___ (through the window) hinausgesprungen.",
+          "promptParts": [
+            "Wim:Max, du redest Unsinn! Er hat einen Stuhl geholt, hat ihn",
+            "(under the window) gestellt und ist",
+            "(on top of the chair) geklettert (=climbed). Dann ist er",
+            "(through the window) hinausgesprungen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "unter das Fenster"
+              ],
+              "hint": "under the window"
+            },
+            {
+              "index": 1,
+              "accept": [
+                "auf den Stuhl"
+              ],
+              "hint": "on top of the chair"
+            },
+            {
+              "index": 2,
+              "accept": [
+                "durch das Fenster"
+              ],
+              "hint": "=climbed"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wechselpraeps3-C",
+      "type": "fill_blank",
+      "instructions": "Schreiben Sie die richtigen Endungen, Pronomen, oder Artikeln in die Lücken.",
+      "items": [
+        {
+          "id": "wechselpraeps3-C-1",
+          "prompt": "Das Flugzeug fliegt über mein___ Kopf (m.)!",
+          "promptParts": [
+            "Das Flugzeug fliegt über mein",
+            "Kopf (m.)!"
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "en"
+              ],
+              "hint": "m."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-2",
+          "prompt": "Die Familie Selicke wohnt über unser___ Wohnung.",
+          "promptParts": [
+            "Die Familie Selicke wohnt über unser",
+            "Wohnung."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "er"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-3",
+          "prompt": "Ich schreibe 'ich mag Deutsch' an d___ Tafel.",
+          "promptParts": [
+            "Ich schreibe 'ich mag Deutsch' an d",
+            "Tafel."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ie"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-4",
+          "prompt": "Der Satz 'ich mag Deutsch' steht an d___ Tafel.",
+          "promptParts": [
+            "Der Satz 'ich mag Deutsch' steht an d",
+            "Tafel."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "er"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-5",
+          "prompt": "Ein schwarzer Hund läuft hinter ein___ Baum.",
+          "promptParts": [
+            "Ein schwarzer Hund läuft hinter ein",
+            "Baum."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "en"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-6",
+          "prompt": "Es gibt ein weißes Haus hinter d___ Bahnhof.",
+          "promptParts": [
+            "Es gibt ein weißes Haus hinter d",
+            "Bahnhof."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "em"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-7",
+          "prompt": "Meine Freundin geht heute in d___ Getränkeladen (m.).",
+          "promptParts": [
+            "Meine Freundin geht heute in d",
+            "Getränkeladen (m.)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "en"
+              ],
+              "hint": "m."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-8",
+          "prompt": "Meine Mutter kauft immer Saft in d___ Getränkeladen.",
+          "promptParts": [
+            "Meine Mutter kauft immer Saft in d",
+            "Getränkeladen."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "em"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-9",
+          "prompt": "Die Katze rennt neben d___ Zaun (=fence, m.).",
+          "promptParts": [
+            "Die Katze rennt neben d",
+            "Zaun (=fence, m.)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "en"
+              ],
+              "hint": "=fence, m."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-10",
+          "prompt": "Der Schneemann steht neben d___ Zaun.",
+          "promptParts": [
+            "Der Schneemann steht neben d",
+            "Zaun."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "em"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-11",
+          "prompt": "Der Verkäufer geht zwischen d___ Fahrräder (pl.).",
+          "promptParts": [
+            "Der Verkäufer geht zwischen d",
+            "Fahrräder (pl.)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "ie"
+              ],
+              "hint": "pl."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-12",
+          "prompt": "Ein Ball liegt zwischen d___ Fahrräder___.",
+          "promptParts": [
+            "Ein Ball liegt zwischen d",
+            "Fahrräder",
+            "."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "en"
+              ],
+              "hint": null
+            },
+            {
+              "index": 1,
+              "accept": [
+                "n"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-13",
+          "prompt": "Die Ratten wohnen unter mein___ Haus.",
+          "promptParts": [
+            "Die Ratten wohnen unter mein",
+            "Haus."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "em"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-14",
+          "prompt": "Die U-Bahn fährt unter mein___ Straße.",
+          "promptParts": [
+            "Die U-Bahn fährt unter mein",
+            "Straße."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "e"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-15",
+          "prompt": "Das Buch liegt vor ___ (ich) auf dem Tisch.",
+          "promptParts": [
+            "Das Buch liegt vor",
+            "(ich) auf dem Tisch."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mir"
+              ],
+              "hint": "ich"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-16",
+          "prompt": "Meine Kusine stellt das Essen vor ___ (ich).",
+          "promptParts": [
+            "Meine Kusine stellt das Essen vor",
+            "(ich)."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "mich"
+              ],
+              "hint": "ich"
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-17",
+          "prompt": "Ich stelle den Wein auf d___ Tisch.",
+          "promptParts": [
+            "Ich stelle den Wein auf d",
+            "Tisch."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "en"
+              ],
+              "hint": null
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        },
+        {
+          "id": "wechselpraeps3-C-18",
+          "prompt": "Die Maus liegt auf d___ Boden (=m.) und schläft.",
+          "promptParts": [
+            "Die Maus liegt auf d",
+            "Boden (=m.) und schläft."
+          ],
+          "blanks": [
+            {
+              "index": 0,
+              "accept": [
+                "em"
+              ],
+              "hint": "=m."
+            }
+          ],
+          "explanation": {
+            "rule": "",
+            "topic": "dative"
+          }
+        }
+      ]
+    }
+  ]
+}
