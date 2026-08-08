@@ -2,7 +2,7 @@
 
 Interactive German grammar exercises for **CEFR A1 and A2** levels.
 
-**Repository:** [github.com/ivanskorikov/grammatik](https://github.com/ivanskorikov/grammatik)
+**Available at:** [ivanskorikov.github.io/grammatik](https://ivanskorikov.github.io/grammatik)
 
 ## Features
 
