@@ -24,10 +24,15 @@ npm run dev
 npm run build
 ```
 
-Static output is in `dist/`. Deploy to:
+Static output is in `dist/`. Deploy to **GitHub Pages**:
 
-- **GitHub Pages** — push to `main`; the included workflow publishes automatically (enable Pages → GitHub Actions in repo settings)
-- **Netlify** — connect repo; `netlify.toml` is included
+1. Push to `main`
+2. Repo → **Settings** → **Pages** → set **Source** to **GitHub Actions** (required before the first deploy succeeds)
+3. Re-run the failed **Deploy** workflow from the **Actions** tab, or push again
+
+Live URL: `https://ivanskorikov.github.io/grammatik/`
+
+Alternatively, connect the repo to **Netlify** — `netlify.toml` is included.
 
 ## Project structure
 
