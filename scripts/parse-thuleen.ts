@@ -141,7 +141,7 @@ function extractHints(html: string): string[] {
   const re = /<span class="parenital">\(([^)]*)\)<\/span>/gi
   let m: RegExpExecArray | null
   while ((m = re.exec(html)) !== null) {
-    hints.push(m[1])
+    hints.push(decodeEntities(m[1]))
   }
   return hints
 }

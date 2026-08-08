@@ -9,16 +9,59 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "The imperative gives commands. Du-form often drops the -st ending; Sie-form uses the infinitive + Sie."
+        "content": "This review combines commands, modal verbs, and accusative prepositions. Identify which rule controls each blank before choosing the form."
+      },
+      {
+        "type": "heading",
+        "content": "Imperative forms"
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "",
+            "Rule",
+            "Example"
+          ],
+          [
+            "du",
+            "stem; omit du",
+            "Trink Wasser!"
+          ],
+          [
+            "ihr",
+            "ihr-form; omit ihr",
+            "Esst eure Karotten!"
+          ],
+          [
+            "Sie",
+            "infinitive + Sie",
+            "Öffnen Sie das Fenster!"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Modal sentence pattern"
+      },
+      {
+        "type": "paragraph",
+        "content": "Conjugate the modal to match the subject and put the action infinitive at the end: Ihr müsst heute lernen. Modal verbs are usually not used as direct imperative forms."
+      },
+      {
+        "type": "heading",
+        "content": "Accusative prepositions"
       },
       {
         "type": "list",
-        "content": "Komm! / Kommen Sie! — Come!\nLies! / Lesen Sie! — Read!\nSeid leise! — Be quiet! (ihr-form)"
+        "content": "durch, für, gegen, ohne, um, entlang — always + accusative"
       },
       {
         "type": "example",
-        "de": "Gehen Sie bitte nach links.",
-        "note": "formal imperative"
+        "content": "",
+        "de": "Gehen Sie durch den Park und warten Sie vor dem Museum.",
+        "note": "durch + accusative · formal imperative"
       }
     ]
   },

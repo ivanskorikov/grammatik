@@ -9,21 +9,145 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Modal verbs express ability, permission, obligation, or desire. The main verb goes to the end in infinitive form."
+        "content": "Modal verbs express ability, permission, necessity, intention, advice, or preference. The conjugated modal is in position 2 and the main verb goes to the end as an infinitive."
       },
       {
         "type": "list",
-        "content": "können (can)\nmüssen (must)\nwollen (want to)\ndürfen (may)\nsollen (should)"
+        "content": "können — can, be able to\nmüssen — must, have to\nwollen — want to\ndürfen — may, be allowed to\nsollen — should, be supposed to\nmögen — like\nmöchten — would like"
+      },
+      {
+        "type": "heading",
+        "content": "Present tense conjugation"
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "",
+            "können",
+            "müssen",
+            "wollen",
+            "dürfen",
+            "sollen",
+            "mögen",
+            "möchten"
+          ],
+          [
+            "ich",
+            "kann",
+            "muss",
+            "will",
+            "darf",
+            "soll",
+            "mag",
+            "möchte"
+          ],
+          [
+            "du",
+            "kannst",
+            "musst",
+            "willst",
+            "darfst",
+            "sollst",
+            "magst",
+            "möchtest"
+          ],
+          [
+            "er/sie/es",
+            "kann",
+            "muss",
+            "will",
+            "darf",
+            "soll",
+            "mag",
+            "möchte"
+          ],
+          [
+            "wir",
+            "können",
+            "müssen",
+            "wollen",
+            "dürfen",
+            "sollen",
+            "mögen",
+            "möchten"
+          ],
+          [
+            "ihr",
+            "könnt",
+            "müsst",
+            "wollt",
+            "dürft",
+            "sollt",
+            "mögt",
+            "möchtet"
+          ],
+          [
+            "sie/Sie",
+            "können",
+            "müssen",
+            "wollen",
+            "dürfen",
+            "sollen",
+            "mögen",
+            "möchten"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "The singular forms often change their stem. Ich and er/sie/es have no personal ending and are identical: ich kann, er kann."
       },
       {
         "type": "example",
-        "de": "Ich kann Deutsch sprechen.",
-        "note": "modal + infinitive at end"
+        "content": "",
+        "de": "Ich kann Deutsch sprechen. Du musst heute lernen.",
+        "note": "conjugated modal in position 2 · infinitive at the end"
+      },
+      {
+        "type": "heading",
+        "content": "Imperative — commands"
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Addressing",
+            "Formation",
+            "kommen",
+            "lesen"
+          ],
+          [
+            "du",
+            "verb stem; omit du",
+            "Komm!",
+            "Lies!"
+          ],
+          [
+            "ihr",
+            "present ihr-form; omit ihr",
+            "Kommt!",
+            "Lest!"
+          ],
+          [
+            "Sie",
+            "infinitive + Sie",
+            "Kommen Sie!",
+            "Lesen Sie!"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Modal verbs themselves rarely form ordinary imperatives. Use the imperative of the action verb (Warte!) or a statement with müssen/sollen (Du musst warten. Ihr sollt leise sein.). Sein is irregular: sei, seid, seien Sie."
       },
       {
         "type": "example",
-        "de": "Du musst heute lernen.",
-        "note": "müssen + infinitive"
+        "content": "",
+        "de": "Sei leise! / Seid leise! / Seien Sie leise!",
+        "note": "imperative of sein for du / ihr / Sie"
       }
     ]
   },
@@ -46,7 +170,7 @@
               "accept": [
                 "musst"
               ],
-              "hint": "m&#252;ssen"
+              "hint": "müssen"
             }
           ],
           "explanation": {
@@ -67,7 +191,7 @@
               "accept": [
                 "soll"
               ],
-              "hint": "d&#252;rfen"
+              "hint": "dürfen"
             }
           ],
           "explanation": {
@@ -88,7 +212,7 @@
               "accept": [
                 "darf"
               ],
-              "hint": "m&#246;chten"
+              "hint": "möchten"
             }
           ],
           "explanation": {
@@ -130,7 +254,7 @@
               "accept": [
                 "möchtest"
               ],
-              "hint": "m&#246;chten"
+              "hint": "möchten"
             }
           ],
           "explanation": {
@@ -151,7 +275,7 @@
               "accept": [
                 "mag"
               ],
-              "hint": "k&#246;nnen"
+              "hint": "können"
             }
           ],
           "explanation": {
@@ -172,7 +296,7 @@
               "accept": [
                 "soll"
               ],
-              "hint": "k&#246;nnen"
+              "hint": "können"
             }
           ],
           "explanation": {

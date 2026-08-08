@@ -8,21 +8,41 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Wechselpräpositionen (two-way prepositions) take accusative for movement (wohin?) or dative for location (wo?)."
+        "content": "Two-way prepositions take accusative for a destination/change of position (wohin?) and dative for a fixed location (wo?). Movement alone does not guarantee accusative."
       },
       {
         "type": "list",
         "content": "an, auf, hinter, in, neben, über, unter, vor, zwischen"
       },
       {
-        "type": "example",
-        "de": "Ich gehe in die Schule.",
-        "note": "movement → accusative (die Schule)"
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Question",
+            "Meaning",
+            "Case",
+            "Example"
+          ],
+          [
+            "wohin?",
+            "destination/change",
+            "Acc.",
+            "in die Schule"
+          ],
+          [
+            "wo?",
+            "location/state",
+            "Dat.",
+            "in der Schule"
+          ]
+        ]
       },
       {
         "type": "example",
-        "de": "Ich bin in der Schule.",
-        "note": "location → dative (der Schule)"
+        "content": "",
+        "de": "Ich laufe im Park. / Ich laufe in den Park.",
+        "note": "running inside the park = location; entering it = destination"
       }
     ]
   },

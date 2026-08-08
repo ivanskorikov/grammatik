@@ -9,12 +9,99 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Possessive articles (mein, dein, sein, ihr, unser, euer) decline like ein in all cases."
+        "content": "Possessive articles identify the owner but take endings from the possessed noun’s gender, number, and case. They decline like ein."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Owner",
+            "Stem",
+            "Example"
+          ],
+          [
+            "ich",
+            "mein-",
+            "mein Buch"
+          ],
+          [
+            "du",
+            "dein-",
+            "deine Tasche"
+          ],
+          [
+            "er/es",
+            "sein-",
+            "seinen Bruder"
+          ],
+          [
+            "sie",
+            "ihr-",
+            "ihrem Kind"
+          ],
+          [
+            "wir",
+            "unser-",
+            "unsere Freunde"
+          ],
+          [
+            "ihr",
+            "euer-",
+            "eure Eltern"
+          ],
+          [
+            "sie/Sie",
+            "ihr-/Ihr-",
+            "ihre/Ihre Wohnung"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Euer drops the second e before most endings: eure, euren, eurem—not euere."
       },
       {
         "type": "example",
-        "de": "Das ist mein Bruder. / Ich sehe meinen Bruder.",
-        "note": "mein (nom.) · meinen (acc. masc.)"
+        "content": "",
+        "de": "Das ist mein Bruder, aber ich sehe meinen Bruder heute nicht.",
+        "note": "mein = nom. masc. · meinen = acc. masc."
+      },
+      {
+        "type": "heading",
+        "content": "Conjunction review"
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Type",
+            "Words",
+            "Word order"
+          ],
+          [
+            "Coordinating",
+            "und, aber, oder, denn, sondern",
+            "normal V2"
+          ],
+          [
+            "Subordinating",
+            "weil, dass, wenn, ob",
+            "conjugated verb at end"
+          ],
+          [
+            "Conjunctive adverb",
+            "deshalb, trotzdem, dann",
+            "verb immediately after"
+          ]
+        ]
+      },
+      {
+        "type": "example",
+        "content": "",
+        "de": "Ich besuche meine Schwester, weil ihr Geburtstag heute ist.",
+        "note": "meine = acc. fem. · ihr = possessive · ist at end after weil"
       }
     ]
   },

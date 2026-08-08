@@ -8,12 +8,51 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Time-Manner-Place (Te-Ka-Mo): temporal, then manner, then place. In main clauses the conjugated verb stays in position 2."
+        "content": "German main clauses keep the conjugated verb in position 2. The middle field often follows Time–Manner–Place (Te–Ka–Mo), but emphasis can change the order."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Position 1",
+            "Verb",
+            "Subject/middle field"
+          ],
+          [
+            "Ich",
+            "fahre",
+            "heute mit dem Bus nach Berlin."
+          ],
+          [
+            "Heute",
+            "fahre",
+            "ich mit dem Bus nach Berlin."
+          ],
+          [
+            "Nach Berlin",
+            "fahre",
+            "ich heute mit dem Bus."
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Changing position 1 does not change the V2 rule: the subject moves after the verb. Pronouns usually appear early in the middle field."
+      },
+      {
+        "type": "heading",
+        "content": "Two-way preposition reminder"
+      },
+      {
+        "type": "paragraph",
+        "content": "Use dative for location (wo?): in der Stadt. Use accusative for a destination or change of position (wohin?): in die Stadt. The full prepositional phrase normally occupies the place slot."
       },
       {
         "type": "example",
-        "de": "Ich fahre heute mit dem Bus nach Berlin.",
-        "note": "heute (time) · mit dem Bus (manner) · nach Berlin (place)"
+        "content": "",
+        "de": "Ich fahre morgen wegen des Wetters mit dem Zug nach München.",
+        "note": "time · reason · manner · place"
       }
     ]
   },

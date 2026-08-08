@@ -9,7 +9,7 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "The dative case marks the indirect object — the recipient or beneficiary. Ask: \"To/for whom?\" Masculine and neuter articles become dem; feminine die → der; plural die → den (+ n on noun sometimes)."
+        "content": "The dative often marks the recipient or person affected by an action. Ask “to whom?” or “for whom?” It is also required by certain verbs and prepositions."
       },
       {
         "type": "table",
@@ -17,40 +17,85 @@
         "rows": [
           [
             "",
-            "Nom.",
-            "Dat."
-          ],
-          [
             "Masc.",
-            "der / ein",
-            "dem / einem"
-          ],
-          [
             "Fem.",
-            "die / eine",
-            "der / einer"
-          ],
-          [
             "Neut.",
-            "das / ein",
-            "dem / einem"
+            "Plural"
           ],
           [
-            "Plural",
-            "die",
-            "den (+n)"
+            "Definite",
+            "dem",
+            "der",
+            "dem",
+            "den + noun-(e)n"
+          ],
+          [
+            "Indefinite",
+            "einem",
+            "einer",
+            "einem",
+            "—"
+          ],
+          [
+            "Personal",
+            "ihm",
+            "ihr",
+            "ihm",
+            "ihnen"
           ]
         ]
       },
       {
-        "type": "example",
-        "de": "Ich gebe dem Mann das Buch.",
-        "note": "dem Mann = dative indirect object"
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Nom.",
+            "ich",
+            "du",
+            "er",
+            "sie",
+            "wir",
+            "ihr",
+            "sie/Sie"
+          ],
+          [
+            "Dat.",
+            "mir",
+            "dir",
+            "ihm",
+            "ihr",
+            "uns",
+            "euch",
+            "ihnen/Ihnen"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Common dative triggers"
+      },
+      {
+        "type": "list",
+        "content": "Recipient: Ich gebe dem Kind ein Buch.\nDative verbs: helfen, danken, gefallen, gehören\nDative prepositions: aus, bei, mit, nach, seit, von, zu, gegenüber\nTwo-way prepositions for location (wo?): in der Schule"
+      },
+      {
+        "type": "heading",
+        "content": "Dative and accusative together"
+      },
+      {
+        "type": "paragraph",
+        "content": "With verbs such as geben, schicken, and zeigen, the person receiving something is dative and the thing is accusative."
       },
       {
         "type": "example",
-        "de": "Das Buch gehört der Frau.",
-        "note": "der Frau = dative after gehören"
+        "content": "",
+        "de": "Die Frau gibt dem Kind einen Apfel.",
+        "note": "dem Kind = recipient (dat.) · einen Apfel = thing (acc.)"
+      },
+      {
+        "type": "paragraph",
+        "content": "In dative plural, add -n to the noun when possible: mit den Kindern, bei meinen Freunden."
       }
     ]
   },

@@ -8,12 +8,23 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Combined contexts: describe where something is and where it is going using the same preposition with different cases."
+        "content": "In longer descriptions, decide each prepositional phrase separately. One sentence can contain both accusative destinations and dative locations."
+      },
+      {
+        "type": "list",
+        "content": "Ask wo? for the current position → dative\nAsk wohin? for the destination → accusative\nCheck the verb pair: stehen/stellen, liegen/legen, sitzen/setzen"
       },
       {
         "type": "example",
-        "de": "Das Bild hängt an der Wand. / Ich hänge das Bild an die Wand.",
-        "note": "an der Wand (dat.) · an die Wand (acc.)"
+        "content": "",
+        "de": "Das Bild hängt an der Wand. Ich hänge es über das Sofa.",
+        "note": "an der Wand = location (dat.) · über das Sofa = destination (acc.)"
+      },
+      {
+        "type": "example",
+        "content": "",
+        "de": "Die Katze sitzt unter dem Tisch und springt auf den Stuhl.",
+        "note": "under the table = location · onto the chair = destination"
       }
     ]
   },

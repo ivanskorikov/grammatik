@@ -8,7 +8,7 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Präteritum is the written/narrative past. At A2, focus on sein, haben, and modal verbs — they are used more in Präteritum than in speech."
+        "content": "Präteritum is common in written narration. Sein, haben, and modal verbs also occur frequently in spoken German in this tense."
       },
       {
         "type": "table",
@@ -17,34 +17,63 @@
           [
             "",
             "sein",
-            "haben"
+            "haben",
+            "können",
+            "müssen"
           ],
           [
             "ich",
             "war",
-            "hatte"
+            "hatte",
+            "konnte",
+            "musste"
           ],
           [
             "du",
             "warst",
-            "hattest"
+            "hattest",
+            "konntest",
+            "musstest"
           ],
           [
             "er/sie/es",
             "war",
-            "hatte"
+            "hatte",
+            "konnte",
+            "musste"
           ],
           [
             "wir",
             "waren",
-            "hatten"
+            "hatten",
+            "konnten",
+            "mussten"
+          ],
+          [
+            "ihr",
+            "wart",
+            "hattet",
+            "konntet",
+            "musstet"
+          ],
+          [
+            "sie/Sie",
+            "waren",
+            "hatten",
+            "konnten",
+            "mussten"
           ]
         ]
       },
       {
+        "type": "paragraph",
+        "content": "Modal verbs lose their umlaut in Präteritum: können → konnte, müssen → musste, dürfen → durfte, mögen → mochte."
+      },
+      {
         "type": "example",
-        "de": "Es war kalt und ich hatte keine Zeit.",
-        "note": "Präteritum in narration"
+        "content": "",
+        "de": "Es war kalt, ich hatte keine Zeit und musste nach Hause gehen.",
+        "note": "modal + infinitive still places the infinitive at the end"
       }
     ]
   },

@@ -9,17 +9,58 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Time expressions often come early in the sentence (after the verb or in position 1). Use accusative for definite time spans, dative for dates and seasons in some contexts."
+        "content": "Time expressions answer wann? (when), wie lange? (how long), or wie oft? (how often). Their case and preposition depend on the expression."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Pattern",
+            "Use",
+            "Example"
+          ],
+          [
+            "am",
+            "days/dates/parts of day",
+            "am Montag, am Morgen"
+          ],
+          [
+            "im",
+            "months/seasons",
+            "im Mai, im Winter"
+          ],
+          [
+            "um",
+            "clock time",
+            "um acht Uhr"
+          ],
+          [
+            "von … bis",
+            "from … until",
+            "von Montag bis Freitag"
+          ],
+          [
+            "seit + dat.",
+            "since/for, still continuing",
+            "seit einem Jahr"
+          ],
+          [
+            "accusative",
+            "frequency/duration",
+            "jeden Tag, einen Monat"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "A time expression in position 1 causes subject–verb inversion: Am Montag gehe ich ins Kino."
       },
       {
         "type": "example",
-        "de": "Am Montag gehe ich ins Kino.",
-        "note": "am = an + dem (dative)"
-      },
-      {
-        "type": "example",
-        "de": "Jeden Tag lerne ich Deutsch.",
-        "note": "jeden Tag = accusative time expression"
+        "content": "",
+        "de": "Seit einem Jahr lerne ich jeden Tag um acht Uhr Deutsch.",
+        "note": "since when · frequency · clock time"
       }
     ]
   },

@@ -9,17 +9,51 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Attributive adjectives (before a noun) take endings based on the preceding article. Strong declension: no article → more endings. Weak: after der/die/das → mostly -e/-en."
+        "content": "An adjective before a noun needs an ending. After a der-word, the article already shows gender/case, so the adjective usually takes weak -e or -en."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "After der-word",
+            "Masc.",
+            "Fem.",
+            "Neut.",
+            "Plural"
+          ],
+          [
+            "Nominative",
+            "-e",
+            "-e",
+            "-e",
+            "-en"
+          ],
+          [
+            "Accusative",
+            "-en",
+            "-e",
+            "-e",
+            "-en"
+          ],
+          [
+            "Dative",
+            "-en",
+            "-en",
+            "-en",
+            "-en"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "The five common -e cells are nominative singular and accusative feminine/neuter. Almost everything else after a der-word is -en."
       },
       {
         "type": "example",
-        "de": "Deutsches Brot schmeckt gut.",
-        "note": "no article → strong ending -es"
-      },
-      {
-        "type": "example",
-        "de": "Das deutsche Brot schmeckt gut.",
-        "note": "after das → weak ending -e"
+        "content": "",
+        "de": "Der neue Computer ist teuer. Ich kaufe den neuen Computer nicht.",
+        "note": "nom. masc. -e · acc. masc. -en"
       }
     ]
   },

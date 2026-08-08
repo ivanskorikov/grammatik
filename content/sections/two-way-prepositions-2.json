@@ -8,17 +8,39 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "More practice with the wohin/wo distinction. Movement = accusative; static position = dative."
+        "content": "Pairs such as stellen/stehen, legen/liegen, and setzen/sitzen make the two-way distinction especially clear: causing a change of position uses accusative; describing the resulting position uses dative."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Change → Accusative",
+            "Position → Dative"
+          ],
+          [
+            "stellen — put upright",
+            "stehen — stand"
+          ],
+          [
+            "legen — lay",
+            "liegen — lie"
+          ],
+          [
+            "setzen — seat/set",
+            "sitzen — sit"
+          ],
+          [
+            "hängen — hang something",
+            "hängen — be hanging"
+          ]
+        ]
       },
       {
         "type": "example",
-        "de": "Sie stellt die Vase auf den Tisch.",
-        "note": "onto → accusative (den Tisch)"
-      },
-      {
-        "type": "example",
-        "de": "Die Vase steht auf dem Tisch.",
-        "note": "on → dative (dem Tisch)"
+        "content": "",
+        "de": "Sie stellt die Vase auf den Tisch. Die Vase steht auf dem Tisch.",
+        "note": "destination → den · position → dem"
       }
     ]
   },

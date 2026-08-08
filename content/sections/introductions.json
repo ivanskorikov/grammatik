@@ -8,16 +8,86 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Basic phrases for meeting people. Formal situations use Sie; friends and peers use du."
+        "content": "Use du with friends, family, children, and many peers; use Sie in formal or unfamiliar situations. Sie and its verb forms are always capitalized when they mean formal “you.”"
+      },
+      {
+        "type": "heading",
+        "content": "Personal pronouns"
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Singular",
+            "Plural/Formal"
+          ],
+          [
+            "ich — I",
+            "wir — we"
+          ],
+          [
+            "du — you (informal)",
+            "ihr — you all (informal)"
+          ],
+          [
+            "er/sie/es — he/she/it",
+            "sie — they"
+          ],
+          [
+            "",
+            "Sie — you (formal)"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "The verb ending must match the pronoun: ich komme, du kommst, er kommt, wir kommen, ihr kommt, sie/Sie kommen."
+      },
+      {
+        "type": "heading",
+        "content": "Useful introduction patterns"
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Informal",
+            "Formal",
+            "Meaning"
+          ],
+          [
+            "Wie heißt du?",
+            "Wie heißen Sie?",
+            "What is your name?"
+          ],
+          [
+            "Woher kommst du?",
+            "Woher kommen Sie?",
+            "Where are you from?"
+          ],
+          [
+            "Wo wohnst du?",
+            "Wo wohnen Sie?",
+            "Where do you live?"
+          ],
+          [
+            "Wie geht es dir?",
+            "Wie geht es Ihnen?",
+            "How are you?"
+          ]
+        ]
       },
       {
         "type": "list",
-        "content": "Guten Tag! — Good day\nWie heißen Sie? / Wie heißt du? — What's your name?\nIch heiße … — My name is …\nWoher kommen Sie? — Where are you from?\nFreut mich. — Nice to meet you."
+        "content": "Ich heiße … — My name is …\nIch komme aus … — I come from …\nIch wohne in … — I live in …\nFreut mich. — Nice to meet you.\nMir geht es gut. — I am well."
       },
       {
         "type": "example",
-        "de": "Guten Tag! Ich heiße Maria. Woher kommen Sie?",
-        "note": "formal introduction"
+        "content": "",
+        "de": "Guten Tag! Ich heiße Maria. Wie heißen Sie?",
+        "note": "formal greeting and introduction"
       }
     ]
   },

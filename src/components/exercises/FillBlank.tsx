@@ -89,14 +89,6 @@ export function FillBlank({
           <span className="mt-1 min-w-[1.5rem] text-stone-400">{idx + 1}.</span>
           <div className="flex-1">
             {renderPrompt(item, results, answers, onChange, showAnswers)}
-            {item.blanks?.some((b) => b.hint) && (
-              <p className="mt-1 text-xs text-stone-500">
-                {item.blanks
-                  .filter((b) => b.hint)
-                  .map((b) => b.hint)
-                  .join(' · ')}
-              </p>
-            )}
           </div>
         </li>
       ))}

@@ -9,17 +9,127 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Negate verbs with nicht (not the verb itself). Negate nouns with kein (not a/ no + noun) — kein declines like ein."
+        "content": "This section reviews present-tense verb endings, nominative/accusative articles, and the difference between nicht and kein."
+      },
+      {
+        "type": "heading",
+        "content": "Present-tense verbs"
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Subject",
+            "Ending",
+            "spielen"
+          ],
+          [
+            "ich",
+            "-e",
+            "spiele"
+          ],
+          [
+            "du",
+            "-st",
+            "spielst"
+          ],
+          [
+            "er/sie/es",
+            "-t",
+            "spielt"
+          ],
+          [
+            "wir/sie/Sie",
+            "-en",
+            "spielen"
+          ],
+          [
+            "ihr",
+            "-t",
+            "spielt"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Article reminder"
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "",
+            "Masc.",
+            "Fem.",
+            "Neut.",
+            "Plural"
+          ],
+          [
+            "Nominative",
+            "der/ein",
+            "die/eine",
+            "das/ein",
+            "die"
+          ],
+          [
+            "Accusative",
+            "den/einen",
+            "die/eine",
+            "das/ein",
+            "die"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Negation: nicht or kein?"
+      },
+      {
+        "type": "paragraph",
+        "content": "Kein replaces ein/eine or negates a noun with no article; nicht negates verbs, adjectives, adverbs, proper names, or a specific phrase."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Use",
+            "Negative",
+            "Example"
+          ],
+          [
+            "indefinite/no-article noun",
+            "kein",
+            "Ich habe kein Auto."
+          ],
+          [
+            "verb or whole statement",
+            "nicht",
+            "Ich komme heute nicht."
+          ],
+          [
+            "adjective/adverb",
+            "nicht",
+            "Das ist nicht teuer."
+          ],
+          [
+            "definite noun/phrase",
+            "nicht",
+            "Ich kaufe nicht das rote Auto."
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Kein declines like ein: kein Mann, keine Frau, kein Kind, keine Kinder; accusative masculine becomes keinen."
       },
       {
         "type": "example",
-        "de": "Ich trinke nicht Kaffee. / Ich trinke keinen Kaffee.",
-        "note": "nicht = general negation · kein = \"no/not a\" + noun"
-      },
-      {
-        "type": "example",
-        "de": "Das ist kein Problem.",
-        "note": "kein + nominative neuter"
+        "content": "",
+        "de": "Ich trinke keinen Kaffee, aber der Tee ist nicht schlecht.",
+        "note": "keinen negates a masculine noun · nicht negates an adjective"
       }
     ]
   },

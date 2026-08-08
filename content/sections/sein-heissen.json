@@ -8,7 +8,7 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Sein (to be) and heißen (to be called) are irregular but essential from day one."
+        "content": "Sein (to be) and heißen (to be called) are essential verbs for identity, descriptions, origin, and names. Sein is highly irregular; heißen follows regular endings except for spelling with ß."
       },
       {
         "type": "table",
@@ -52,9 +52,22 @@
         ]
       },
       {
+        "type": "heading",
+        "content": "How they are used"
+      },
+      {
+        "type": "list",
+        "content": "sein + noun/adjective: Sie ist Ärztin. Er ist müde.\nsein + place/origin: Wir sind in Berlin. Ich bin aus Köln.\nheißen + name: Ich heiße Anna.\nWie heißt du? / Wie heißen Sie? — What is your name?"
+      },
+      {
+        "type": "paragraph",
+        "content": "After sein, the noun remains nominative: Er ist ein Student, not einen Studenten."
+      },
+      {
         "type": "example",
-        "de": "Ich bin Student. Ich heiße Anna.",
-        "note": "Use sein for identity/ origin; heißen for your name"
+        "content": "",
+        "de": "Ich bin Studentin und heiße Anna.",
+        "note": "sein describes identity; heißen gives a name"
       }
     ]
   },

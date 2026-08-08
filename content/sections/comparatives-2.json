@@ -8,12 +8,43 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Use superlative to express the highest degree. Predicate superlative uses am + -sten; attributive uses der/die/das + -ste."
+        "content": "Use am + -sten when the adjective stands after the verb. Before a noun, the superlative acts like an attributive adjective and takes an adjective ending."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Use",
+            "Pattern",
+            "Example"
+          ],
+          [
+            "predicate/adverbial",
+            "am + -sten",
+            "Das Buch ist am schönsten."
+          ],
+          [
+            "before noun",
+            "article + -st- + ending",
+            "das schönste Buch"
+          ],
+          [
+            "comparison group",
+            "von + dative",
+            "der älteste von uns"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Superlatives ending in -esten are easier to pronounce: interessant → am interessantesten. Große becomes am größten."
       },
       {
         "type": "example",
-        "de": "Das ist das schönste Buch.",
-        "note": "attributive superlative"
+        "content": "",
+        "de": "Welches Buch ist am besten? — Das ist das beste Buch.",
+        "note": "predicate form · attributive form"
       }
     ]
   },
@@ -36,7 +67,7 @@
               "accept": [
                 "schönsten"
               ],
-              "hint": "sch&#246;n"
+              "hint": "schön"
             }
           ],
           "explanation": {
@@ -57,7 +88,7 @@
               "accept": [
                 "größeres"
               ],
-              "hint": "gro&#223;"
+              "hint": "groß"
             }
           ],
           "explanation": {

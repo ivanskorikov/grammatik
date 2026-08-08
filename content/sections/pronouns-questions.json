@@ -8,21 +8,79 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Question words (W-words) come first, then the verb (V2 rule). Yes/no questions start with the verb."
+        "content": "Question structure depends on whether the question has a question word. The conjugated verb comes immediately after a W-word; yes/no questions begin with the verb."
+      },
+      {
+        "type": "heading",
+        "content": "Subject pronouns and verb agreement"
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Pronoun",
+            "kommen"
+          ],
+          [
+            "ich",
+            "komme"
+          ],
+          [
+            "du",
+            "kommst"
+          ],
+          [
+            "er/sie/es",
+            "kommt"
+          ],
+          [
+            "wir",
+            "kommen"
+          ],
+          [
+            "ihr",
+            "kommt"
+          ],
+          [
+            "sie/Sie",
+            "kommen"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Type",
+            "Pattern",
+            "Example"
+          ],
+          [
+            "W-question",
+            "W-word + verb + subject",
+            "Wo wohnst du?"
+          ],
+          [
+            "Yes/no",
+            "Verb + subject + …",
+            "Wohnst du in Berlin?"
+          ],
+          [
+            "Statement",
+            "Subject/topic + verb + …",
+            "Du wohnst in Berlin."
+          ]
+        ]
       },
       {
         "type": "list",
-        "content": "wer — who\nwas — what\nwo — where\nwann — when\nwarum — why\nwie — how\nwoher — from where\nwohin — to where"
+        "content": "wer — who (subject)\nwen — whom (accusative)\nwem — whom (dative)\nwas — what\nwo / wohin / woher — where / to where / from where\nwann / warum / wie — when / why / how"
       },
       {
-        "type": "example",
-        "de": "Wo wohnst du?",
-        "note": "W-word + verb + subject"
-      },
-      {
-        "type": "example",
-        "de": "Kommst du morgen?",
-        "note": "yes/no: verb first"
+        "type": "paragraph",
+        "content": "The question word already represents the missing information, so do not add another pronoun: Wer kommt? not Wer kommt er?"
       }
     ]
   },

@@ -1,4 +1,5 @@
 import type { CheckResult, ExerciseItem } from '../types'
+import { decodeHtmlEntities } from './text'
 
 export function normalizeGerman(text: string): string {
   let s = text.trim().toLowerCase()
@@ -101,7 +102,7 @@ export function buildExplanation(
   }
 
   if (hint) {
-    parts.push(`Hint: ${hint}`)
+    parts.push(`Hint: ${decodeHtmlEntities(hint)}`)
   }
 
   if (topicRule) {
@@ -121,6 +122,8 @@ export function getTopicRule(topic: string): string | undefined {
     'indefinite-articles':
       'Indefinite articles change in accusative: **ein → einen** (masc.), **eine** (fem.) stays.',
     'verb-conjugation': 'Match the verb ending to the subject (ich -e, du -st, er/sie -t, wir -en).',
+    'modal-verbs':
+      'Modal verbs use special forms: ich/er/sie share one stem (kann, muss, will…); du adds -st; wir/sie use the infinitive.',
     dative: 'Dative objects take **dem/der/dem/den** (m/n/f/pl).',
     'word-order':
       'In subordinate clauses the conjugated verb goes to the end.',

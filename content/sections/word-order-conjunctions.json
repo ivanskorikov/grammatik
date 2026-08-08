@@ -9,17 +9,45 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Coordinating conjunctions (und, aber, oder, denn, sondern) do not change word order. Subordinating conjunctions (weil, dass, wenn, ob…) send the conjugated verb to the end."
+        "content": "Conjunctions belong to different word-order groups. Coordinating conjunctions join two main clauses; subordinating conjunctions introduce a clause whose conjugated verb goes to the end. Put a comma before a subordinate clause."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Group",
+            "Words",
+            "Verb position"
+          ],
+          [
+            "coordinating",
+            "und, aber, oder, denn, sondern",
+            "normal V2"
+          ],
+          [
+            "subordinating",
+            "weil, dass, wenn, obwohl, ob",
+            "verb at end"
+          ],
+          [
+            "conjunctive adverb",
+            "deshalb, trotzdem, dann",
+            "takes position 1; verb next"
+          ]
+        ]
       },
       {
         "type": "example",
-        "de": "Ich lerne, weil ich die Prüfung bestehen will.",
-        "note": "weil … verb at end (bestehen will)"
+        "content": "",
+        "de": "Ich bleibe zu Hause, weil ich krank bin.",
+        "note": "weil sends bin to the end"
       },
       {
         "type": "example",
-        "de": "Ich lerne, aber er schläft.",
-        "note": "aber — verb stays in position 2"
+        "content": "",
+        "de": "Ich bin krank; deshalb bleibe ich zu Hause.",
+        "note": "deshalb occupies position 1 → verb before subject"
       }
     ]
   },

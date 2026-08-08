@@ -9,7 +9,7 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Quick reference for the three cases at A2 level."
+        "content": "Choose a case from the noun phrase’s job and from any governing verb or preposition. Do not choose only from word order."
       },
       {
         "type": "table",
@@ -17,28 +17,37 @@
         "rows": [
           [
             "Case",
-            "Role",
-            "Example"
+            "Main job",
+            "Question",
+            "Masc. marker"
           ],
           [
             "Nominative",
             "subject",
-            "Der Mann liest."
+            "wer/was?",
+            "der / ein"
           ],
           [
             "Accusative",
             "direct object",
-            "Ich sehe den Mann."
+            "wen/was?",
+            "den / einen"
           ],
           [
             "Dative",
-            "indirect object",
-            "Ich gebe dem Mann das Buch."
+            "recipient; dat. verb/prep.",
+            "wem?",
+            "dem / einem"
           ]
         ]
       },
       {
+        "type": "list",
+        "content": "Nominative: subject; after sein/werden/bleiben\nAccusative: direct object; durch, für, gegen, ohne, um\nDative: recipient; aus, bei, mit, nach, seit, von, zu; dative verbs"
+      },
+      {
         "type": "example",
+        "content": "",
         "de": "Die Frau gibt dem Kind einen Apfel.",
         "note": "Die Frau (nom.) · dem Kind (dat.) · einen Apfel (acc.)"
       }

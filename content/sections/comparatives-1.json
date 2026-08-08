@@ -8,16 +8,58 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Comparative: adjective + -er. Superlative: am … -sten or der/die/das … -ste. Umlaut often appears on a/o/u in one-syllable adjectives."
+        "content": "The comparative compares two things; the superlative gives the highest degree. Use als after a comparative and so … wie for equality."
       },
       {
-        "type": "list",
-        "content": "groß → größer → am größten\ngut → besser → am besten\nviel → mehr → am meisten"
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Positive",
+            "Comparative",
+            "Superlative"
+          ],
+          [
+            "klein",
+            "kleiner",
+            "am kleinsten"
+          ],
+          [
+            "groß",
+            "größer",
+            "am größten"
+          ],
+          [
+            "alt",
+            "älter",
+            "am ältesten"
+          ],
+          [
+            "gut",
+            "besser",
+            "am besten"
+          ],
+          [
+            "viel",
+            "mehr",
+            "am meisten"
+          ],
+          [
+            "gern",
+            "lieber",
+            "am liebsten"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Many one-syllable adjectives with a, o, or u add an umlaut, but not all do. Adjectives ending in -d, -t, -s, -ß, -sch, -x, or -z often use -esten."
       },
       {
         "type": "example",
-        "de": "Berlin ist größer als München.",
-        "note": "comparative + als"
+        "content": "",
+        "de": "Berlin ist größer als München, aber nicht so groß wie London.",
+        "note": "different → als · equal comparison → so … wie"
       }
     ]
   },

@@ -8,16 +8,77 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Certain verbs always take a dative object (no accusative). Learn them as chunks."
+        "content": "Some verbs assign dative to their person or thing even when English does not use “to.” Learn each verb together with + dative."
       },
       {
-        "type": "list",
-        "content": "helfen (+ dat.) — to help\ngehören (+ dat.) — to belong to\ndanken (+ dat.) — to thank\ngefallen (+ dat.) — to please\nantworten (+ dat.) — to answer"
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Verb",
+            "Meaning",
+            "Example"
+          ],
+          [
+            "helfen",
+            "help",
+            "Ich helfe dir."
+          ],
+          [
+            "danken",
+            "thank",
+            "Wir danken Ihnen."
+          ],
+          [
+            "gefallen",
+            "be pleasing to",
+            "Das gefällt mir."
+          ],
+          [
+            "gehören",
+            "belong to",
+            "Das Buch gehört ihm."
+          ],
+          [
+            "antworten",
+            "answer",
+            "Sie antwortet dem Lehrer."
+          ],
+          [
+            "folgen",
+            "follow",
+            "Der Hund folgt der Frau."
+          ],
+          [
+            "glauben",
+            "believe",
+            "Ich glaube dir."
+          ],
+          [
+            "passen",
+            "fit/suit",
+            "Die Schuhe passen mir."
+          ],
+          [
+            "schmecken",
+            "taste good to",
+            "Die Suppe schmeckt uns."
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Verbs of giving or communicating often use a dative person plus an accusative thing: jemandem etwas erzählen, sagen, schreiben, schenken, or zeigen."
+      },
+      {
+        "type": "paragraph",
+        "content": "Gefallen reverses the English viewpoint: Das Lied gefällt mir literally means “The song is pleasing to me.” The liked thing is nominative; the person is dative."
       },
       {
         "type": "example",
-        "de": "Ich helfe dem Kind.",
-        "note": "helfen always + dative"
+        "content": "",
+        "de": "Kannst du mir helfen?",
+        "note": "mir is dative after helfen"
       }
     ]
   },

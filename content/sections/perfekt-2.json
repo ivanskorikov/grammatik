@@ -9,17 +9,25 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Common sein-verbs in Perfekt: gehen, kommen, fahren, fliegen, bleiben, werden. The participle agrees in number with the subject when using sein."
+        "content": "Choose the auxiliary from the verb, not from the subject. The participle never agrees with gender or number in German."
+      },
+      {
+        "type": "heading",
+        "content": "Frequent sein-verbs"
+      },
+      {
+        "type": "list",
+        "content": "gehen → ist gegangen\nkommen → ist gekommen\nfahren → ist gefahren\nfliegen → ist geflogen\nbleiben → ist geblieben\nwerden → ist geworden\naufstehen → ist aufgestanden"
+      },
+      {
+        "type": "paragraph",
+        "content": "Some motion verbs use haben when the focus is an activity or a direct object: Ich bin nach Berlin gefahren, but Ich habe das Auto gefahren."
       },
       {
         "type": "example",
-        "de": "Wir sind nach Hause gegangen.",
-        "note": "sein + gegangen"
-      },
-      {
-        "type": "example",
-        "de": "Sie ist krank geworden.",
-        "note": "werden → ist … geworden"
+        "content": "",
+        "de": "Wir sind nach Hause gegangen, aber unsere Freunde sind noch geblieben.",
+        "note": "both gehen and bleiben use sein"
       }
     ]
   },

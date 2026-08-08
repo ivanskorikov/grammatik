@@ -9,12 +9,58 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Common subordinating conjunctions: weil (because), dass (that), wenn (if/when), ob (whether), als (when in past)."
+        "content": "A subordinate clause cannot normally stand alone. It is separated by a comma, and its conjugated verb goes to the end."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Conjunction",
+            "Use",
+            "Example idea"
+          ],
+          [
+            "weil",
+            "reason",
+            "because"
+          ],
+          [
+            "dass",
+            "reported fact/opinion",
+            "that"
+          ],
+          [
+            "wenn",
+            "condition/repeated or present-future time",
+            "if/when"
+          ],
+          [
+            "als",
+            "one event in the past",
+            "when"
+          ],
+          [
+            "ob",
+            "indirect yes/no question",
+            "whether"
+          ],
+          [
+            "obwohl",
+            "contrast",
+            "although"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "When the subordinate clause comes first, the whole clause counts as position 1, so the main-clause verb follows immediately: Weil ich müde bin, gehe ich nach Hause."
       },
       {
         "type": "example",
-        "de": "Er sagt, dass er müde ist.",
-        "note": "dass … ist at end"
+        "content": "",
+        "de": "Er fragt, ob du morgen kommst.",
+        "note": "ob introduces an indirect yes/no question"
       }
     ]
   },

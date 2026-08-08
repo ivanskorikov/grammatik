@@ -9,16 +9,53 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Some verbs change their stem vowel in the du and er/sie/es forms (and du-form only for some). The pattern is fixed per verb — learn them with the infinitive."
+        "content": "Some strong verbs change their stem vowel only in the du and er/sie/es present-tense forms. The wir, ihr, and sie/Sie forms use the infinitive stem."
       },
       {
-        "type": "list",
-        "content": "e → i: geben → du gibst\ne → ie: sehen → du siehst\na → ä: fahren → du fährst"
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Change",
+            "Infinitive",
+            "du",
+            "er/sie/es"
+          ],
+          [
+            "e → i",
+            "geben",
+            "gibst",
+            "gibt"
+          ],
+          [
+            "e → ie",
+            "sehen",
+            "siehst",
+            "sieht"
+          ],
+          [
+            "a → ä",
+            "fahren",
+            "fährst",
+            "fährt"
+          ],
+          [
+            "au → äu",
+            "laufen",
+            "läufst",
+            "läuft"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Normal personal endings are added after the vowel change. Do not change the stem for ich: ich gebe, ich sehe, ich fahre."
       },
       {
         "type": "example",
-        "de": "Er gibt mir das Buch.",
-        "note": "geben → er gibt (not gibt)"
+        "content": "",
+        "de": "Du fährst nach Berlin, aber wir fahren nach Hamburg.",
+        "note": "du changes a → ä; wir keeps the original stem"
       }
     ]
   },

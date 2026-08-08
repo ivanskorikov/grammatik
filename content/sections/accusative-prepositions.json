@@ -9,21 +9,62 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "These prepositions always take the accusative case. The noun that follows must be in accusative form."
+        "content": "These prepositions always require the accusative. The case is fixed by the preposition, even when there is no physical movement."
+      },
+      {
+        "type": "heading",
+        "content": "The accusative prepositions"
       },
       {
         "type": "list",
-        "content": "durch (through)\nfür (for)\ngegen (against)\nohne (without)\num (around, at [time])\nentlang (along — follows the noun)"
+        "content": "durch — through, by means of\nfür — for\ngegen — against, around (time)\nohne — without\num — around, at (time)\nentlang — along (usually after the noun)"
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "",
+            "Masc.",
+            "Fem.",
+            "Neut.",
+            "Plural"
+          ],
+          [
+            "Definite",
+            "den",
+            "die",
+            "das",
+            "die"
+          ],
+          [
+            "Indefinite",
+            "einen",
+            "eine",
+            "ein",
+            "—"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "With personal pronouns"
+      },
+      {
+        "type": "list",
+        "content": "durch mich/uns — through me/us\nfür dich/euch — for you\ngegen ihn/sie — against him/her\nohne uns/sie — without us/them\num ihn/sie — around him/her"
       },
       {
         "type": "example",
+        "content": "",
         "de": "Das Geschenk ist für den Mann.",
-        "note": "für + accusative → den Mann"
+        "note": "für always + accusative → den Mann"
       },
       {
         "type": "example",
-        "de": "Wir fahren durch die Stadt.",
-        "note": "durch + accusative → die Stadt"
+        "content": "",
+        "de": "Wir gehen um den Park herum. / Der Weg führt den Fluss entlang.",
+        "note": "um precedes its object; entlang commonly follows it"
       }
     ]
   },

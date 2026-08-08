@@ -9,17 +9,52 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Separable prefixes (an-, auf-, ein-, mit-, vor-…) detach and move to the end in main clauses."
+        "content": "A separable prefix moves to the end of a main clause. The conjugated verb stem remains in position 2. The prefix is normally stressed in speech."
+      },
+      {
+        "type": "list",
+        "content": "Common separable prefixes: ab-, an-, auf-, aus-, ein-, mit-, nach-, vor-, weg-, zu-, zurück-"
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Context",
+            "Pattern",
+            "Example"
+          ],
+          [
+            "main clause",
+            "verb … prefix",
+            "Ich stehe früh auf."
+          ],
+          [
+            "modal + infinitive",
+            "modal … full infinitive",
+            "Ich muss früh aufstehen."
+          ],
+          [
+            "subordinate clause",
+            "full verb at end",
+            "…, weil ich früh aufstehe."
+          ],
+          [
+            "Perfekt",
+            "prefix + ge + stem",
+            "Ich bin früh aufgestanden."
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Common inseparable prefixes—be-, emp-, ent-, er-, ge-, miss-, ver-, zer-—never detach and do not take ge- in the participle: besuchen → besucht."
       },
       {
         "type": "example",
-        "de": "Ich stehe um sieben Uhr auf.",
-        "note": "aufstehen → stehe … auf"
-      },
-      {
-        "type": "example",
-        "de": "Er ruft seine Mutter an.",
-        "note": "anrufen → ruft … an"
+        "content": "",
+        "de": "Er ruft seine Mutter an, weil er sie fragen will.",
+        "note": "anrufen separates in the main clause"
       }
     ]
   },

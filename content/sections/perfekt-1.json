@@ -9,16 +9,53 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "The Perfekt (spoken past) = haben or sein + past participle (Partizip II). Most verbs use haben; movement/change-of-state verbs use sein."
+        "content": "Perfekt is the normal conversational past: a present-tense form of haben or sein plus Partizip II at the end."
       },
       {
-        "type": "list",
-        "content": "Regular: ge- + stem + -t (gemacht, gespielt)\nIrregular: ge- + changed stem + -en (gesehen, gegangen)\nSeparable: prefix stays before ge- (eingekauft)"
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Verb type",
+            "Participle pattern",
+            "Example"
+          ],
+          [
+            "regular",
+            "ge- + stem + -t",
+            "machen → gemacht"
+          ],
+          [
+            "strong",
+            "ge- + stem/change + -en",
+            "sehen → gesehen"
+          ],
+          [
+            "separable",
+            "prefix + ge + stem",
+            "einkaufen → eingekauft"
+          ],
+          [
+            "inseparable",
+            "no ge-",
+            "besuchen → besucht"
+          ],
+          [
+            "-ieren",
+            "no ge-",
+            "studieren → studiert"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Most verbs use haben. Use sein mainly with motion to a destination and changes of state: gehen, kommen, fahren, aufstehen, werden."
       },
       {
         "type": "example",
-        "de": "Ich habe gestern Fußball gespielt.",
-        "note": "haben + Partizip II at end"
+        "content": "",
+        "de": "Ich habe gestern Fußball gespielt. Danach bin ich nach Hause gegangen.",
+        "note": "haben + activity · sein + movement"
       }
     ]
   },
@@ -487,7 +524,7 @@
               "accept": [
                 "mitgebracht"
               ],
-              "hint": "h&#246;ren"
+              "hint": "hören"
             },
             {
               "index": 12,
@@ -522,7 +559,7 @@
               "accept": [
                 "haben"
               ],
-              "hint": "k&#252;ssen"
+              "hint": "küssen"
             },
             {
               "index": 17,

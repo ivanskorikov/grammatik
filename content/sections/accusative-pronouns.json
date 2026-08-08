@@ -9,7 +9,44 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Personal pronouns also change in the accusative case. Only ich → mich and du → dich change among the singular pronouns you use most at A1."
+        "content": "Personal pronouns change form when they are the direct object of a verb. At A1 the most noticeable changes are ich → mich, du → dich, er → ihn, and wir → uns / ihr → euch."
+      },
+      {
+        "type": "heading",
+        "content": "When to use accusative"
+      },
+      {
+        "type": "paragraph",
+        "content": "The accusative marks the direct object — whoever or whatever receives the action. Ask: \"Who or what is being verbed?\" If the pronoun does the action, it stays nominative (Er kommt). If it receives the action, use accusative (Ich sehe ihn)."
+      },
+      {
+        "type": "example",
+        "de": "Kennst du meine Schwester? — Nein, ich kenne sie nicht.",
+        "note": "sie (her) = direct object of kennen"
+      },
+      {
+        "type": "heading",
+        "content": "Verbs that take an accusative object"
+      },
+      {
+        "type": "paragraph",
+        "content": "Many transitive verbs take a person or thing in the accusative. These appear often in this chapter:"
+      },
+      {
+        "type": "list",
+        "content": "haben (have)\nkennen (know someone)\nlieben (love)\nsehen (see)\nbesuchen (visit)\nanrufen (call)\nfinden (find; think, find sth. + adj.)\nkaufen (buy)\nnehmen (take)\ngeben (give)\nwaschen (wash)\nrufen (call out to)"
+      },
+      {
+        "type": "paragraph",
+        "content": "Verbs like sein, heißen, and wohnen do not take an accusative person as a direct object. Location uses a preposition: Sie wohnt in Berlin."
+      },
+      {
+        "type": "paragraph",
+        "content": "Accusative pronouns also follow accusative prepositions: für mich, ohne dich, durch uns…"
+      },
+      {
+        "type": "heading",
+        "content": "Pronoun forms"
       },
       {
         "type": "table",
@@ -61,6 +98,11 @@
         "type": "example",
         "de": "Ich liebe dich.",
         "note": "dich = accusative of du"
+      },
+      {
+        "type": "example",
+        "de": "Meine Tante wohnt in Milwaukee. Ich besuche sie morgen.",
+        "note": "sie (her) after besuchen"
       }
     ]
   },

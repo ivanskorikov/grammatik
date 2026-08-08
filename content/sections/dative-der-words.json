@@ -8,10 +8,46 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Der-words (dieser, jeder, welcher, mancher…) and ein-words (mein, dein, kein…) decline like articles in each case."
+        "content": "Der-words carry the same endings as der/die/das. Ein-words carry the same endings as ein/eine. In dative, masculine and neuter end in -em, feminine in -er, and plural in -en."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "",
+            "Masc.",
+            "Fem.",
+            "Neut.",
+            "Plural"
+          ],
+          [
+            "der-word",
+            "diesem",
+            "dieser",
+            "diesem",
+            "diesen"
+          ],
+          [
+            "ein-word",
+            "meinem",
+            "meiner",
+            "meinem",
+            "meinen"
+          ]
+        ]
+      },
+      {
+        "type": "list",
+        "content": "Der-words: dieser, jeder, welcher, solcher\nEin-words: ein, kein, mein, dein, sein, ihr, unser, euer, Ihr"
+      },
+      {
+        "type": "paragraph",
+        "content": "Dative plural usually also adds -n to the noun: mit diesen Kindern, von meinen Freunden."
       },
       {
         "type": "example",
+        "content": "",
         "de": "Ich kaufe meinem Bruder ein Geschenk.",
         "note": "meinem = dative masculine of mein"
       }

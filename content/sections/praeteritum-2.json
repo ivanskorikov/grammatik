@@ -8,12 +8,58 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Weak (regular) verbs add -te endings: machen → machte. Strong verbs change the stem: gehen → ging, sehen → sah."
+        "content": "Weak verbs form Präteritum with -te plus personal endings. Strong verbs change their stem and use a different set of endings, so their forms must be learned."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "",
+            "machen (weak)",
+            "gehen (strong)"
+          ],
+          [
+            "ich",
+            "machte",
+            "ging"
+          ],
+          [
+            "du",
+            "machtest",
+            "gingst"
+          ],
+          [
+            "er/sie/es",
+            "machte",
+            "ging"
+          ],
+          [
+            "wir",
+            "machten",
+            "gingen"
+          ],
+          [
+            "ihr",
+            "machtet",
+            "gingt"
+          ],
+          [
+            "sie/Sie",
+            "machten",
+            "gingen"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Mixed verbs combine a stem change with weak endings: denken → dachte, bringen → brachte, wissen → wusste."
       },
       {
         "type": "example",
-        "de": "Er ging ins Kino und kaufte Popcorn.",
-        "note": "strong + weak verb in Präteritum"
+        "content": "",
+        "de": "Er ging ins Kino, kaufte Popcorn und brachte seiner Freundin eine Cola.",
+        "note": "strong, weak, and mixed Präteritum forms"
       }
     ]
   },

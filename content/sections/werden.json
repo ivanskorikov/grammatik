@@ -9,17 +9,98 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Werden means \"to become\" and is also used as a helper for Futur I and passive (later levels)."
+        "content": "Werden is an irregular verb meaning “to become.” It also serves as the auxiliary for future and passive constructions."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "",
+            "werden"
+          ],
+          [
+            "ich",
+            "werde"
+          ],
+          [
+            "du",
+            "wirst"
+          ],
+          [
+            "er/sie/es",
+            "wird"
+          ],
+          [
+            "wir",
+            "werden"
+          ],
+          [
+            "ihr",
+            "werdet"
+          ],
+          [
+            "sie/Sie",
+            "werden"
+          ]
+        ]
+      },
+      {
+        "type": "list",
+        "content": "werden + adjective/noun — become: Es wird kalt.\nwerden + infinitive — Futur I: Ich werde kommen.\nwerden + Partizip II — passive: Das Haus wird gebaut."
+      },
+      {
+        "type": "heading",
+        "content": "Wurde, würde, geworden, or worden?"
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Form",
+            "Use",
+            "Example"
+          ],
+          [
+            "wurde",
+            "Präteritum: became / was",
+            "Es wurde kalt."
+          ],
+          [
+            "würde + infinitive",
+            "would (Konjunktiv II)",
+            "Ich würde gern fahren."
+          ],
+          [
+            "ist geworden",
+            "Perfekt: became",
+            "Sie ist Ärztin geworden."
+          ],
+          [
+            "ist … worden",
+            "Perfekt passive: was done",
+            "Das Haus ist gebaut worden."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Passive word order"
+      },
+      {
+        "type": "list",
+        "content": "Present: Das Fenster wird geöffnet.\nPräteritum: Das Fenster wurde geöffnet.\nWith modal: Das Fenster muss geöffnet werden.\nPerfekt: Das Fenster ist geöffnet worden."
+      },
+      {
+        "type": "paragraph",
+        "content": "Perfect forms differ by meaning: ist geworden = became; ist gebaut worden = was built."
       },
       {
         "type": "example",
-        "de": "Er wird Arzt.",
-        "note": "werden + noun (no article) = become"
-      },
-      {
-        "type": "example",
-        "de": "Es wird kalt.",
-        "note": "werden + adjective"
+        "content": "",
+        "de": "Sie wird Ärztin. Später wird sie in Berlin arbeiten.",
+        "note": "become · future auxiliary"
       }
     ]
   },

@@ -9,12 +9,62 @@
     "blocks": [
       {
         "type": "paragraph",
-        "content": "Some reflexive verbs take an optional dative object. Accusative reflexive is most common at A2."
+        "content": "Use an accusative reflexive pronoun when it is the only object. If a body part or another direct object is present, the reflexive pronoun is usually dative."
+      },
+      {
+        "type": "table",
+        "content": "",
+        "rows": [
+          [
+            "Subject",
+            "Accusative",
+            "Dative"
+          ],
+          [
+            "ich",
+            "mich",
+            "mir"
+          ],
+          [
+            "du",
+            "dich",
+            "dir"
+          ],
+          [
+            "er/sie/es",
+            "sich",
+            "sich"
+          ],
+          [
+            "wir",
+            "uns",
+            "uns"
+          ],
+          [
+            "ihr",
+            "euch",
+            "euch"
+          ],
+          [
+            "sie/Sie",
+            "sich",
+            "sich"
+          ]
+        ]
       },
       {
         "type": "example",
-        "de": "Ich freue mich auf das Wochenende.",
-        "note": "sich freuen auf + accusative"
+        "content": "",
+        "de": "Ich wasche mich. / Ich wasche mir die Hände.",
+        "note": "only object → acc. · die Hände is acc., so mir is dat."
+      },
+      {
+        "type": "heading",
+        "content": "Learn the preposition too"
+      },
+      {
+        "type": "list",
+        "content": "sich freuen auf + acc. — look forward to\nsich interessieren für + acc. — be interested in\nsich erinnern an + acc. — remember\nsich unterhalten mit + dat. — talk with"
       }
     ]
   },
@@ -47,7 +97,7 @@
               "accept": [
                 "duschen"
               ],
-              "hint": "sich am&#252;sieren"
+              "hint": "sich amüsieren"
             },
             {
               "index": 2,
@@ -208,7 +258,7 @@
               "accept": [
                 "erkälten"
               ],
-              "hint": "sich erk&#228;lten"
+              "hint": "sich erkälten"
             },
             {
               "index": 2,
