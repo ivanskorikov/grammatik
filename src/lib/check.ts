@@ -1,5 +1,15 @@
 import type { CheckResult, ExerciseItem } from '../types'
-import { decodeHtmlEntities } from './text'
+
+function decodeHtmlEntities(text: string): string {
+  return text
+    .replace(/&#(\d+);/g, (_, decimal: string) =>
+      String.fromCodePoint(Number.parseInt(decimal, 10)),
+    )
+    .replace(/&#x([0-9a-f]+);/gi, (_, hex: string) =>
+      String.fromCodePoint(Number.parseInt(hex, 16)),
+    )
+    .replace(/&nbsp;/g, ' ')
+}
 
 export function normalizeGerman(text: string): string {
   let s = text.trim().toLowerCase()

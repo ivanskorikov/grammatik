@@ -26,7 +26,10 @@ export function SectionPage() {
   if (!section) {
     return (
       <div>
-        <Link to="/" className="text-sm text-emerald-700 hover:underline">
+        <Link
+          to="/"
+          className="text-sm text-emerald-700 hover:underline dark:text-emerald-400"
+        >
           ← Home
         </Link>
         <p className="mt-4">Section not found.</p>
@@ -41,17 +44,19 @@ export function SectionPage() {
       <div className="shrink-0">
         <Link
           to={`/level/${section.level}`}
-          className="text-sm text-emerald-700 hover:underline"
+          className="text-sm text-emerald-700 hover:underline dark:text-emerald-400"
         >
           ← {section.level}
         </Link>
-        <h1 className="mt-2 text-2xl font-bold text-stone-900">{section.title}</h1>
+        <h1 className="mt-2 text-2xl font-bold text-stone-900 dark:text-stone-50">
+          {section.title}
+        </h1>
       </div>
 
       <div className="mt-4 grid min-h-0 flex-1 grid-cols-1 gap-4 lg:grid-cols-[minmax(280px,2fr)_minmax(360px,3fr)] lg:gap-6">
-        <aside className="flex min-h-0 flex-col overflow-hidden rounded-xl border border-stone-200 bg-white lg:max-h-[calc(100vh-9rem)]">
-          <div className="shrink-0 border-b border-stone-100 px-5 py-3">
-            <h2 className="text-sm font-semibold uppercase tracking-wide text-stone-500">
+        <aside className="flex min-h-0 flex-col overflow-hidden rounded-xl border border-stone-200 bg-white dark:border-stone-800 dark:bg-stone-900 lg:max-h-[calc(100vh-9rem)]">
+          <div className="shrink-0 border-b border-stone-100 px-5 py-3 dark:border-stone-800">
+            <h2 className="text-sm font-semibold uppercase tracking-wide text-stone-500 dark:text-stone-400">
               Theory
             </h2>
           </div>
@@ -60,9 +65,9 @@ export function SectionPage() {
           </div>
         </aside>
 
-        <div className="flex min-h-0 flex-col overflow-hidden rounded-xl border border-stone-200 bg-white lg:max-h-[calc(100vh-9rem)]">
-          <div className="shrink-0 border-b border-stone-100 px-5 py-3">
-            <h2 className="text-sm font-semibold uppercase tracking-wide text-stone-500">
+        <div className="flex min-h-0 flex-col overflow-hidden rounded-xl border border-stone-200 bg-white dark:border-stone-800 dark:bg-stone-900 lg:max-h-[calc(100vh-9rem)]">
+          <div className="shrink-0 border-b border-stone-100 px-5 py-3 dark:border-stone-800">
+            <h2 className="text-sm font-semibold uppercase tracking-wide text-stone-500 dark:text-stone-400">
               Exercises
             </h2>
           </div>
@@ -74,10 +79,10 @@ export function SectionPage() {
                 <article
                   key={ex.id}
                   id={`exercise-${ex.id}`}
-                  className="rounded-lg border border-stone-100 bg-stone-50/50 p-4"
+                  className="rounded-lg border border-stone-100 bg-stone-50/50 p-4 dark:border-stone-800 dark:bg-stone-950/50"
                 >
                   <div className="mb-4 flex items-center justify-between gap-3">
-                    <h3 className="text-lg font-semibold text-stone-900">
+                    <h3 className="text-lg font-semibold text-stone-900 dark:text-stone-50">
                       {exerciseLabel(ex.id)}
                     </h3>
                     {done && (

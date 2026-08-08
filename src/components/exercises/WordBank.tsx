@@ -13,10 +13,12 @@ interface WordBankProps {
 
 function inputClass(correct: boolean | null): string {
   const base =
-    'inline-block min-w-[5rem] rounded border-2 border-dashed px-2 py-1 text-center outline-none'
-  if (correct === null) return `${base} border-stone-300 bg-stone-50`
-  if (correct) return `${base} border-emerald-400 bg-emerald-50`
-  return `${base} border-red-400 bg-red-50`
+    'inline-block min-w-[5rem] rounded border-2 border-dashed px-2 py-1 text-center text-stone-900 outline-none dark:text-stone-100'
+  if (correct === null)
+    return `${base} border-stone-300 bg-stone-50 dark:border-stone-600 dark:bg-stone-800`
+  if (correct)
+    return `${base} border-emerald-400 bg-emerald-50 dark:bg-emerald-950/60`
+  return `${base} border-red-400 bg-red-50 dark:bg-red-950/60`
 }
 
 export function WordBank({
@@ -46,8 +48,8 @@ export function WordBank({
 
   return (
     <div>
-      <div className="mb-6 flex flex-wrap gap-2 rounded-lg border border-stone-200 bg-white p-4">
-        <span className="w-full text-xs font-medium uppercase tracking-wide text-stone-500">
+      <div className="mb-6 flex flex-wrap gap-2 rounded-lg border border-stone-200 bg-white p-4 dark:border-stone-700 dark:bg-stone-900">
+        <span className="w-full text-xs font-medium uppercase tracking-wide text-stone-500 dark:text-stone-400">
           Word bank — tap a word, then tap a gap
         </span>
         {wordBank.map((word) => {
@@ -62,8 +64,8 @@ export function WordBank({
                 selectedWord === word
                   ? 'bg-emerald-600 text-white'
                   : used
-                    ? 'bg-stone-100 text-stone-400 line-through'
-                    : 'bg-emerald-100 text-emerald-800 hover:bg-emerald-200'
+                    ? 'bg-stone-100 text-stone-400 line-through dark:bg-stone-800 dark:text-stone-500'
+                    : 'bg-emerald-100 text-emerald-800 hover:bg-emerald-200 dark:bg-emerald-950 dark:text-emerald-300 dark:hover:bg-emerald-900'
               }`}
             >
               {word}
@@ -78,7 +80,7 @@ export function WordBank({
           const blanks = item.blanks ?? []
           return (
             <li key={item.id} className="flex gap-3">
-              <span className="mt-1 text-stone-400">{idx + 1}.</span>
+              <span className="mt-1 text-stone-400 dark:text-stone-500">{idx + 1}.</span>
               <div className="flex-1 leading-relaxed">
                 {parts.map((part, i) => (
                   <span key={i}>
@@ -108,7 +110,10 @@ export function WordBank({
                 ))}
                 {showAnswers &&
                   blanks.map((b) => (
-                    <span key={b.index} className="ml-2 text-sm text-emerald-700">
+                    <span
+                      key={b.index}
+                      className="ml-2 text-sm text-emerald-700 dark:text-emerald-400"
+                    >
                       ({b.accept.join(' / ')})
                     </span>
                   ))}

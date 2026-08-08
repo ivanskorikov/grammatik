@@ -11,10 +11,12 @@ interface PickAndTypeProps {
 
 function inputClass(correct: boolean | null): string {
   const base =
-    'mx-0.5 inline-block min-w-[4rem] rounded border-b-2 bg-transparent px-1 py-0.5 text-center outline-none'
-  if (correct === null) return `${base} border-stone-300 focus:border-emerald-500`
-  if (correct) return `${base} border-emerald-500 bg-emerald-50`
-  return `${base} border-red-500 bg-red-50`
+    'mx-0.5 inline-block min-w-[4rem] rounded border-b-2 bg-transparent px-1 py-0.5 text-center text-stone-900 outline-none dark:text-stone-100'
+  if (correct === null)
+    return `${base} border-stone-300 focus:border-emerald-500 dark:border-stone-600`
+  if (correct)
+    return `${base} border-emerald-500 bg-emerald-50 dark:bg-emerald-950/60`
+  return `${base} border-red-500 bg-red-50 dark:bg-red-950/60`
 }
 
 export function PickAndType({
@@ -31,7 +33,7 @@ export function PickAndType({
         const blanks = item.blanks ?? []
         return (
           <li key={item.id} className="flex gap-3">
-            <span className="mt-1 text-stone-400">{idx + 1}.</span>
+            <span className="mt-1 text-stone-400 dark:text-stone-500">{idx + 1}.</span>
             <div className="flex-1 leading-loose">
               {parts.map((part, i) => (
                 <span key={i}>
@@ -63,7 +65,10 @@ export function PickAndType({
               ))}
               {showAnswers &&
                 blanks.map((b) => (
-                  <span key={b.index} className="ml-2 text-sm text-emerald-700">
+                  <span
+                    key={b.index}
+                    className="ml-2 text-sm text-emerald-700 dark:text-emerald-400"
+                  >
                     ({b.accept.join(' / ')})
                   </span>
                 ))}

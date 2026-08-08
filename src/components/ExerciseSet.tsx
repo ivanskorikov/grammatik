@@ -74,13 +74,15 @@ export function ExerciseSet({ exercise, exerciseKey, onProgress }: ExerciseSetPr
 
   return (
     <div>
-      <p className="mb-6 text-stone-600 italic">{exercise.instructions}</p>
+      <p className="mb-6 text-stone-600 italic dark:text-stone-400">
+        {exercise.instructions}
+      </p>
       {renderExercise()}
 
-      <div className="mt-5 flex flex-wrap items-center gap-4 border-t border-stone-200 pt-4">
+      <div className="mt-5 flex flex-wrap items-center gap-4 border-t border-stone-200 pt-4 dark:border-stone-700">
         <CheckButton onCheck={handleCheck} disabled={!hasInput} />
         {results && (
-          <label className="flex items-center gap-2 text-sm text-stone-600">
+          <label className="flex items-center gap-2 text-sm text-stone-600 dark:text-stone-400">
             <input
               type="checkbox"
               checked={showAnswers}
@@ -92,7 +94,9 @@ export function ExerciseSet({ exercise, exerciseKey, onProgress }: ExerciseSetPr
         {score && (
           <span
             className={`text-sm font-medium ${
-              score.correct === score.total ? 'text-emerald-700' : 'text-stone-600'
+              score.correct === score.total
+                ? 'text-emerald-700 dark:text-emerald-400'
+                : 'text-stone-600 dark:text-stone-400'
             }`}
           >
             {score.correct} / {score.total} correct

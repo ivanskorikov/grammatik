@@ -29,10 +29,10 @@ export function MistakeTooltip({ result, hint, children }: MistakeTooltipProps) 
       {open && (
         <div
           role="tooltip"
-          className="absolute z-50 bottom-full left-0 mb-2 w-72 rounded-lg border border-red-200 bg-white p-3 text-sm shadow-lg"
+          className="absolute bottom-full left-0 z-50 mb-2 w-72 rounded-lg border border-red-200 bg-white p-3 text-sm shadow-lg dark:border-red-900 dark:bg-stone-800"
         >
-          <p className="font-semibold text-red-700">{title}</p>
-          <p className="mt-1 text-gray-700">{body}</p>
+          <p className="font-semibold text-red-700 dark:text-red-400">{title}</p>
+          <p className="mt-1 text-gray-700 dark:text-stone-200">{body}</p>
         </div>
       )}
     </div>
