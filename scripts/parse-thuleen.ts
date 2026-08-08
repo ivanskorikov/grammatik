@@ -146,6 +146,27 @@ function extractHints(html: string): string[] {
   return hints
 }
 
+function extractFollowingResponse(body: string, fromIndex: number): string {
+  const tail = body.slice(fromIndex)
+  const currentRowEnd = tail.search(/<\/tr>/i)
+  if (currentRowEnd === -1) return ''
+
+  const followingRows = tail.slice(currentRowEnd + 5)
+  const nextNumberedRow = followingRows.search(/<td[^>]*>\s*\d+\.\s*<\/td>/i)
+  const beforeNextItem =
+    nextNumberedRow === -1 ? followingRows : followingRows.slice(0, nextNumberedRow)
+  const responseRow = beforeNextItem.match(/<tr>[\s\S]*?<\/tr>/i)?.[0]
+  if (!responseRow) return ''
+
+  const response = stripTags(responseRow).replace(/^\s*-\s*/, '— ').trim()
+  return response.length > 2 ? response : ''
+}
+
+function splitParentheticalSentenceAlternative(answer: string): string[] {
+  const match = answer.match(/^(.+[.!?])\s+\((.+[.!?])\)$/)
+  return match ? [match[1].trim(), match[2].trim()] : [answer]
+}
+
 function splitSections(html: string): { letter: string; header: string; body: string }[] {
   const content = html.replace(/[\s\S]*?<tr><td class="norm" align="left" valign="top">\s*$/m, '')
   const mainMatch = html.match(
@@ -366,7 +387,11 @@ function parseWorksheetSection(
 
       seen.add(num + cellText.slice(0, 20))
 
-      const rawPrompt = cellText.replace(/\s+/g, ' ').trim()
+      let rawPrompt = cellText.replace(/\s+/g, ' ').trim()
+      if (/^_{3,}$/.test(rawPrompt)) {
+        const response = extractFollowingResponse(body, rowRe.lastIndex)
+        if (response) rawPrompt = `${rawPrompt} ${response}`
+      }
       const blankMatches = [...cellHtml.matchAll(/_{3,}/g)]
       const blanks: BlankDef[] = []
 
@@ -376,7 +401,9 @@ function parseWorksheetSection(
           if (!ans) continue
           blanks.push({
             index: b,
-            accept: [ans],
+            accept: /^_{3,}\s+—/.test(rawPrompt)
+              ? splitParentheticalSentenceAlternative(ans)
+              : [ans],
             hint: hints[b] ?? hints[0] ?? null,
           })
         }
@@ -646,7 +673,7 @@ function main() {
       }
       fs.writeFileSync(
         path.join(CONTENT, `${entry.id}.json`),
-        JSON.stringify(section, null, 2),
+        `${JSON.stringify(section, null, 2)}\n`,
         'utf-8',
       )
       report.parsed++
@@ -659,7 +686,10 @@ function main() {
     }
   }
 
-  fs.writeFileSync(path.join(ROOT, 'content/parse-report.json'), JSON.stringify(report, null, 2))
+  fs.writeFileSync(
+    path.join(ROOT, 'content/parse-report.json'),
+    `${JSON.stringify(report, null, 2)}\n`,
+  )
   console.log(`\nDone: ${report.parsed} sections, ${report.exercises} exercises, ${report.skipped} skipped`)
 }
 

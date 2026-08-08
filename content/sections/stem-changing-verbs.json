@@ -200,10 +200,10 @@
       "items": [
         {
           "id": "stemchange-C-2",
-          "prompt": "___",
+          "prompt": "___ — Nein, ich sehe nicht gern fern.",
           "promptParts": [
             "",
-            ""
+            "— Nein, ich sehe nicht gern fern."
           ],
           "blanks": [
             {
@@ -221,10 +221,10 @@
         },
         {
           "id": "stemchange-C-3",
-          "prompt": "___",
+          "prompt": "___ — Ja, ich fahre gern Auto!",
           "promptParts": [
             "",
-            ""
+            "— Ja, ich fahre gern Auto!"
           ],
           "blanks": [
             {
@@ -242,10 +242,10 @@
         },
         {
           "id": "stemchange-C-4",
-          "prompt": "___",
+          "prompt": "___ — Nein, ich laufe überhaupt nicht gern.",
           "promptParts": [
             "",
-            ""
+            "— Nein, ich laufe überhaupt nicht gern."
           ],
           "blanks": [
             {
@@ -263,16 +263,17 @@
         },
         {
           "id": "stemchange-C-5",
-          "prompt": "___",
+          "prompt": "___ — Ja, ich lese die Zeitung oft.",
           "promptParts": [
             "",
-            ""
+            "— Ja, ich lese die Zeitung oft."
           ],
           "blanks": [
             {
               "index": 0,
               "accept": [
-                "Liest du oft die Zeitung? (Liest du die Zeitung oft?)"
+                "Liest du oft die Zeitung?",
+                "Liest du die Zeitung oft?"
               ],
               "hint": null
             }
@@ -284,10 +285,10 @@
         },
         {
           "id": "stemchange-C-6",
-          "prompt": "___",
+          "prompt": "___ — Ich schlafe von 1 bis 8 Uhr nachts.",
           "promptParts": [
             "",
-            ""
+            "— Ich schlafe von 1 bis 8 Uhr nachts."
           ],
           "blanks": [
             {
@@ -305,10 +306,10 @@
         },
         {
           "id": "stemchange-C-7",
-          "prompt": "___",
+          "prompt": "___ — Ich lade meinen Freund zur Party ein.",
           "promptParts": [
             "",
-            ""
+            "— Ich lade meinen Freund zur Party ein."
           ],
           "blanks": [
             {
@@ -326,10 +327,10 @@
         },
         {
           "id": "stemchange-C-8",
-          "prompt": "___",
+          "prompt": "___ — Nein, ich trage keine Brille.",
           "promptParts": [
             "",
-            ""
+            "— Nein, ich trage keine Brille."
           ],
           "blanks": [
             {
@@ -347,10 +348,10 @@
         },
         {
           "id": "stemchange-C-9",
-          "prompt": "___",
+          "prompt": "___ — Ja, ich spreche ein bisschen Französisch.",
           "promptParts": [
             "",
-            ""
+            "— Ja, ich spreche ein bisschen Französisch."
           ],
           "blanks": [
             {
@@ -368,10 +369,10 @@
         },
         {
           "id": "stemchange-C-10",
-          "prompt": "___",
+          "prompt": "___ — Ich treffe meine Freunde um 9 Uhr.",
           "promptParts": [
             "",
-            ""
+            "— Ich treffe meine Freunde um 9 Uhr."
           ],
           "blanks": [
             {
